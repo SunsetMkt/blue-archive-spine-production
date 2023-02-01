@@ -1,0 +1,40 @@
+name: Update-JP
+
+on:
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          ref: 'jp' # Get the right branch
+          fetch-depth: '0' # Get all branch first
+      - name: Installing requirements
+        run: |
+          pip install -r requirements.txt 
+      - name: Retrieving models
+        run: |
+          python ./py/getModelsJapan.py
+      - name: Generating models.json
+        run: |
+          python ./py/generateModelsJson.py
+      - name: Generating audio.json
+        run: |
+          python ./py/generateAudioJsonJapan.py
+      - name: Commit files
+        run: |
+          git add .
+          git config --global user.email "bot@github.com"
+          git config --global user.name "Github Bot"
+          git commit -m "[Update] $(cat ./data/version.txt)"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
+          branch: jp
