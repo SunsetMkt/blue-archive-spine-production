@@ -1,160 +1,160 @@
 
 CH0198_spr.png
-size: 2048,1024
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 01_normal
-  rotate: true
-  xy: 1581, 698
-  size: 119, 94
-  orig: 119, 94
+  rotate: false
+  xy: 97, 139
+  size: 89, 71
+  orig: 89, 71
   offset: 0, 0
   index: -1
 02_respond
-  rotate: true
-  xy: 1476, 698
-  size: 119, 103
-  orig: 119, 103
+  rotate: false
+  xy: 2, 288
+  size: 89, 77
+  orig: 89, 77
   offset: 0, 0
   index: -1
 03_smile
   rotate: false
-  xy: 351, 514
-  size: 119, 110
-  orig: 119, 110
+  xy: 265, 796
+  size: 90, 82
+  orig: 90, 82
   offset: 0, 0
   index: -1
 04_embarassed
-  rotate: true
-  xy: 1491, 582
-  size: 114, 107
-  orig: 114, 107
+  rotate: false
+  xy: 2, 205
+  size: 86, 80
+  orig: 86, 80
   offset: 0, 0
   index: -1
 05_serious
-  rotate: true
-  xy: 1605, 456
-  size: 119, 94
-  orig: 119, 94
+  rotate: false
+  xy: 99, 67
+  size: 89, 71
+  orig: 89, 71
   offset: 0, 0
   index: -1
 06_depressed
-  rotate: true
-  xy: 1638, 205
-  size: 109, 93
-  orig: 109, 93
+  rotate: false
+  xy: 643, 885
+  size: 82, 70
+  orig: 82, 70
   offset: 0, 0
   index: -1
 07_etc
   rotate: false
-  xy: 2, 159
-  size: 122, 125
-  orig: 122, 125
+  xy: 2, 529
+  size: 91, 94
+  orig: 91, 94
   offset: 0, 0
   index: -1
 08_etc
   rotate: false
-  xy: 215, 577
-  size: 220, 173
-  orig: 220, 173
+  xy: 162, 843
+  size: 165, 130
+  orig: 165, 130
   offset: 0, 0
   index: -1
 09_etc
-  rotate: true
-  xy: 1618, 325
-  size: 121, 88
-  orig: 121, 88
+  rotate: false
+  xy: 643, 956
+  size: 91, 66
+  orig: 91, 66
   offset: 0, 0
   index: -1
 10_etc
   rotate: false
-  xy: 715, 695
-  size: 138, 121
-  orig: 138, 121
+  xy: 537, 932
+  size: 104, 91
+  orig: 104, 91
   offset: 0, 0
   index: -1
 11_etc
   rotate: false
-  xy: 2, 52
-  size: 119, 106
-  orig: 119, 106
+  xy: 2, 448
+  size: 90, 79
+  orig: 90, 79
   offset: 0, 0
   index: -1
 12_etc
-  rotate: true
-  xy: 1523, 326
-  size: 128, 93
-  orig: 128, 93
+  rotate: false
+  xy: 2, 60
+  size: 96, 70
+  orig: 96, 70
   offset: 0, 0
   index: -1
 13_etc
-  rotate: true
-  xy: 1549, 79
-  size: 125, 92
-  orig: 125, 92
+  rotate: false
+  xy: 93, 347
+  size: 94, 69
+  orig: 94, 69
   offset: 0, 0
   index: -1
 14_etc
-  rotate: true
-  xy: 1507, 456
-  size: 125, 96
-  orig: 125, 96
+  rotate: false
+  xy: 2, 131
+  size: 94, 72
+  orig: 94, 72
   offset: 0, 0
   index: -1
 15_etc
-  rotate: true
-  xy: 1538, 205
-  size: 118, 98
-  orig: 118, 98
+  rotate: false
+  xy: 89, 212
+  size: 89, 73
+  orig: 89, 73
   offset: 0, 0
   index: -1
 CH0198
   rotate: false
-  xy: 2, 3
-  size: 978, 814
-  orig: 1065, 1421
+  xy: 2, 412
+  size: 734, 611
+  orig: 799, 1066
   offset: 0, 0
   index: -1
 CH01989
-  rotate: true
-  xy: 888, 25
-  size: 747, 659
-  orig: 1065, 1421
-  offset: 297, 721
+  rotate: false
+  xy: 446, 3
+  size: 561, 495
+  orig: 799, 1066
+  offset: 222, 540
   index: -1
 default
   rotate: false
-  xy: 437, 707
-  size: 119, 109
-  orig: 119, 109
+  xy: 329, 941
+  size: 89, 82
+  orig: 89, 82
   offset: 0, 0
   index: -1
 eyeclose
   rotate: false
-  xy: 922, 34
-  size: 116, 106
-  orig: 118, 109
+  xy: 2, 366
+  size: 87, 80
+  orig: 89, 82
   offset: 1, 1
   index: -1
 eyeclose2
-  rotate: true
-  xy: 1605, 576
-  size: 119, 94
-  orig: 119, 94
+  rotate: false
+  xy: 180, 274
+  size: 89, 71
+  orig: 89, 71
   offset: 0, 0
   index: -1
 halo_01
   rotate: false
-  xy: 416, 392
-  size: 119, 120
-  orig: 119, 120
+  xy: 313, 703
+  size: 89, 90
+  orig: 89, 90
   offset: 0, 0
   index: -1
 halo_02
   rotate: false
-  xy: 2, 611
-  size: 216, 205
-  orig: 218, 205
-  offset: 1, 0
+  xy: 2, 869
+  size: 163, 154
+  orig: 163, 154
+  offset: 0, 0
   index: -1
