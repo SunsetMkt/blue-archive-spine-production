@@ -6,51 +6,58 @@ filter: Linear,Linear
 repeat: none
 01_normal
   rotate: false
-  xy: 2, 476
+  xy: 465, 821
   size: 119, 73
   orig: 119, 73
   offset: 0, 0
   index: -1
 02_respond
   rotate: false
-  xy: 413, 900
+  xy: 2, 468
   size: 119, 78
   orig: 119, 78
   offset: 0, 0
   index: -1
 03_smile
   rotate: false
-  xy: 2, 720
+  xy: 2, 633
   size: 118, 85
   orig: 118, 85
   offset: 0, 0
   index: -1
 04_embarrass
   rotate: false
-  xy: 122, 510
+  xy: 122, 464
   size: 87, 81
   orig: 87, 81
   offset: 0, 0
   index: -1
 05_serious
   rotate: false
-  xy: 2, 551
+  xy: 416, 895
   size: 119, 83
   orig: 119, 83
   offset: 0, 0
   index: -1
 06_depressed
   rotate: false
-  xy: 464, 823
+  xy: 2, 191
   size: 106, 76
   orig: 106, 76
   offset: 0, 0
   index: -1
 07
   rotate: false
-  xy: 2, 125
+  xy: 2, 48
   size: 96, 66
   orig: 96, 66
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 719
+  size: 120, 86
+  orig: 120, 86
   offset: 0, 0
   index: -1
 Hair_Cover_01
@@ -69,14 +76,14 @@ Halo
   index: -1
 default
   rotate: false
-  xy: 2, 635
+  xy: 2, 547
   size: 119, 83
   orig: 119, 83
   offset: 0, 0
   index: -1
 eyeclose
   rotate: false
-  xy: 2, 194
+  xy: 2, 116
   size: 94, 73
   orig: 94, 73
   offset: 0, 0
