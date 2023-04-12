@@ -1,1 +1,1 @@
-https://prod-clientpatch.bluearchiveyostar.com/r53_1_29_k9al0rwmplkqmj9cn3ap/Android/bundleDownloadInfo.json
+https://prod-clientpatch.bluearchiveyostar.com/r54_1_30_x0huh6txq99pip8ux43n/Android/bundleDownloadInfo.json
