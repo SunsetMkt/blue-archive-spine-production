@@ -1,6 +1,8 @@
 # blue-archive-spine
 Based on [respectZ/blue-archive-spine](https://github.com/respectZ/blue-archive-spine)
 
+**Blue Archive is a registered trademark of NAT GAMES Co., Ltd. This repo is not affiliated with NEXON Korea Corp. & NEXON GAMES Co., Ltd. All game resources are copyrighted to the respective owners.**
+
 ## Quick Start
 * Use this template
 * Create `jp` and `global` branch from `resourceless`
@@ -23,13 +25,13 @@ This repo is a fork of [respectZ/blue-archive-spine](https://github.com/respectZ
 
 `blue-archive-spine` is a tool to download and view the character arts and animations (Memorial Lobby) of the game [Blue Archive](https://bluearchive.nexon.com/home).
 
-It's recommneded to use GitHub Actions to download the resources automatically. If you want to download the resources manually, please refer to the original README.
+It's recommneded to use GitHub Actions to download the resources automatically. If you want to download the resources manually, please refer to the original README. Attention: Do not open `index.html` locally, all resource must be served with an HTTP server.
 
 ## License
 This repo is based on the work of @respectZ and @LXY1226 . The original repo doesn't have a license, so I'm not sure if it can be used for any purpose.
 
 ## Disclaimer
-Blue Archive is a registered trademark of NAT GAMES Co., Ltd. This repo is not affiliated with NEXON Korea Corp. & NEXON GAMES Co., Ltd.
+**Blue Archive is a registered trademark of NAT GAMES Co., Ltd. This repo is not affiliated with NEXON Korea Corp. & NEXON GAMES Co., Ltd. All game resources are copyrighted to the respective owners.**
 
 ## The following is the original README.
 
