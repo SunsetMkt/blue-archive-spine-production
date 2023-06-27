@@ -4,87 +4,143 @@ size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-00_default
+01_nomal
   rotate: true
-  xy: 809, 547
-  size: 130, 132
-  orig: 130, 132
-  offset: 0, 0
-  index: -1
-01_normal
-  rotate: false
-  xy: 677, 813
-  size: 130, 132
-  orig: 130, 132
+  xy: 460, 80
+  size: 127, 74
+  orig: 127, 74
   offset: 0, 0
   index: -1
 02_respond
   rotate: false
-  xy: 677, 679
-  size: 130, 132
-  orig: 130, 132
+  xy: 129, 47
+  size: 127, 74
+  orig: 127, 74
   offset: 0, 0
   index: -1
 03_smile
-  rotate: false
-  xy: 677, 545
-  size: 130, 132
-  orig: 130, 132
+  rotate: true
+  xy: 915, 876
+  size: 118, 77
+  orig: 118, 77
   offset: 0, 0
   index: -1
-04_embarrassd
+04_embarassed
   rotate: true
-  xy: 677, 413
-  size: 130, 132
-  orig: 130, 132
+  xy: 2, 428
+  size: 127, 73
+  orig: 127, 73
   offset: 0, 0
   index: -1
 05_serious
-  rotate: true
-  xy: 677, 281
-  size: 130, 132
-  orig: 130, 132
+  rotate: false
+  xy: 330, 71
+  size: 127, 84
+  orig: 127, 84
   offset: 0, 0
   index: -1
-06_depressed
-  rotate: false
-  xy: 809, 813
-  size: 130, 132
-  orig: 130, 132
+06_despressed
+  rotate: true
+  xy: 918, 569
+  size: 119, 73
+  orig: 119, 73
   offset: 0, 0
   index: -1
 07
   rotate: false
-  xy: 809, 679
-  size: 130, 132
-  orig: 130, 132
+  xy: 608, 345
+  size: 127, 77
+  orig: 127, 77
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 787, 821
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 79
+  size: 126, 112
+  orig: 126, 112
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 712, 73
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 903, 691
+  size: 127, 73
+  orig: 127, 73
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2, 591
+  size: 127, 80
+  orig: 127, 80
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 650, 425
+  size: 127, 75
+  orig: 127, 75
+  offset: 0, 0
+  index: -1
+Sakurako
+  rotate: false
+  xy: 2, 208
+  size: 788, 788
+  orig: 788, 1353
+  offset: 0, 565
+  index: -1
+Sakurako2
+  rotate: false
+  xy: 726, 210
+  size: 209, 609
+  orig: 788, 1353
+  offset: 346, 0
+  index: -1
+default
+  rotate: true
+  xy: 842, 91
+  size: 127, 74
+  orig: 127, 74
   offset: 0, 0
   index: -1
 eyeclose
-  rotate: false
-  xy: 811, 413
-  size: 130, 132
-  orig: 130, 132
-  offset: 0, 0
-  index: -1
-halo
-  rotate: false
-  xy: 2, 2
-  size: 306, 234
-  orig: 306, 234
-  offset: 0, 0
-  index: -1
-sakurako_1
-  rotate: false
-  xy: 2, 238
-  size: 673, 707
-  orig: 673, 707
-  offset: 0, 0
-  index: -1
-sakurako_2
   rotate: true
-  xy: 310, 12
-  size: 224, 590
-  orig: 224, 590
+  xy: 918, 104
+  size: 119, 74
+  orig: 119, 74
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 26, 863
+  size: 157, 131
+  orig: 157, 131
+  offset: 0, 0
+  index: -1
+halo_01
+  rotate: 180
+  xy: 96, 124
+  size: 294, 224
+  orig: 294, 224
+  offset: 0, 0
+  index: -1
+halo_02
+  rotate: 270
+  xy: 542, 63
+  size: 280, 207
+  orig: 280, 207
   offset: 0, 0
   index: -1

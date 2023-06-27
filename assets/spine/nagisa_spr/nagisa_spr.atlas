@@ -1,167 +1,174 @@
 
 nagisa_spr.png
-size: 1024,1024
+size: 2048,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-01_normal
-  rotate: true
-  xy: 672, 76
-  size: 88, 65
-  orig: 88, 65
-  offset: 0, 0
-  index: -1
 00_default
   rotate: true
-  xy: 672, 76
-  size: 88, 65
-  orig: 88, 65
+  xy: 1022, 5
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+01_normal
+  rotate: true
+  xy: 1022, 5
+  size: 107, 84
+  orig: 107, 84
   offset: 0, 0
   index: -1
 02_respond
   rotate: false
-  xy: 166, 464
-  size: 88, 67
-  orig: 88, 67
+  xy: 817, 445
+  size: 107, 86
+  orig: 107, 86
   offset: 0, 0
   index: -1
-03_smlie
-  rotate: true
-  xy: 680, 591
-  size: 88, 65
-  orig: 88, 65
-  offset: 0, 0
-  index: -1
-04_embarrass
+03_smile
   rotate: false
-  xy: 2, 674
-  size: 88, 69
-  orig: 88, 69
+  xy: 914, 113
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 110, 24
+  size: 108, 88
+  orig: 108, 88
   offset: 0, 0
   index: -1
 05_serious
   rotate: false
-  xy: 518, 459
-  size: 88, 66
-  orig: 88, 66
+  xy: 988, 910
+  size: 107, 86
+  orig: 107, 86
   offset: 0, 0
   index: -1
 06_depressed
-  rotate: true
-  xy: 689, 682
-  size: 88, 66
-  orig: 88, 66
-  offset: 0, 0
-  index: -1
-07_smlie_evil
   rotate: false
-  xy: 590, 527
-  size: 88, 66
-  orig: 88, 66
+  xy: 914, 27
+  size: 106, 84
+  orig: 106, 84
   offset: 0, 0
   index: -1
-08_smlie_evil2
-  rotate: true
-  xy: 690, 771
-  size: 88, 66
-  orig: 88, 66
-  offset: 0, 0
-  index: -1
-09_drop_shadow
+07
   rotate: false
-  xy: 2, 961
-  size: 75, 62
-  orig: 75, 62
+  xy: 806, 78
+  size: 107, 85
+  orig: 107, 85
   offset: 0, 0
   index: -1
-09_smlie_evil3
+08
   rotate: true
-  xy: 609, 437
-  size: 88, 66
-  orig: 88, 66
+  xy: 1108, 43
+  size: 102, 84
+  orig: 102, 84
   offset: 0, 0
   index: -1
-10_smlie_evil4
-  rotate: true
-  xy: 691, 861
-  size: 88, 66
-  orig: 88, 66
-  offset: 0, 0
-  index: -1
-11_embarrass_tsundere
-  rotate: true
-  xy: 635, 347
-  size: 88, 66
-  orig: 88, 66
-  offset: 0, 0
-  index: -1
-12_embarrass_like
+09
   rotate: false
-  xy: 691, 950
-  size: 88, 65
-  orig: 88, 65
+  xy: 880, 903
+  size: 107, 93
+  orig: 107, 93
   offset: 0, 0
   index: -1
-13_serious_complain
-  rotate: true
-  xy: 648, 257
-  size: 88, 66
-  orig: 88, 66
-  offset: 0, 0
-  index: -1
-14_serious_pretty
+10
   rotate: false
-  xy: 619, 2
-  size: 88, 66
-  orig: 88, 66
+  xy: 880, 809
+  size: 106, 93
+  orig: 106, 93
   offset: 0, 0
   index: -1
-15_serious_evil
-  rotate: true
-  xy: 662, 166
-  size: 88, 66
-  orig: 88, 66
+11
+  rotate: false
+  xy: 783, 300
+  size: 108, 85
+  orig: 108, 85
   offset: 0, 0
   index: -1
-16_depressed_worried
-  rotate: true
-  xy: 703, 411
-  size: 88, 66
-  orig: 88, 66
+12
+  rotate: false
+  xy: 695, 77
+  size: 108, 85
+  orig: 108, 85
   offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 806, 164
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 914, 199
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 48
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 893, 286
+  size: 106, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+diorama
+  rotate: true
+  xy: 33, 3
+  size: 483, 486
+  orig: 906, 1034
+  offset: 0, 548
+  index: -1
+diorama1
+  rotate: false
+  xy: 2, 193
+  size: 877, 803
+  orig: 906, 1034
+  offset: 29, 0
   index: -1
 eyeclose
   rotate: true
-  xy: 680, 501
-  size: 88, 65
-  orig: 88, 65
+  xy: 1024, 148
+  size: 106, 84
+  orig: 106, 84
   offset: 0, 0
   index: -1
-front_hair
-  rotate: true
-  xy: 716, 317
-  size: 92, 59
-  orig: 92, 59
-  offset: 0, 0
+front hair
+  rotate: false
+  xy: 2, 368
+  size: 131, 97
+  orig: 131, 99
+  offset: 0, 2
   index: -1
 halo
   rotate: false
-  xy: 2, 473
-  size: 194, 167
-  orig: 194, 169
-  offset: 0, 1
+  xy: 415, 11
+  size: 278, 206
+  orig: 278, 206
+  offset: 0, 0
   index: -1
 nagisa
   rotate: false
-  xy: 2, 461
-  size: 689, 563
-  orig: 692, 978
-  offset: 0, 415
+  xy: 810, 255
+  size: 687, 741
+  orig: 740, 1196
+  offset: 53, 455
   index: -1
-nagisa1
-  rotate: 180
-  xy: 2, 22
-  size: 670, 442
-  orig: 692, 978
-  offset: 22, 0
+nagisa2
+  rotate: false
+  xy: 1361, 256
+  size: 589, 670
+  orig: 740, 1196
+  offset: 0, 0
   index: -1
