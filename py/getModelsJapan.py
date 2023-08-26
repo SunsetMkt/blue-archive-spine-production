@@ -11,7 +11,7 @@ option = {
     "skipExistingAssets": True
 }
 
-ba_api = "https://yostar-serverinfo.bluearchiveyostar.com/r58_xv37ys4jv6exs7abqw6o.json"
+ba_api = "https://yostar-serverinfo.bluearchiveyostar.com/r59_zvevcxs50eiicm1wul6h.json"
 
 ba_api2 = "https://prod-noticeindex.bluearchiveyostar.com/prod/index.json"
 
