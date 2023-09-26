@@ -110,16 +110,16 @@ CH0087_copy
   offset: 91, 1
   index: -1
 eyeclose
-  rotate: false
-  xy: 652, 4
+  rotate: true
+  xy: 682, 657
   size: 102, 70
   orig: 102, 70
   offset: 0, 0
   index: -1
-halo
+halo2
   rotate: false
-  xy: 483, 657
-  size: 206, 137
-  orig: 206, 137
+  xy: 489, 657
+  size: 191, 133
+  orig: 191, 133
   offset: 0, 0
   index: -1
