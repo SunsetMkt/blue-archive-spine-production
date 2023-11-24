@@ -48,7 +48,7 @@ default
   index: -1
 06_depressed
   rotate: false
-  xy: 580, 202
+  xy: 559, 199
   size: 119, 77
   orig: 119, 77
   offset: 0, 0
@@ -97,7 +97,7 @@ default
   index: -1
 13
   rotate: false
-  xy: 459, 184
+  xy: 438, 181
   size: 119, 76
   orig: 119, 76
   offset: 0, 0
@@ -139,8 +139,8 @@ CH0224_2
   index: -1
 CH0224_3
   rotate: 180
-  xy: 686, 16
-  size: 335, 310
+  xy: 680, 16
+  size: 342, 310
   orig: 861, 1244
   offset: 0, 26
   index: -1
@@ -167,7 +167,7 @@ halo_01
   index: -1
 halo_02
   rotate: 180
-  xy: 440, 4
+  xy: 436, 3
   size: 373, 163
   orig: 373, 163
   offset: 0, 0
