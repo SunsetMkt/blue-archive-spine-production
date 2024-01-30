@@ -5,128 +5,156 @@ format: RGBA8888
 filter: Linear,Linear
 repeat: none
 00_default
-  rotate: false
-  xy: 356, 95
-  size: 115, 90
-  orig: 115, 90
+  rotate: true
+  xy: 603, 826
+  size: 105, 87
+  orig: 105, 87
   offset: 0, 0
   index: -1
 01_normal
-  rotate: false
-  xy: 414, 12
-  size: 115, 81
-  orig: 115, 81
+  rotate: true
+  xy: 693, 914
+  size: 105, 80
+  orig: 105, 80
   offset: 0, 0
   index: -1
 02_respond
   rotate: false
-  xy: 298, 9
-  size: 115, 84
-  orig: 115, 84
+  xy: 648, 15
+  size: 105, 83
+  orig: 105, 83
   offset: 0, 0
   index: -1
 03_smile
-  rotate: false
-  xy: 184, 87
-  size: 111, 92
-  orig: 111, 92
+  rotate: true
+  xy: 609, 207
+  size: 103, 90
+  orig: 103, 90
   offset: 0, 0
   index: -1
 04_embarrassed
-  rotate: false
-  xy: 581, 298
-  size: 115, 92
-  orig: 115, 92
+  rotate: true
+  xy: 549, 91
+  size: 112, 90
+  orig: 112, 90
   offset: 0, 0
   index: -1
 05_serious
-  rotate: false
-  xy: 707, 9
-  size: 115, 85
-  orig: 115, 85
+  rotate: true
+  xy: 671, 385
+  size: 107, 82
+  orig: 107, 82
   offset: 0, 0
   index: -1
 06_depressed
   rotate: false
-  xy: 590, 22
-  size: 115, 85
-  orig: 115, 85
+  xy: 555, 933
+  size: 112, 83
+  orig: 112, 83
   offset: 0, 0
   index: -1
 07
-  rotate: false
-  xy: 473, 101
-  size: 115, 90
-  orig: 115, 90
+  rotate: true
+  xy: 582, 312
+  size: 112, 87
+  orig: 112, 87
   offset: 0, 0
   index: -1
 08
-  rotate: false
-  xy: 885, 45
-  size: 115, 87
-  orig: 115, 87
+  rotate: true
+  xy: 640, 100
+  size: 105, 85
+  orig: 105, 85
   offset: 0, 0
   index: -1
 09
-  rotate: false
-  xy: 2, 28
-  size: 115, 86
-  orig: 115, 86
+  rotate: true
+  xy: 646, 718
+  size: 105, 84
+  orig: 105, 84
   offset: 0, 0
   index: -1
 10
-  rotate: false
-  xy: 590, 110
-  size: 115, 92
-  orig: 115, 92
+  rotate: true
+  xy: 555, 693
+  size: 112, 90
+  orig: 112, 90
   offset: 0, 0
   index: -1
 11
+  rotate: true
+  xy: 504, 807
+  size: 125, 98
+  orig: 125, 98
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 509, 204
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 609, 494
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 679, 614
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+15
   rotate: false
-  xy: 2, 117
-  size: 128, 100
-  orig: 128, 100
+  xy: 540, 3
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 572, 602
+  size: 105, 89
+  orig: 105, 89
   offset: 0, 0
   index: -1
 CH0124
   rotate: false
-  xy: 2, 180
-  size: 628, 521
-  orig: 628, 989
-  offset: 0, 468
-  index: -1
-CH01242
-  rotate: 270
-  xy: 496, 95
-  size: 606, 507
-  orig: 628, 989
-  offset: 22, 0
+  xy: 2, 36
+  size: 606, 984
+  orig: 606, 984
+  offset: 0, 0
   index: -1
 eyeclose
-  rotate: false
-  xy: 118, 3
-  size: 107, 81
-  orig: 107, 81
+  rotate: true
+  xy: 148, 921
+  size: 98, 80
+  orig: 98, 80
   offset: 0, 0
   index: -1
-glasses_defualt
+galsses
   rotate: false
-  xy: 630, 637
-  size: 128, 63
-  orig: 128, 63
-  offset: 0, 0
+  xy: 2, 962
+  size: 124, 58
+  orig: 125, 59
+  offset: 1, 0
   index: -1
 halo
-  rotate: true
-  xy: 2, 154
-  size: 199, 181
-  orig: 199, 181
+  rotate: false
+  xy: 361, 844
+  size: 192, 175
+  orig: 192, 175
   offset: 0, 0
   index: -1
-mask_defualt
+mask
   rotate: false
-  xy: 597, 525
-  size: 85, 28
-  orig: 85, 28
+  xy: 2, 861
+  size: 82, 28
+  orig: 82, 28
   offset: 0, 0
   index: -1
