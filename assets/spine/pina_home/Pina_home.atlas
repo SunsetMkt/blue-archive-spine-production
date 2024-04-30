@@ -34,7 +34,7 @@ B_L_handcover_01
   index: -1
 B_L_handcover_02
   rotate: 270
-  xy: 712, 54
+  xy: 86, 432
   size: 128, 166
   orig: 128, 167
   offset: 0, 0
@@ -48,7 +48,7 @@ B_R_arm_01
   index: -1
 B_R_arm_02
   rotate: false
-  xy: 1904, 75
+  xy: 1252, 79
   size: 75, 90
   orig: 76, 139
   offset: 0, 48
@@ -62,7 +62,7 @@ B_R_hair_01
   index: -1
 B_R_hair_04
   rotate: false
-  xy: 460, 1079
+  xy: 1775, 754
   size: 73, 67
   orig: 74, 68
   offset: 1, 1
@@ -146,7 +146,7 @@ B_ponytail_04
   index: -1
 B_ponytail_05
   rotate: false
-  xy: 1084, 1186
+  xy: 1590, 1182
   size: 87, 45
   orig: 88, 48
   offset: 1, 2
@@ -167,7 +167,7 @@ B_ponytail_07
   index: -1
 B_ponytail_08
   rotate: true
-  xy: 89, 490
+  xy: 931, 1079
   size: 123, 225
   orig: 124, 260
   offset: 1, 0
@@ -237,7 +237,7 @@ L_breast_03
   index: -1
 L_eye_01
   rotate: false
-  xy: 66, 1587
+  xy: 1269, 1904
   size: 28, 21
   orig: 28, 22
   offset: 0, 1
@@ -265,28 +265,28 @@ L_eye_P_01
   index: -1
 L_eye_P_02
   rotate: false
-  xy: 160, 1984
+  xy: 179, 1984
   size: 9, 9
   orig: 11, 11
   offset: 1, 1
   index: -1
 L_eyebrow_angry
   rotate: false
-  xy: 1598, 1178
+  xy: 1790, 1116
   size: 107, 21
   orig: 107, 22
   offset: 0, 1
   index: -1
 L_eyebrow_default
   rotate: false
-  xy: 380, 1086
+  xy: 1062, 1078
   size: 90, 46
   orig: 90, 46
   offset: 0, 0
   index: -1
 L_eyebrow_depressed
   rotate: false
-  xy: 534, 1137
+  xy: 1188, 1845
   size: 89, 50
   orig: 89, 50
   offset: 0, 0
@@ -307,42 +307,42 @@ L_eyebrow_serious
   index: -1
 L_eyebrow_surprise
   rotate: false
-  xy: 1800, 1115
+  xy: 510, 1123
   size: 84, 56
   orig: 85, 56
   offset: 1, 0
   index: -1
 L_eyelash_close
   rotate: false
-  xy: 1594, 89
+  xy: 1037, 889
   size: 119, 54
   orig: 120, 55
   offset: 1, 1
   index: -1
 L_eyelash_default
   rotate: false
-  xy: 1680, 58
+  xy: 1646, 64
   size: 134, 79
   orig: 135, 80
   offset: 1, 1
   index: -1
 L_eyelash_halfclose
   rotate: false
-  xy: 1424, 59
+  xy: 1116, 75
   size: 135, 69
   orig: 136, 71
   offset: 0, 1
   index: -1
 L_eyelash_smile
   rotate: false
-  xy: 1434, 433
+  xy: 836, 506
   size: 123, 43
   orig: 125, 44
   offset: 0, 1
   index: -1
 L_eyelash_surprise
   rotate: false
-  xy: 1235, 59
+  xy: 381, 63
   size: 135, 81
   orig: 135, 82
   offset: 0, 1
@@ -363,7 +363,7 @@ L_eyelid_halfclose
   index: -1
 L_eyewhite_01
   rotate: false
-  xy: 1015, 1064
+  xy: 1539, 1389
   size: 122, 97
   orig: 122, 97
   offset: 0, 0
@@ -377,7 +377,7 @@ L_finger_01
   index: -1
 L_finger_02
   rotate: false
-  xy: 1007, 893
+  xy: 1505, 1338
   size: 113, 57
   orig: 115, 59
   offset: 1, 1
@@ -391,7 +391,7 @@ L_finger_03
   index: -1
 L_hair_01
   rotate: false
-  xy: 1748, 24
+  xy: 1855, 33
   size: 104, 151
   orig: 104, 152
   offset: 0, 0
@@ -440,7 +440,7 @@ L_hair_07
   index: -1
 L_hair_08
   rotate: false
-  xy: 1425, 1366
+  xy: 1624, 1464
   size: 60, 78
   orig: 63, 80
   offset: 1, 1
@@ -496,7 +496,7 @@ L_ribbon_03
   index: -1
 L_ribbon_04
   rotate: false
-  xy: 63, 474
+  xy: 442, 153
   size: 130, 78
   orig: 131, 80
   offset: 1, 1
@@ -559,7 +559,7 @@ R_arm_05
   index: -1
 R_breast_01
   rotate: true
-  xy: 1108, 72
+  xy: 694, 84
   size: 96, 229
   orig: 97, 229
   offset: 1, 0
@@ -587,7 +587,7 @@ R_eye_01
   index: -1
 R_eye_02
   rotate: false
-  xy: 30, 1805
+  xy: 275, 1868
   size: 20, 17
   orig: 22, 18
   offset: 1, 1
@@ -615,7 +615,7 @@ R_eye_P_02
   index: -1
 R_eyebrow_angry
   rotate: false
-  xy: 336, 1184
+  xy: 463, 1481
   size: 58, 41
   orig: 60, 42
   offset: 0, 1
@@ -629,7 +629,7 @@ R_eyebrow_default
   index: -1
 R_eyebrow_depressed
   rotate: false
-  xy: 899, 1449
+  xy: 922, 1451
   size: 65, 16
   orig: 65, 17
   offset: 0, 1
@@ -643,7 +643,7 @@ R_eyebrow_sad
   index: -1
 R_eyebrow_serious
   rotate: false
-  xy: 1586, 1492
+  xy: 1134, 1822
   size: 56, 41
   orig: 57, 41
   offset: 1, 0
@@ -664,14 +664,14 @@ R_eyelash_close
   index: -1
 R_eyelash_default
   rotate: false
-  xy: 630, 46
+  xy: 1933, 57
   size: 85, 93
   orig: 85, 94
   offset: 0, 1
   index: -1
 R_eyelash_halfclose
   rotate: false
-  xy: 423, 42
+  xy: 1287, 48
   size: 85, 88
   orig: 86, 89
   offset: 0, 1
@@ -685,7 +685,7 @@ R_eyelash_smile
   index: -1
 R_eyelash_surprise
   rotate: false
-  xy: 1945, 46
+  xy: 1785, 49
   size: 85, 93
   orig: 85, 94
   offset: 0, 1
@@ -713,14 +713,14 @@ R_eyewhite_01
   index: -1
 R_finger_01
   rotate: false
-  xy: 388, 70
+  xy: 252, 517
   size: 71, 83
   orig: 72, 84
   offset: 0, 1
   index: -1
 R_finger_01_1
   rotate: false
-  xy: 1051, 1460
+  xy: 1240, 754
   size: 75, 46
   orig: 76, 48
   offset: 1, 2
@@ -783,7 +783,7 @@ R_finger_03_2
   index: -1
 R_finger_04
   rotate: false
-  xy: 1163, 1552
+  xy: 2, 1819
   size: 34, 40
   orig: 35, 43
   offset: 0, 2
@@ -860,7 +860,7 @@ R_hair_02
   index: -1
 R_hand_01
   rotate: false
-  xy: 920, 1045
+  xy: 723, 511
   size: 119, 82
   orig: 125, 84
   offset: 6, 1
@@ -881,7 +881,7 @@ R_hand_02
   index: -1
 R_hand_03
   rotate: false
-  xy: 742, 1202
+  xy: 415, 1063
   size: 61, 69
   orig: 67, 73
   offset: 4, 3
@@ -909,7 +909,7 @@ R_handcover_02_2
   index: -1
 R_necklace_acc_01
   rotate: false
-  xy: 811, 522
+  xy: 920, 1046
   size: 110, 42
   orig: 110, 42
   offset: 0, 0
@@ -993,9 +993,9 @@ hand cup_01
   index: -1
 hand cup_02
   rotate: false
-  xy: 1462, 1372
-  size: 196, 129
-  orig: 200, 130
+  xy: 969, 1411
+  size: 141, 93
+  orig: 143, 93
   offset: 0, 0
   index: -1
 hand cup_04
@@ -1014,7 +1014,7 @@ hand cup_P_01
   index: -1
 hand cup_P_02
   rotate: false
-  xy: 171, 1987
+  xy: 189, 1987
   size: 7, 6
   orig: 8, 8
   offset: 1, 1
@@ -1028,7 +1028,7 @@ hand cup_P_03
   index: -1
 hand cup_P_04
   rotate: false
-  xy: 141, 1986
+  xy: 159, 1986
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
@@ -1042,10 +1042,10 @@ head_01
   index: -1
 leaf_01
   rotate: false
-  xy: 1285, 1914
-  size: 64, 45
-  orig: 66, 49
-  offset: 1, 2
+  xy: 2, 1685
+  size: 45, 33
+  orig: 47, 35
+  offset: 1, 1
   index: -1
 mouth_angry
   rotate: false
@@ -1063,21 +1063,21 @@ mouth_default
   index: -1
 mouth_embarassed_a
   rotate: false
-  xy: 205, 1778
+  xy: 1291, 1921
   size: 40, 41
   orig: 42, 42
   offset: 1, 1
   index: -1
 mouth_embarassed_base
   rotate: false
-  xy: 1135, 1846
+  xy: 1332, 1941
   size: 43, 18
   orig: 44, 23
   offset: 1, 4
   index: -1
 mouth_sad_a
   rotate: false
-  xy: 466, 1498
+  xy: 807, 1505
   size: 53, 26
   orig: 57, 29
   offset: 2, 1
@@ -1091,7 +1091,7 @@ mouth_sad_base
   index: -1
 mouth_smile_a_01
   rotate: false
-  xy: 2, 1686
+  xy: 198, 1770
   size: 61, 31
   orig: 65, 34
   offset: 2, 2
@@ -1105,7 +1105,7 @@ mouth_smile_a_02
   index: -1
 mouth_smile_i
   rotate: false
-  xy: 693, 1212
+  xy: 1091, 1448
   size: 67, 28
   orig: 70, 30
   offset: 1, 1
@@ -1133,14 +1133,14 @@ necklace_02
   index: -1
 necklace_03
   rotate: false
-  xy: 804, 1480
+  xy: 1165, 1548
   size: 49, 42
   orig: 63, 53
   offset: 0, 0
   index: -1
 nose_01
   rotate: false
-  xy: 153, 1982
+  xy: 172, 1982
   size: 9, 11
   orig: 10, 13
   offset: 0, 1
@@ -1189,7 +1189,7 @@ ponytail_04
   index: -1
 ponytail_05
   rotate: false
-  xy: 1843, 351
+  xy: 490, 58
   size: 203, 64
   orig: 215, 75
   offset: 12, 0
@@ -1217,7 +1217,7 @@ steam_01_1
   index: -1
 steam_01_2
   rotate: false
-  xy: 733, 529
+  xy: 1968, 367
   size: 78, 63
   orig: 80, 65
   offset: 1, 1
@@ -1231,7 +1231,7 @@ steam_02_1
   index: -1
 steam_02_2
   rotate: false
-  xy: 2, 1813
+  xy: 1124, 1832
   size: 35, 34
   orig: 38, 37
   offset: 1, 1
@@ -1252,7 +1252,7 @@ table cup_01
   index: -1
 table cup_03
   rotate: false
-  xy: 1562, 1363
+  xy: 711, 1214
   size: 89, 66
   orig: 89, 66
   offset: 0, 0
@@ -1315,7 +1315,7 @@ waist_02
   index: -1
 waist_02_2
   rotate: false
-  xy: 959, 1397
+  xy: 1410, 1366
   size: 133, 86
   orig: 241, 140
   offset: 61, 0
@@ -1329,7 +1329,7 @@ waist_03
   index: -1
 water_01
   rotate: false
-  xy: 1185, 1542
+  xy: 1886, 1518
   size: 35, 49
   orig: 37, 51
   offset: 1, 1
@@ -1343,7 +1343,7 @@ water_02
   index: -1
 water_03
   rotate: false
-  xy: 1793, 1665
+  xy: 2, 1802
   size: 17, 27
   orig: 20, 30
   offset: 1, 2
@@ -1364,35 +1364,35 @@ water_05
   index: -1
 water_06
   rotate: false
-  xy: 116, 1982
+  xy: 145, 1982
   size: 14, 11
   orig: 15, 13
   offset: 1, 1
   index: -1
 water_P_01
   rotate: false
-  xy: 2, 1848
-  size: 16, 29
-  orig: 19, 31
+  xy: 2, 1935
+  size: 11, 21
+  orig: 13, 22
   offset: 1, 1
   index: -1
 water_P_02
   rotate: false
-  xy: 2, 1931
-  size: 13, 21
-  orig: 15, 24
-  offset: 1, 2
+  xy: 1118, 1978
+  size: 9, 15
+  orig: 10, 17
+  offset: 1, 1
   index: -1
 water_P_03
   rotate: false
-  xy: 98, 1719
-  size: 15, 26
-  orig: 18, 29
+  xy: 1063, 1932
+  size: 11, 19
+  orig: 13, 21
   offset: 1, 1
   index: -1
 water_P_04
   rotate: false
-  xy: 2, 1665
+  xy: 228, 1804
   size: 16, 25
   orig: 16, 26
   offset: 0, 0
@@ -1406,63 +1406,63 @@ water_P_05
   index: -1
 water_P_06
   rotate: false
-  xy: 283, 1871
-  size: 39, 15
-  orig: 41, 17
-  offset: 1, 1
+  xy: 98, 1982
+  size: 28, 11
+  orig: 30, 12
+  offset: 1, 0
   index: -1
 water_P_07
-  rotate: true
-  xy: 1124, 1818
-  size: 101, 166
-  orig: 102, 167
-  offset: 1, 1
+  rotate: false
+  xy: 271, 741
+  size: 73, 119
+  orig: 73, 119
+  offset: 0, 0
   index: -1
 water_P_07_2
-  rotate: true
-  xy: 1720, 731
-  size: 111, 184
-  orig: 114, 187
-  offset: 2, 0
+  rotate: false
+  xy: 268, 727
+  size: 80, 132
+  orig: 82, 133
+  offset: 1, 0
   index: -1
 water_P_08
-  rotate: true
-  xy: 1146, 1820
-  size: 95, 157
-  orig: 96, 158
+  rotate: false
+  xy: 262, 742
+  size: 68, 112
+  orig: 68, 113
   offset: 0, 0
   index: -1
 water_P_08_2
   rotate: false
-  xy: 2, 4
-  size: 92, 153
-  orig: 94, 154
+  xy: 39, 542
+  size: 66, 109
+  orig: 67, 110
   offset: 1, 0
   index: -1
 waterwave_01_1
   rotate: false
-  xy: 178, 1987
+  xy: 197, 1987
   size: 6, 6
   orig: 8, 8
   offset: 1, 1
   index: -1
 waterwave_01_2
   rotate: false
-  xy: 1127, 1980
+  xy: 1171, 1980
   size: 14, 13
   orig: 16, 15
   offset: 1, 1
   index: -1
 waterwave_01_3
   rotate: false
-  xy: 95, 1983
+  xy: 123, 1983
   size: 20, 10
   orig: 21, 11
   offset: 0, 1
   index: -1
 waterwave_01_4
   rotate: false
-  xy: 1118, 1980
+  xy: 1127, 1980
   size: 10, 13
   orig: 12, 15
   offset: 1, 1
@@ -1476,7 +1476,7 @@ waterwave_02
   index: -1
 waterwave_03
   rotate: false
-  xy: 129, 1981
+  xy: 559, 1981
   size: 10, 13
   orig: 12, 14
   offset: 1, 1
@@ -1622,7 +1622,7 @@ BG/rice_01
   index: -1
 BG/rice_shadow
   rotate: false
-  xy: 201, 1399
+  xy: 2, 1198
   size: 108, 74
   orig: 108, 89
   offset: 0, 14
@@ -1719,15 +1719,15 @@ BG/table cup_01_B
   offset: 2, 3
   index: -1
 BG/table cup_02_C
-  rotate: true
-  xy: 208, 1466
-  size: 199, 136
-  orig: 219, 197
-  offset: 12, 42
+  rotate: false
+  xy: 9, 1294
+  size: 141, 97
+  orig: 156, 141
+  offset: 9, 30
   index: -1
 BG/table cup_03_B
   rotate: false
-  xy: 1895, 1501
+  xy: 208, 1563
   size: 89, 66
   orig: 89, 66
   offset: 0, 0
@@ -1755,7 +1755,7 @@ BG/teapot_shadow
   index: -1
 BG/tofu_01
   rotate: false
-  xy: 1448, 11
+  xy: 206, 1426
   size: 162, 129
   orig: 165, 131
   offset: 2, 2

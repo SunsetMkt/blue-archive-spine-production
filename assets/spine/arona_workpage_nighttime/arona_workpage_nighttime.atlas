@@ -314,7 +314,7 @@ B_00_Leg
   index: -1
 B_00_Neck
   rotate: false
-  xy: 87, 49
+  xy: 1630, 1118
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -384,7 +384,7 @@ B_00_Torso_01
   index: -1
 B_00_Torso_02
   rotate: false
-  xy: 436, 277
+  xy: 547, 212
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
@@ -432,8 +432,8 @@ C_00_B_Hair_02
   offset: 0, 0
   index: -1
 C_00_B_Hair_03
-  rotate: true
-  xy: 402, 291
+  rotate: 180
+  xy: 1931, 1146
   size: 21, 48
   orig: 21, 48
   offset: 0, 0
@@ -468,7 +468,7 @@ C_00_Hairband
   index: -1
 C_00_Hand
   rotate: false
-  xy: 875, 382
+  xy: 1013, 574
   size: 11, 20
   orig: 11, 21
   offset: 0, 1
@@ -622,7 +622,7 @@ C_00_emotion_02_1
   index: -1
 C_00_emotion_02_Close
   rotate: false
-  xy: 1630, 1120
+  xy: 1652, 1120
   size: 19, 16
   orig: 19, 16
   offset: 0, 0
@@ -706,14 +706,14 @@ D_00_F_Hair
   index: -1
 D_00_F_Ribbon
   rotate: false
-  xy: 1083, 886
+  xy: 65, 363
   size: 6, 9
   orig: 8, 9
   offset: 1, 0
   index: -1
 D_00_Hairband
   rotate: false
-  xy: 1508, 1119
+  xy: 1526, 1119
   size: 39, 17
   orig: 39, 19
   offset: 0, 1
@@ -769,14 +769,14 @@ D_00_L_Ribbon_Original
   index: -1
 D_00_L_Ribbon_Pattern_01
   rotate: false
-  xy: 1943, 576
+  xy: 1942, 432
   size: 13, 34
   orig: 13, 36
   offset: 0, 1
   index: -1
 D_00_L_Ribbon_Pattern_02
   rotate: false
-  xy: 1941, 643
+  xy: 1943, 576
   size: 13, 34
   orig: 13, 36
   offset: 0, 1
@@ -797,7 +797,7 @@ D_00_Light
   index: -1
 D_00_Neck
   rotate: false
-  xy: 1168, 1034
+  xy: 1191, 1119
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
@@ -867,7 +867,7 @@ D_00_Skirt
   index: -1
 D_00_T_F_Ribbon
   rotate: false
-  xy: 1178, 1108
+  xy: 1183, 1028
   size: 7, 10
   orig: 7, 11
   offset: 0, 0
@@ -895,21 +895,21 @@ D_00_T_L_Ribbon_Pattern_02
   index: -1
 D_00_T_R_Ribbon_Original
   rotate: false
-  xy: 927, 501
+  xy: 1154, 1121
   size: 36, 15
   orig: 36, 17
   offset: 0, 1
   index: -1
 D_00_T_R_Ribbon_Pattern_01
   rotate: false
-  xy: 1438, 1117
+  xy: 927, 501
   size: 36, 15
   orig: 36, 17
   offset: 0, 1
   index: -1
 D_00_T_R_Ribbon_Pattern_02
   rotate: false
-  xy: 1472, 1121
+  xy: 1490, 1121
   size: 36, 15
   orig: 36, 17
   offset: 0, 1
@@ -979,7 +979,7 @@ E_00_B_L_Ribbon_Original
   index: -1
 E_00_B_L_Ribbon_Pattern
   rotate: false
-  xy: 1045, 543
+  xy: 448, 276
   size: 7, 19
   orig: 8, 20
   offset: 1, 0
@@ -1000,7 +1000,7 @@ E_00_F_Hair_01
   index: -1
 E_00_F_Ribbon
   rotate: false
-  xy: 2, 346
+  xy: 1161, 937
   size: 7, 9
   orig: 7, 10
   offset: 0, 0
@@ -1049,21 +1049,21 @@ E_00_L_Ribbon_Original
   index: -1
 E_00_L_Ribbon_Pattern_01
   rotate: false
-  xy: 148, 126
+  xy: 872, 381
   size: 15, 17
   orig: 15, 18
   offset: 0, 1
   index: -1
 E_00_L_Ribbon_Pattern_02
   rotate: false
-  xy: 546, 211
+  xy: 148, 126
   size: 15, 17
   orig: 15, 18
   offset: 0, 1
   index: -1
 E_00_Neck
   rotate: false
-  xy: 187, 236
+  xy: 1938, 947
   size: 15, 16
   orig: 15, 17
   offset: 0, 1
@@ -1084,28 +1084,28 @@ E_00_R_Hair_02
   index: -1
 E_00_R_Ribbon_Original
   rotate: false
-  xy: 1235, 1034
+  xy: 1166, 1033
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 E_00_R_Ribbon_Pattern_01
   rotate: false
-  xy: 631, 400
+  xy: 1235, 1034
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 E_00_R_Ribbon_Pattern_02
   rotate: false
-  xy: 1010, 574
+  xy: 631, 400
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 E_00_T_F_Ribbon
   rotate: false
-  xy: 1202, 1116
+  xy: 2, 344
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
@@ -1140,14 +1140,14 @@ E_00_T_R_Ribbon_Original
   index: -1
 E_00_T_R_Ribbon_Pattern_01
   rotate: false
-  xy: 1942, 987
+  xy: 1942, 647
   size: 13, 37
   orig: 15, 37
   offset: 1, 0
   index: -1
 E_00_T_R_Ribbon_Pattern_02
   rotate: false
-  xy: 1940, 1147
+  xy: 1942, 987
   size: 13, 37
   orig: 15, 37
   offset: 1, 0
@@ -1189,7 +1189,7 @@ E_00_baND
   index: -1
 E_00_base1
   rotate: false
-  xy: 1932, 1756
+  xy: 1433, 1117
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -1203,7 +1203,7 @@ E_00_emotion_01_0
   index: -1
 E_00_emotion_01_1
   rotate: false
-  xy: 1160, 995
+  xy: 24, 332
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -1224,14 +1224,14 @@ E_00_emotion_02_00
   index: -1
 E_00_emotion_E_00
   rotate: false
-  xy: 23, 331
+  xy: 1101, 840
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 E_00_emotion_E_01
   rotate: false
-  xy: 1182, 1029
+  xy: 1082, 889
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
@@ -1329,21 +1329,21 @@ F_00_0_Torso
   index: -1
 F_00_0_base
   rotate: false
-  xy: 206, 238
-  size: 26, 19
+  xy: 400, 290
+  size: 28, 21
   orig: 28, 21
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 F_00_0_emotion_01
   rotate: false
-  xy: 1160, 1124
+  xy: 1160, 994
   size: 10, 12
   orig: 11, 14
   offset: 0, 1
   index: -1
 F_00_0_emotion_02
   rotate: false
-  xy: 1146, 1131
+  xy: 1178, 1114
   size: 10, 5
   orig: 10, 7
   offset: 0, 1
@@ -1497,10 +1497,10 @@ F_00_emotion_01_close
   index: -1
 F_00base
   rotate: false
-  xy: 1172, 1119
-  size: 28, 16
+  xy: 1458, 1117
+  size: 30, 18
   orig: 30, 18
-  offset: 1, 1
+  offset: 0, 0
   index: -1
 F_01B_L_Hand
   rotate: false
@@ -1511,7 +1511,7 @@ F_01B_L_Hand
   index: -1
 F_01B_Torso_02
   rotate: false
-  xy: 398, 283
+  xy: 192, 239
   size: 41, 18
   orig: 41, 20
   offset: 0, 1
@@ -1700,49 +1700,49 @@ F_01_Skirt_01
   index: -1
 F_01_T_F_Ribbon
   rotate: false
-  xy: 65, 363
+  xy: 668, 476
   size: 8, 6
   orig: 9, 8
   offset: 0, 1
   index: -1
 F_01_T_L_Ribbon_Original
   rotate: false
-  xy: 1541, 1115
+  xy: 209, 65
   size: 28, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 F_01_T_L_Ribbon_Pattern_01
   rotate: false
-  xy: 209, 65
+  xy: 1558, 1114
   size: 28, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 F_01_T_L_Ribbon_Pattern_02
   rotate: false
-  xy: 1563, 1114
+  xy: 79, 47
   size: 28, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 F_01_T_R_Ribbon_Original
   rotate: false
-  xy: 312, 234
+  xy: 430, 280
   size: 16, 32
   orig: 18, 34
   offset: 1, 1
   index: -1
 F_01_T_R_Ribbon_Pattern_01
   rotate: false
-  xy: 1938, 317
+  xy: 312, 234
   size: 16, 32
   orig: 18, 34
   offset: 1, 1
   index: -1
 F_01_T_R_Ribbon_Pattern_02
   rotate: false
-  xy: 1938, 428
+  xy: 1938, 317
   size: 16, 32
   orig: 18, 34
   offset: 1, 1
