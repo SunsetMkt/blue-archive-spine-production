@@ -25,9 +25,9 @@ jobs:
       - name: Generating models.json
         run: |
           python ./py/generateModelsJson.py
-      - name: Generating audio.json
-        run: |
-          python ./py/generateAudioJsonJapan.py
+      # - name: Generating audio.json
+      #   run: |
+      #     python ./py/generateAudioJsonJapan.py
       - name: Commit files
         run: |
           git add .
