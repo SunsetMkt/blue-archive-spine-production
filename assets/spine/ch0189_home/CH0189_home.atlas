@@ -34,7 +34,7 @@ B_Shoes_01
   index: -1
 B_UpperFrill
   rotate: false
-  xy: 1430, 727
+  xy: 1308, 745
   size: 153, 162
   orig: 156, 163
   offset: 2, 0
@@ -42,9 +42,9 @@ B_UpperFrill
 B_UpperFrill_Shadow
   rotate: false
   xy: 817, 822
-  size: 97, 131
+  size: 97, 119
   orig: 99, 133
-  offset: 1, 1
+  offset: 1, 13
   index: -1
 BananaBoat SD
   rotate: false
@@ -55,14 +55,14 @@ BananaBoat SD
   index: -1
 BananaBoatBend
   rotate: false
-  xy: 1011, 178
+  xy: 540, 78
   size: 253, 141
   orig: 255, 144
   offset: 1, 2
   index: -1
 BananaBoat_Handle_1
   rotate: false
-  xy: 624, 110
+  xy: 513, 109
   size: 221, 108
   orig: 223, 109
   offset: 2, 0
@@ -153,56 +153,56 @@ F_Hair_01_00
   index: -1
 F_Hair_01_02
   rotate: false
-  xy: 1478, 841
+  xy: 518, 208
   size: 52, 161
   orig: 52, 162
   offset: 0, 0
   index: -1
 F_Hair_01__01
   rotate: false
-  xy: 1350, 732
+  xy: 429, 183
   size: 121, 201
   orig: 124, 202
   offset: 2, 1
   index: -1
 F_Hair_02
   rotate: false
-  xy: 566, 15
+  xy: 1467, 717
   size: 152, 291
   orig: 153, 292
   offset: 1, 0
   index: -1
 F_Hair_03
   rotate: false
-  xy: 1435, 998
+  xy: 585, 271
   size: 43, 116
   orig: 43, 116
   offset: 0, 0
   index: -1
 F_Hair_04
   rotate: false
-  xy: 1386, 1009
+  xy: 1274, 767
   size: 74, 102
   orig: 75, 103
   offset: 0, 1
   index: -1
 F_Hair_05
   rotate: false
-  xy: 340, 3
+  xy: 466, 130
   size: 232, 249
   orig: 233, 250
   offset: 1, 0
   index: -1
 F_Hair_06
   rotate: false
-  xy: 362, 87
+  xy: 150, 26
   size: 150, 144
   orig: 152, 145
   offset: 2, 1
   index: -1
 F_Hair_07
   rotate: false
-  xy: 1577, 807
+  xy: 1011, 115
   size: 56, 209
   orig: 57, 209
   offset: 1, 0
@@ -237,7 +237,7 @@ Face
   index: -1
 Face_Angry
   rotate: false
-  xy: 2, 103
+  xy: 362, 3
   size: 211, 151
   orig: 211, 151
   offset: 0, 0
@@ -314,14 +314,14 @@ HairStrap_02
   index: -1
 HairStrap_03
   rotate: false
-  xy: 635, 130
+  xy: 1025, 398
   size: 66, 152
   orig: 67, 152
   offset: 0, 0
   index: -1
 HairStrap_04
   rotate: false
-  xy: 1023, 396
+  xy: 538, 221
   size: 82, 156
   orig: 83, 157
   offset: 0, 0
@@ -356,14 +356,14 @@ L_Arm_01
   index: -1
 L_Arm_02
   rotate: false
-  xy: 389, 219
+  xy: 2, 109
   size: 270, 130
   orig: 273, 132
   offset: 1, 1
   index: -1
 L_Arm_02_Shadow
   rotate: false
-  xy: 2, 22
+  xy: 2, 61
   size: 280, 107
   orig: 282, 107
   offset: 1, 0
@@ -398,7 +398,7 @@ L_EyeCover_Angry1
   index: -1
 L_EyeCover_Angry2
   rotate: false
-  xy: 1149, 776
+  xy: 430, 345
   size: 61, 61
   orig: 62, 62
   offset: 1, 1
@@ -510,7 +510,7 @@ L_Eyebrow_Angry
   index: -1
 L_Eyebrow_Idle
   rotate: false
-  xy: 976, 671
+  xy: 1381, 1120
   size: 64, 41
   orig: 64, 41
   offset: 0, 0
@@ -538,7 +538,7 @@ L_Eyebrow_Surprise
   index: -1
 L_Eyelash_Angry1
   rotate: false
-  xy: 390, 292
+  xy: 1159, 769
   size: 78, 60
   orig: 80, 61
   offset: 2, 0
@@ -601,7 +601,7 @@ L_Hair_Tail_01
   index: -1
 L_Hair_Tail_02
   rotate: false
-  xy: 1751, 668
+  xy: 1085, 273
   size: 51, 271
   orig: 54, 349
   offset: 0, 0
@@ -615,17 +615,17 @@ L_Hair_Tail_03
   index: -1
 L_Hair_Tail_1
   rotate: false
-  xy: 237, 3
-  size: 195, 322
+  xy: 235, 3
+  size: 197, 322
   orig: 197, 323
-  offset: 2, 1
+  offset: 0, 1
   index: -1
 L_Hair_Tail_1_Shadow_1
   rotate: false
-  xy: 1361, 1008
-  size: 81, 114
+  xy: 1416, 1004
+  size: 80, 89
   orig: 83, 116
-  offset: 1, 1
+  offset: 1, 26
   index: -1
 L_Hair_Tail_1_Shadow_2
   rotate: false
@@ -643,7 +643,7 @@ L_Hair_Tail_1_Shadow_3
   index: -1
 L_Hair_Tail_2
   rotate: false
-  xy: 1465, 980
+  xy: 2, 180
   size: 75, 92
   orig: 76, 95
   offset: 1, 1
@@ -657,21 +657,21 @@ L_Hair_Tail_3
   index: -1
 L_Hair_Tail_4_00
   rotate: false
-  xy: 638, 3
+  xy: 633, 3
   size: 303, 310
   orig: 303, 311
   offset: 0, 0
   index: -1
 L_Hair_Tail_4_01
   rotate: false
-  xy: 1423, 1009
+  xy: 1721, 1810
   size: 46, 116
   orig: 47, 117
   offset: 1, 0
   index: -1
 L_NeckStrap
   rotate: false
-  xy: 1011, 210
+  xy: 696, 50
   size: 181, 239
   orig: 181, 240
   offset: 0, 1
@@ -895,14 +895,14 @@ R_Ear_Outside
   index: -1
 R_EyeCover_Angry1
   rotate: false
-  xy: 483, 361
+  xy: 1389, 1053
   size: 65, 43
   orig: 66, 46
   offset: 0, 2
   index: -1
 R_EyeCover_Angry2
   rotate: false
-  xy: 1204, 801
+  xy: 483, 372
   size: 63, 42
   orig: 64, 43
   offset: 1, 1
@@ -1049,7 +1049,7 @@ R_Eyelash_Angry1
   index: -1
 R_Eyelash_Angry2
   rotate: false
-  xy: 453, 324
+  xy: 1212, 811
   size: 70, 37
   orig: 75, 42
   offset: 5, 1
@@ -1063,7 +1063,7 @@ R_Eyelash_Closed
   index: -1
 R_Eyelash_Idle
   rotate: false
-  xy: 404, 352
+  xy: 1355, 1008
   size: 78, 43
   orig: 78, 44
   offset: 0, 1
