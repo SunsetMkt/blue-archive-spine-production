@@ -1,5 +1,7 @@
 import json
 import os
+import pathlib
+import json
 
 import requests
 
@@ -21,7 +23,13 @@ if __name__ == "__main__":
     baseUrl = getBaseResourceURL() + '/MediaResources'
     resUrl = baseUrl + '/MediaCatalog.json'
     # https://prod-clientpatch.bluearchiveyostar.com/r47_1_22_46zlzvd7mur326newgu8_2 + /MediaResources/MediaCatalog.json
-    res = requests.get(resUrl).json()["Table"]
+    # res = requests.get(resUrl).json()["Table"]
+
+    with open(pathlib.Path(__file__).parent / 'MediaCatalog.json') as f:
+        data = json.load(f)
+
+    res = data['Table']
+
     for asset in res:
         if "Audio/VOC_JP/" in res[asset]["path"] and "MemorialLobby" in res[asset]["path"]:
             keyEvent = ''.join(
