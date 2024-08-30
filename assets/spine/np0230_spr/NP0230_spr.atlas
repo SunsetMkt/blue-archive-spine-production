@@ -1,0 +1,153 @@
+
+NP0230_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_nomal
+  rotate: true
+  xy: 2, 620
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+02_respond
+  rotate: false
+  xy: 276, 11
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+03_smile
+  rotate: true
+  xy: 610, 477
+  size: 134, 103
+  orig: 134, 103
+  offset: 0, 0
+  index: -1
+04_embarassed
+  rotate: false
+  xy: 416, 9
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+05_serious
+  rotate: false
+  xy: 611, 847
+  size: 133, 100
+  orig: 133, 100
+  offset: 0, 0
+  index: -1
+06_depressed
+  rotate: true
+  xy: 711, 206
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 563, 4
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 131
+  size: 133, 116
+  orig: 133, 116
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 719, 460
+  size: 125, 99
+  orig: 125, 99
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 672, 71
+  size: 133, 99
+  orig: 133, 99
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 569, 206
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 711, 342
+  size: 116, 107
+  orig: 116, 107
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 746, 811
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 604, 341
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 137, 82
+  size: 137, 112
+  orig: 137, 112
+  offset: 0, 0
+  index: -1
+NP0230
+  rotate: false
+  xy: 2, 196
+  size: 456, 751
+  orig: 456, 1553
+  offset: 0, 802
+  index: -1
+NP0230_c
+  rotate: false
+  xy: 346, 120
+  size: 263, 828
+  orig: 456, 1553
+  offset: 76, 0
+  index: -1
+default
+  rotate: true
+  xy: 2, 301
+  size: 138, 110
+  orig: 138, 110
+  offset: 0, 0
+  index: -1
+eyeclose
+  rotate: false
+  xy: 2, 19
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+halo 1
+  rotate: true
+  xy: 757, 480
+  size: 312, 221
+  orig: 312, 221
+  offset: 0, 0
+  index: -1
+halo 2
+  rotate: 180
+  xy: 610, 612
+  size: 187, 197
+  orig: 188, 199
+  offset: 1, 2
+  index: -1

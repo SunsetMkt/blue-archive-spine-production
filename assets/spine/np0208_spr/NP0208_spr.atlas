@@ -1,0 +1,27 @@
+
+NP0208_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halo
+  rotate: false
+  xy: 376, 677
+  size: 228, 84
+  orig: 242, 98
+  offset: 7, 7
+  index: -1
+NP0208
+  rotate: false
+  xy: 357, 3
+  size: 492, 673
+  orig: 1156, 1629
+  offset: 137, 956
+  index: -1
+NP0208_1
+  rotate: false
+  xy: 2, 3
+  size: 489, 1021
+  orig: 1156, 1629
+  offset: 140, 5
+  index: -1

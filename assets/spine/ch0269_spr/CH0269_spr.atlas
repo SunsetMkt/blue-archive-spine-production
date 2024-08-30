@@ -1,0 +1,167 @@
+
+CH0269_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 close
+  rotate: false
+  xy: 458, 216
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 457, 421
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 330, 461
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 410, 23
+  size: 124, 90
+  orig: 124, 90
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 285, 4
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 589, 309
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 461, 316
+  size: 126, 103
+  orig: 126, 103
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 458, 115
+  size: 129, 92
+  orig: 129, 92
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 589, 84
+  size: 123, 92
+  orig: 123, 92
+  offset: 0, 0
+  index: -1
+2 normal
+  rotate: false
+  xy: 841, 224
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+3 respond
+  rotate: false
+  xy: 582, 209
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+4  smile
+  rotate: false
+  xy: 717, 221
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+5 embarassed
+  rotate: false
+  xy: 614, 411
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 830, 35
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 160, 3
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 841, 124
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+CH0269
+  rotate: false
+  xy: 2, 94
+  size: 458, 831
+  orig: 460, 1473
+  offset: 0, 335
+  index: -1
+CH0269_1
+  rotate: 180
+  xy: 678, 578
+  size: 315, 348
+  orig: 460, 1473
+  offset: 87, 0
+  index: -1
+CH0269_2
+  rotate: true
+  xy: 357, 528
+  size: 397, 320
+  orig: 460, 1473
+  offset: 55, 1153
+  index: -1
+Default
+  rotate: false
+  xy: 706, 121
+  size: 122, 98
+  orig: 122, 98
+  offset: 0, 0
+  index: -1
+depressed
+  rotate: false
+  xy: 683, 27
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 745, 324
+  size: 269, 194
+  orig: 269, 194
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 2, 8
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1

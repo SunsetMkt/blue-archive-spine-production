@@ -1,0 +1,27 @@
+
+NP0207_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Halo2
+  rotate: false
+  xy: 471, 605
+  size: 257, 103
+  orig: 257, 103
+  offset: 0, 0
+  index: -1
+NP0207
+  rotate: false
+  xy: 444, 8
+  size: 556, 596
+  orig: 585, 1400
+  offset: 24, 804
+  index: -1
+NP0207_1
+  rotate: false
+  xy: 2, 3
+  size: 577, 847
+  orig: 585, 1400
+  offset: 3, 3
+  index: -1
