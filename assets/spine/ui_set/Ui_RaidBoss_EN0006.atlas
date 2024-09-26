@@ -1,0 +1,146 @@
+
+Ui_RaidBoss_EN0006.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: 180
+  xy: 2, 434
+  size: 450, 308
+  orig: 460, 317
+  offset: 4, 4
+  index: -1
+body_02
+  rotate: false
+  xy: 162, 625
+  size: 109, 100
+  orig: 125, 111
+  offset: 10, 6
+  index: -1
+body_03
+  rotate: false
+  xy: 2, 535
+  size: 497, 489
+  orig: 507, 501
+  offset: 5, 5
+  index: -1
+body_04
+  rotate: false
+  xy: 194, 300
+  size: 126, 134
+  orig: 141, 145
+  offset: 7, 7
+  index: -1
+body_05
+  rotate: true
+  xy: 689, 650
+  size: 373, 326
+  orig: 385, 340
+  offset: 7, 8
+  index: -1
+ear_01
+  rotate: false
+  xy: 916, 380
+  size: 106, 320
+  orig: 118, 331
+  offset: 6, 5
+  index: -1
+ear_02
+  rotate: false
+  xy: 771, 561
+  size: 145, 106
+  orig: 158, 119
+  offset: 6, 6
+  index: -1
+eye_01
+  rotate: false
+  xy: 82, 994
+  size: 35, 29
+  orig: 44, 39
+  offset: 4, 5
+  index: -1
+eye_02
+  rotate: false
+  xy: 56, 960
+  size: 37, 63
+  orig: 50, 74
+  offset: 5, 5
+  index: -1
+eye_03
+  rotate: false
+  xy: 118, 1002
+  size: 13, 22
+  orig: 24, 34
+  offset: 6, 6
+  index: -1
+eye_cover_01
+  rotate: false
+  xy: 2, 674
+  size: 47, 113
+  orig: 61, 129
+  offset: 8, 8
+  index: -1
+eye_cover_02
+  rotate: false
+  xy: 611, 906
+  size: 73, 118
+  orig: 86, 132
+  offset: 7, 7
+  index: -1
+fill_01
+  rotate: true
+  xy: 439, 270
+  size: 221, 483
+  orig: 229, 492
+  offset: 5, 4
+  index: -1
+fill_02
+  rotate: false
+  xy: 486, 447
+  size: 276, 577
+  orig: 283, 589
+  offset: 4, 9
+  index: -1
+head_01
+  rotate: 270
+  xy: 2, 115
+  size: 320, 361
+  orig: 336, 375
+  offset: 8, 7
+  index: -1
+head_02
+  rotate: false
+  xy: 727, 434
+  size: 143, 172
+  orig: 156, 185
+  offset: 6, 6
+  index: -1
+head_03
+  rotate: false
+  xy: 412, 503
+  size: 156, 132
+  orig: 169, 145
+  offset: 6, 5
+  index: -1
+head_04
+  rotate: false
+  xy: 808, 486
+  size: 125, 85
+  orig: 136, 100
+  offset: 6, 8
+  index: -1
+head_05
+  rotate: false
+  xy: 2, 957
+  size: 66, 66
+  orig: 70, 76
+  offset: 4, 5
+  index: -1
+head_06
+  rotate: false
+  xy: 698, 448
+  size: 68, 114
+  orig: 82, 126
+  offset: 6, 5
+  index: -1
