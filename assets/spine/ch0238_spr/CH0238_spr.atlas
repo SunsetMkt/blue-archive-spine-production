@@ -1,146 +1,52 @@
-
 CH0238_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1012,901
+filter:Linear,Linear
+scale:0.5
 00_default
-  rotate: false
-  xy: 435, 130
-  size: 119, 86
-  orig: 119, 86
-  offset: 0, 0
-  index: -1
+bounds:435,18,119,86
 01_nomal
-  rotate: false
-  xy: 435, 130
-  size: 119, 86
-  orig: 119, 86
-  offset: 0, 0
-  index: -1
+bounds:435,18,119,86
 02_respond
-  rotate: false
-  xy: 2, 815
-  size: 119, 91
-  orig: 119, 91
-  offset: 0, 0
-  index: -1
+bounds:2,703,119,91
 03_smile
-  rotate: false
-  xy: 470, 915
-  size: 111, 96
-  orig: 111, 96
-  offset: 0, 0
-  index: -1
+bounds:471,803,111,96
 04_embarassed
-  rotate: false
-  xy: 354, 918
-  size: 114, 94
-  orig: 114, 94
-  offset: 0, 0
-  index: -1
+bounds:355,805,114,94
 05_serious
-  rotate: true
-  xy: 919, 438
-  size: 113, 87
-  orig: 113, 87
-  offset: 0, 0
-  index: -1
+bounds:919,326,113,87
+rotate:90
 06_depressed
-  rotate: false
-  xy: 237, 918
-  size: 115, 94
-  orig: 115, 94
-  offset: 0, 0
-  index: -1
+bounds:122,805,115,94
 07
-  rotate: false
-  xy: 699, 578
-  size: 113, 91
-  orig: 113, 91
-  offset: 0, 0
-  index: -1
+bounds:700,467,113,91
 08
-  rotate: false
-  xy: 121, 917
-  size: 114, 94
-  orig: 114, 94
-  offset: 0, 0
-  index: -1
+bounds:239,805,114,94
 09
-  rotate: false
-  xy: 254, 412
-  size: 114, 91
-  orig: 114, 91
-  offset: 0, 0
-  index: -1
+bounds:254,299,114,91
 10
-  rotate: false
-  xy: 74, 727
-  size: 100, 87
-  orig: 100, 87
-  offset: 0, 0
-  index: -1
+bounds:74,614,100,87
 11
-  rotate: true
-  xy: 919, 553
-  size: 113, 87
-  orig: 113, 87
-  offset: 0, 0
-  index: -1
+bounds:919,441,113,87
+rotate:90
 12
-  rotate: false
-  xy: 723, 916
-  size: 109, 95
-  orig: 109, 95
-  offset: 0, 0
-  index: -1
+bounds:723,804,109,95
 13
-  rotate: false
-  xy: 2, 908
-  size: 118, 103
-  orig: 118, 103
-  offset: 0, 0
-  index: -1
+bounds:2,796,118,103
 14
-  rotate: false
-  xy: 673, 133
-  size: 116, 85
-  orig: 116, 85
-  offset: 0, 0
-  index: -1
+bounds:674,21,116,85
 CH0238
-  rotate: true
-  xy: 416, 180
-  size: 488, 501
-  orig: 739, 1246
-  offset: 168, 745
-  index: -1
+bounds:417,67,488,501
+offsets:168,745,739,1246
+rotate:90
 CH0238_2
-  rotate: false
-  xy: 2, 504
-  size: 737, 508
-  orig: 739, 1246
-  offset: 2, 256
-  index: -1
+bounds:2,391,737,508
+offsets:2,256,739,1246
 CH0238_3
-  rotate: true
-  xy: 2, 115
-  size: 405, 432
-  orig: 739, 1246
-  offset: 160, 2
-  index: -1
+bounds:2,2,405,432
+offsets:160,2,739,1246
+rotate:90
 eyeclose
-  rotate: false
-  xy: 555, 171
-  size: 116, 86
-  orig: 116, 86
-  offset: 0, 0
-  index: -1
+bounds:556,58,116,86
 halo_Light
-  rotate: 270
-  xy: 710, 616
-  size: 346, 300
-  orig: 346, 300
-  offset: 0, 0
-  index: -1
+bounds:710,503,346,300
+rotate:270

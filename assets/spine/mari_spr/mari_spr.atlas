@@ -1,111 +1,42 @@
-
 mari_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 801, 279
-  size: 108, 68
-  orig: 108, 68
-  offset: 0, 0
-  index: -1
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
 00_default
-  rotate: false
-  xy: 801, 279
-  size: 108, 68
-  orig: 108, 68
-  offset: 0, 0
-  index: -1
+bounds:595,338,112,71
+01_normal
+bounds:595,338,112,71
 02_respond
-  rotate: false
-  xy: 691, 260
-  size: 108, 73
-  orig: 108, 73
-  offset: 0, 0
-  index: -1
+bounds:715,391,112,75
 03_smile
-  rotate: false
-  xy: 572, 255
-  size: 117, 78
-  orig: 117, 198
-  offset: 0, 0
-  index: -1
+bounds:123,780,122,81
+offsets:0,0,122,206
 04_embarassed
-  rotate: false
-  xy: 691, 334
-  size: 108, 73
-  orig: 108, 73
-  offset: 0, 0
-  index: -1
+bounds:844,391,112,76
 05_serious
-  rotate: true
-  xy: 2, 376
-  size: 106, 69
-  orig: 106, 69
-  offset: 0, 0
-  index: -1
+bounds:709,317,110,72
 06_depressed
-  rotate: false
-  xy: 2, 733
-  size: 115, 86
-  orig: 115, 205
-  offset: 0, 0
-  index: -1
+bounds:2,785,119,89
+offsets:0,0,119,213
 07
-  rotate: true
-  xy: 881, 423
-  size: 107, 69
-  orig: 114, 198
-  offset: 0, 0
-  index: -1
+bounds:821,317,111,72
+offsets:0,0,119,206
 08
-  rotate: false
-  xy: 801, 349
-  size: 105, 74
-  orig: 105, 74
-  offset: 0, 0
-  index: -1
+bounds:2,376,109,77
 09
-  rotate: false
-  xy: 188, 760
-  size: 114, 82
-  orig: 114, 206
-  offset: 0, 0
-  index: -1
-Halo
-  rotate: false
-  xy: 2, 820
-  size: 184, 141
-  orig: 184, 141
-  offset: 0, 0
-  index: -1
+bounds:595,411,119,85
+offsets:0,0,119,214
 eyeclose
-  rotate: false
-  xy: 188, 844
-  size: 118, 84
-  orig: 118, 198
-  offset: 0, 0
-  index: -1
+bounds:899,463,123,88
+offsets:0,0,123,206
 front hair
-  rotate: false
-  xy: 2, 252
-  size: 129, 115
-  orig: 129, 115
-  offset: 0, 0
-  index: -1
+bounds:195,863,134,120
+rotate:90
+halo
+bounds:2,876,191,146
 mari
-  rotate: false
-  xy: 2, 238
-  size: 569, 723
-  orig: 569, 1223
-  offset: 0, 1
-  index: -1
+bounds:2,270,591,752
+offsets:0,1,591,1272
 mari2
-  rotate: false
-  xy: 526, 425
-  size: 433, 536
-  orig: 569, 1223
-  offset: 136, 687
-  index: -1
+bounds:547,465,450,557
+offsets:141,715,591,1272

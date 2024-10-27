@@ -1,125 +1,43 @@
-
 NP0061_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.58
 00_default
-  rotate: false
-  xy: 848, 92
-  size: 126, 92
-  orig: 126, 92
-  offset: 0, 0
-  index: -1
+	bounds: 669, 130, 126, 92
 01_normal
-  rotate: false
-  xy: 667, 91
-  size: 126, 92
-  orig: 126, 92
-  offset: 0, 0
-  index: -1
+	bounds: 850, 132, 126, 92
 02_respond
-  rotate: false
-  xy: 374, 46
-  size: 126, 91
-  orig: 126, 91
-  offset: 0, 0
-  index: -1
+	bounds: 2, 111, 126, 91
 03_smile
-  rotate: false
-  xy: 223, 10
-  size: 127, 88
-  orig: 127, 88
-  offset: 0, 0
-  index: -1
+	bounds: 130, 75, 127, 88
+	rotate: 90
 04_embarrass
-  rotate: false
-  xy: 848, 186
-  size: 126, 97
-  orig: 126, 97
-  offset: 0, 0
-  index: -1
+	bounds: 925, 440, 126, 97
+	rotate: 90
 05_serious
-  rotate: false
-  xy: 541, 99
-  size: 125, 96
-  orig: 125, 96
-  offset: 0, 0
-  index: -1
+	bounds: 246, 139, 125, 96
 06_depressed
-  rotate: true
-  xy: 130, 41
-  size: 125, 91
-  orig: 125, 91
-  offset: 0, 0
-  index: -1
+	bounds: 373, 83, 125, 91
 07
-  rotate: false
-  xy: 721, 186
-  size: 125, 99
-  orig: 125, 99
-  offset: 0, 0
-  index: -1
+	bounds: 897, 226, 125, 99
 08
-  rotate: false
-  xy: 246, 101
-  size: 126, 97
-  orig: 126, 97
-  offset: 0, 0
-  index: -1
+	bounds: 722, 224, 126, 97
 09
-  rotate: false
-  xy: 649, 299
-  size: 126, 100
-  orig: 126, 100
-  offset: 0, 0
-  index: -1
+	bounds: 649, 335, 126, 100
 10
-  rotate: false
-  xy: 595, 196
-  size: 125, 100
-  orig: 125, 100
-  offset: 0, 0
-  index: -1
+	bounds: 595, 233, 125, 100
 NP0061
-  rotate: 180
-  xy: 663, 285
-  size: 321, 701
-  orig: 734, 1525
-  offset: 323, 0
-  index: -1
+	bounds: 664, 321, 321, 701
+	offsets: 323, 0, 734, 1525
+	rotate: 180
 NP006199
-  rotate: false
-  xy: 2, 139
-  size: 734, 847
-  orig: 734, 1525
-  offset: 0, 678
-  index: -1
+	bounds: 2, 175, 734, 847
+	offsets: 0, 678, 734, 1525
 eyeclose
-  rotate: false
-  xy: 2, 73
-  size: 126, 92
-  orig: 126, 92
-  offset: 0, 0
-  index: -1
+	bounds: 541, 139, 126, 92
 front_hair
-  rotate: false
-  xy: 2, 298
-  size: 128, 81
-  orig: 128, 81
-  offset: 0, 0
-  index: -1
+	bounds: 2, 334, 128, 81
 glass
-  rotate: false
-  xy: 2, 915
-  size: 136, 70
-  orig: 136, 70
-  offset: 0, 0
-  index: -1
+	bounds: 2, 952, 136, 70
 halo
-  rotate: false
-  xy: 2, 167
-  size: 242, 126
-  orig: 242, 126
-  offset: 0, 0
-  index: -1
+	bounds: 2, 204, 242, 126
