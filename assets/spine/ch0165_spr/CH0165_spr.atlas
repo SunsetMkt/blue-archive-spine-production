@@ -1,363 +1,107 @@
-
 CH0165_spr.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 963, 453
-  size: 100, 89
-  orig: 100, 89
-  offset: 0, 0
-  index: -1
+size:2048,1024
+filter:Linear,Linear
+scale:0.5
 00_default
-  rotate: false
-  xy: 963, 453
-  size: 100, 89
-  orig: 100, 89
-  offset: 0, 0
-  index: -1
+bounds:1562,302,100,89
+01_normal
+bounds:1562,302,100,89
 02_respond
-  rotate: false
-  xy: 844, 911
-  size: 102, 97
-  orig: 102, 97
-  offset: 0, 0
-  index: -1
+bounds:1262,430,102,97
 03_smile
-  rotate: false
-  xy: 111, 534
-  size: 99, 101
-  orig: 99, 101
-  offset: 0, 0
-  index: -1
+bounds:1854,775,99,101
 04_embarassed
-  rotate: false
-  xy: 201, 903
-  size: 102, 104
-  orig: 102, 104
-  offset: 0, 0
-  index: -1
+bounds:1121,772,102,104
 05_serious
-  rotate: false
-  xy: 874, 213
-  size: 102, 88
-  orig: 102, 88
-  offset: 0, 0
-  index: -1
+bounds:1089,369,102,88
 06_depressd 1
-  rotate: false
-  xy: 1074, 585
-  size: 97, 85
-  orig: 97, 85
-  offset: 0, 0
-  index: -1
+bounds:1516,215,97,85
 07
-  rotate: false
-  xy: 1073, 362
-  size: 95, 88
-  orig: 95, 88
-  offset: 0, 0
-  index: -1
+bounds:1166,249,95,88
 08
-  rotate: false
-  xy: 982, 32
-  size: 97, 90
-  orig: 97, 90
-  offset: 0, 0
-  index: -1
+bounds:403,286,97,90
 09
-  rotate: false
-  xy: 972, 565
-  size: 100, 88
-  orig: 100, 88
-  offset: 0, 0
-  index: -1
+bounds:1414,297,100,88
 10
-  rotate: false
-  xy: 876, 303
-  size: 97, 93
-  orig: 97, 93
-  offset: 0, 0
-  index: -1
+bounds:1694,355,97,93
 11
-  rotate: false
-  xy: 1277, 82
-  size: 93, 93
-  orig: 93, 93
-  offset: 0, 0
-  index: -1
+bounds:1891,186,93,93
 12
-  rotate: false
-  xy: 975, 357
-  size: 97, 95
-  orig: 97, 95
-  offset: 0, 0
-  index: -1
+bounds:1793,277,97,95
 13
-  rotate: false
-  xy: 872, 118
-  size: 97, 93
-  orig: 97, 93
-  offset: 0, 0
-  index: -1
+bounds:1463,388,97,93
 16
-  rotate: false
-  xy: 872, 118
-  size: 97, 93
-  orig: 97, 93
-  offset: 0, 0
-  index: -1
+bounds:1463,388,97,93
 14
-  rotate: false
-  xy: 866, 651
-  size: 101, 98
-  orig: 101, 98
-  offset: 0, 0
-  index: -1
+bounds:2,277,101,98
 15
-  rotate: false
-  xy: 106, 433
-  size: 102, 98
-  orig: 102, 98
-  offset: 0, 0
-  index: -1
+bounds:1435,778,102,98
 17
-  rotate: false
-  xy: 978, 262
-  size: 96, 92
-  orig: 96, 92
-  offset: 0, 0
-  index: -1
+bounds:1891,280,96,92
 18
-  rotate: false
-  xy: 779, 18
-  size: 100, 98
-  orig: 100, 98
-  offset: 0, 0
-  index: -1
+bounds:1593,393,100,98
 19
-  rotate: false
-  xy: 969, 655
-  size: 94, 100
-  orig: 94, 100
-  offset: 0, 0
-  index: -1
+bounds:1295,294,94,100
 30
-  rotate: false
-  xy: 969, 655
-  size: 94, 100
-  orig: 94, 100
-  offset: 0, 0
-  index: -1
+bounds:1295,294,94,100
 20
-  rotate: false
-  xy: 212, 549
-  size: 102, 96
-  orig: 102, 96
-  offset: 0, 0
-  index: -1
+bounds:1694,450,102,96
 21
-  rotate: false
-  xy: 970, 123
-  size: 100, 89
-  orig: 100, 89
-  offset: 0, 0
-  index: -1
+bounds:964,355,100,89
 22
-  rotate: false
-  xy: 1064, 451
-  size: 99, 88
-  orig: 99, 88
-  offset: 0, 0
-  index: -1
+bounds:1066,279,99,88
 23
-  rotate: false
-  xy: 209, 432
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
+bounds:1160,458,100,100
 24
-  rotate: false
-  xy: 2, 433
-  size: 102, 98
-  orig: 102, 98
-  offset: 0, 0
-  index: -1
+bounds:2,778,102,98
 25
-  rotate: false
-  xy: 880, 18
-  size: 100, 90
-  orig: 100, 90
-  offset: 0, 0
-  index: -1
+bounds:1193,339,100,90
 26
-  rotate: false
-  xy: 865, 443
-  size: 96, 100
-  orig: 96, 100
-  offset: 0, 0
-  index: -1
+bounds:1365,386,96,100
 27
-  rotate: false
-  xy: 316, 510
-  size: 102, 96
-  orig: 102, 96
-  offset: 0, 0
-  index: -1
+bounds:985,446,102,96
 28
-  rotate: false
-  xy: 868, 544
-  size: 102, 89
-  orig: 102, 89
-  offset: 0, 0
-  index: -1
+bounds:933,787,102,89
 29
-  rotate: false
-  xy: 1065, 673
-  size: 100, 90
-  orig: 100, 90
-  offset: 0, 0
-  index: -1
+bounds:1663,263,100,90
 31
-  rotate: false
-  xy: 1072, 171
-  size: 94, 90
-  orig: 94, 90
-  offset: 0, 0
-  index: -1
+bounds:502,253,94,90
 32
-  rotate: false
-  xy: 947, 922
-  size: 97, 86
-  orig: 97, 86
-  offset: 0, 0
-  index: -1
+bounds:964,267,97,86
 33
-  rotate: false
-  xy: 1372, 41
-  size: 94, 85
-  orig: 94, 85
-  offset: 0, 0
-  index: -1
+bounds:1063,192,94,85
 34
-  rotate: false
-  xy: 1165, 498
-  size: 93, 86
-  orig: 93, 86
-  offset: 0, 0
-  index: -1
+bounds:1765,190,93,86
 35
-  rotate: false
-  xy: 1081, 84
-  size: 97, 85
-  orig: 97, 85
-  offset: 0, 0
-  index: -1
+bounds:1263,208,97,85
 36
-  rotate: false
-  xy: 1076, 276
-  size: 97, 85
-  orig: 97, 85
-  offset: 0, 0
-  index: -1
+bounds:1391,210,97,85
 CH0165
-  rotate: 270
-  xy: 791, 674
-  size: 334, 1054
-  orig: 334, 1055
-  offset: 0, 0
-  index: -1
+bounds:991,482,334,1055
+rotate:90
 blush_defualt_color
-  rotate: false
-  xy: 249, 369
-  size: 96, 62
-  orig: 96, 62
-  offset: 0, 0
-  index: -1
+bounds:1225,814,96,62
 blush_defualt_line
-  rotate: false
-  xy: 2, 780
-  size: 63, 38
-  orig: 63, 38
-  offset: 0, 0
-  index: -1
+bounds:1037,838,63,38
 blush_drunken_clolor
-  rotate: false
-  xy: 2, 820
-  size: 197, 187
-  orig: 197, 187
-  offset: 0, 0
-  index: -1
+bounds:1798,374,197,187
 blush_drunken_line
-  rotate: false
-  xy: 304, 943
-  size: 106, 65
-  orig: 106, 65
-  offset: 0, 0
-  index: -1
+bounds:106,811,106,65
 diorama
-  rotate: true
-  xy: 2, 3
-  size: 1005, 874
-  orig: 1005, 874
-  offset: 0, 0
-  index: -1
+bounds:2,2,1005,874
 drop_shadow
-  rotate: false
-  xy: 2, 533
-  size: 108, 103
-  orig: 108, 103
-  offset: 0, 0
-  index: -1
+bounds:1745,773,108,103
 eyeclose
-  rotate: false
-  xy: 1179, 83
-  size: 96, 89
-  orig: 96, 89
-  offset: 0, 0
-  index: -1
+bounds:356,195,96,89
 halo
-  rotate: false
-  xy: 2, 637
-  size: 171, 135
-  orig: 171, 135
-  offset: 0, 0
-  index: -1
+bounds:1572,741,171,135
 star eye
-  rotate: false
-  xy: 86, 774
-  size: 68, 45
-  orig: 68, 45
-  offset: 0, 0
-  index: -1
+bounds:214,831,68,45
 sweat
-  rotate: false
-  xy: 67, 806
-  size: 10, 12
-  orig: 10, 12
-  offset: 0, 0
-  index: -1
+bounds:284,864,10,12
 tear_01
-  rotate: false
-  xy: 67, 793
-  size: 14, 12
-  orig: 14, 12
-  offset: 0, 0
-  index: -1
+bounds:296,864,14,12
 tear_02
-  rotate: false
-  xy: 201, 865
-  size: 72, 37
-  orig: 72, 37
-  offset: 0, 0
-  index: -1
+bounds:1323,839,72,37
 tear_03
-  rotate: false
-  xy: 201, 847
-  size: 79, 37
-  orig: 79, 37
-  offset: 0, 0
-  index: -1
+bounds:1955,839,79,37

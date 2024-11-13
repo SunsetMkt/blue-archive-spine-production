@@ -1,230 +1,76 @@
-
 misaki_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 138, 159
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
-02_respond
-  rotate: 180
-  xy: 834, 280
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+size:1024,1024
+filter:Linear,Linear
+scale:0.54
 00_default
-  rotate: 180
-  xy: 834, 280
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+bounds:767,651,105,89
+02_respond
+bounds:767,651,105,89
+01_normal
+bounds:917,667,105,89
 03_smile
-  rotate: false
-  xy: 499, 92
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+bounds:521,684,105,89
 04_embarassed
-  rotate: false
-  xy: 408, 158
-  size: 87, 73
-  orig: 87, 73
-  offset: 0, 0
-  index: -1
+bounds:2,638,105,87
 05_serious
-  rotate: false
-  xy: 778, 779
-  size: 88, 67
-  orig: 88, 67
-  offset: 0, 0
-  index: -1
+bounds:2,115,105,80
 06_depressed
-  rotate: false
-  xy: 814, 356
-  size: 87, 67
-  orig: 87, 67
-  offset: 0, 0
-  index: -1
+bounds:109,114,105,80
 07_cry
-  rotate: false
-  xy: 778, 847
-  size: 86, 67
-  orig: 86, 67
-  offset: 0, 0
-  index: -1
+bounds:216,113,103,80
 07_smile 2
-  rotate: false
-  xy: 779, 426
-  size: 85, 71
-  orig: 85, 71
-  offset: 0, 0
-  index: -1
+bounds:737,141,102,85
 08_cry2
-  rotate: false
-  xy: 2, 778
-  size: 84, 67
-  orig: 84, 67
-  offset: 0, 0
-  index: -1
+bounds:321,112,101,80
 10_panic
-  rotate: false
-  xy: 369, 771
-  size: 89, 74
-  orig: 89, 74
-  offset: 0, 0
-  index: -1
+bounds:2,727,106,89
 10_panic_PL
-  rotate: false
-  xy: 2, 692
-  size: 31, 41
-  orig: 31, 41
-  offset: 0, 0
-  index: -1
+bounds:635,972,37,50
 10_panic_S
-  rotate: false
-  xy: 92, 876
-  size: 5, 6
-  orig: 5, 6
-  offset: 0, 0
-  index: -1
+bounds:275,1014,6,8
 11_endure 1_S
-  rotate: false
-  xy: 92, 876
-  size: 5, 6
-  orig: 5, 6
-  offset: 0, 0
-  index: -1
+bounds:275,1014,6,8
 12_endure 2_S
-  rotate: false
-  xy: 92, 876
-  size: 5, 6
-  orig: 5, 6
-  offset: 0, 0
-  index: -1
+bounds:275,1014,6,8
 11_endure 1
-  rotate: false
-  xy: 408, 85
-  size: 89, 71
-  orig: 89, 71
-  offset: 0, 0
-  index: -1
+bounds:557,577,107,85
 11_endure 1_SD
-  rotate: false
-  xy: 667, 835
-  size: 109, 88
-  orig: 109, 88
-  offset: 0, 0
-  index: -1
+bounds:604,129,131,106
 12_endure 2
-  rotate: false
-  xy: 318, 107
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+bounds:2,822,105,89
+rotate:90
 13_shout
-  rotate: false
-  xy: 2, 846
-  size: 89, 78
-  orig: 89, 78
-  offset: 0, 0
-  index: -1
+bounds:2,929,106,93
 13_shout_S1
-  rotate: false
-  xy: 88, 837
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
+bounds:152,1013,8,9
 13_shout_s2
-  rotate: false
-  xy: 92, 884
-  size: 5, 6
-  orig: 5, 6
-  offset: 0, 0
-  index: -1
+bounds:283,1015,6,7
 14_shout
-  rotate: false
-  xy: 350, 847
-  size: 87, 76
-  orig: 87, 76
-  offset: 0, 0
-  index: -1
+bounds:897,931,104,91
 14_shout_p1
-  rotate: false
-  xy: 92, 891
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
+bounds:136,1011,14,11
 14_shout_p2
-  rotate: false
-  xy: 92, 902
-  size: 20, 21
-  orig: 20, 21
-  offset: 0, 0
-  index: -1
+bounds:110,997,24,25
 eyeclose
-  rotate: false
-  xy: 697, 93
-  size: 87, 74
-  orig: 87, 74
-  offset: 0, 0
-  index: -1
+bounds:424,103,104,89
 flush
-  rotate: false
-  xy: 2, 735
-  size: 70, 40
-  orig: 70, 40
-  offset: 0, 0
-  index: -1
+bounds:408,974,84,48
 fronthair
-  rotate: false
-  xy: 2, 99
-  size: 135, 134
-  orig: 135, 134
-  offset: 0, 0
-  index: -1
+bounds:369,730,161,161
 halo
-  rotate: false
-  xy: 504, 232
-  size: 153, 170
-  orig: 155, 172
-  offset: 1, 1
-  index: -1
+bounds:711,817,184,205
+offsets:1,1,186,207
 mask_defualt
-  rotate: 180
-  xy: 138, 81
-  size: 179, 151
-  orig: 180, 151
-  offset: 1, 0
-  index: -1
+bounds:764,743,215,181
+offsets:1,0,216,181
+rotate:180
 mask_full
-  rotate: 180
-  xy: 552, 111
-  size: 180, 143
-  orig: 180, 143
-  offset: 0, 0
-  index: -1
+bounds:384,512,216,171
+rotate:90
 misaki
-  rotate: false
-  xy: 2, 232
-  size: 501, 692
-  orig: 805, 1130
-  offset: 304, 0
-  index: -1
+bounds:2,192,601,830
+offsets:365,0,966,1356
 misaki_00
-  rotate: 270
-  xy: 455, 118
-  size: 805, 468
-  orig: 805, 1130
-  offset: 0, 662
-  index: -1
+bounds:457,56,966,562
+offsets:0,794,966,1356
+rotate:90

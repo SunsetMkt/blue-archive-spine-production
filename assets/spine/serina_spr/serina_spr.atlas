@@ -1,76 +1,29 @@
-
 serina_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.6
 00_default
-  rotate: false
-  xy: 2, 903
-  size: 104, 74
-  orig: 104, 74
-  offset: 0, 0
-  index: -1
+bounds:869,693,136,97
 01_normal
-  rotate: false
-  xy: 2, 903
-  size: 104, 74
-  orig: 104, 74
-  offset: 0, 0
-  index: -1
+bounds:869,693,136,97
 02_respond
-  rotate: false
-  xy: 403, 897
-  size: 104, 80
-  orig: 104, 80
-  offset: 0, 0
-  index: -1
+bounds:594,737,136,105
 03_smile
-  rotate: false
-  xy: 306, 899
-  size: 95, 78
-  orig: 95, 78
-  offset: 0, 0
-  index: -1
+bounds:869,589,124,102
 04_embarrassed
-  rotate: false
-  xy: 509, 897
-  size: 104, 80
-  orig: 104, 80
-  offset: 0, 0
-  index: -1
+bounds:806,901,155,121
 05_serious
-  rotate: false
-  xy: 200, 901
-  size: 104, 76
-  orig: 104, 76
-  offset: 0, 0
-  index: -1
+bounds:731,690,136,100
 06_shout
-  rotate: false
-  xy: 615, 895
-  size: 103, 82
-  orig: 103, 82
-  offset: 0, 0
-  index: -1
+bounds:806,792,135,107
 Selaphiel
-  rotate: true
-  xy: 2, 335
-  size: 504, 975
-  orig: 504, 975
-  offset: 0, 0
-  index: -1
+bounds:2,357,740,665
+offsets:17,798,757,1463
+Selaphiel_C
+bounds:181,31,529,841
+offsets:0,0,757,1463
+rotate:270
 eyeclose
-  rotate: false
-  xy: 108, 903
-  size: 90, 74
-  orig: 90, 74
-  offset: 0, 0
-  index: -1
+bounds:742,591,118,97
 halo
-  rotate: false
-  xy: 720, 841
-  size: 222, 136
-  orig: 222, 136
-  offset: 0, 0
-  index: -1
+bounds:514,844,290,178
