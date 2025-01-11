@@ -1,27 +1,27 @@
 sukeban_HMG_spr.png
-	size: 1024, 1024
-	filter: Linear, Linear
-	scale: 0.6
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
 00_default
-	bounds: 546, 821, 142, 64
+bounds:625,373,123,55
 01_normal
-	bounds: 546, 821, 142, 64
+bounds:625,373,123,55
 02_respond
-	bounds: 683, 940, 142, 82
+bounds:500,357,123,71
 03_smile
-	bounds: 826, 953, 140, 69
+bounds:2,2,121,60
 04_embrassed
-	bounds: 539, 887, 142, 135
+bounds:2,64,123,117
 05_serious
-	bounds: 2, 170, 142, 44
+bounds:500,317,123,38
 06_depressed
-	bounds: 132, 940, 142, 82
+bounds:931,890,123,71
+rotate:90
 eyeclose
-	bounds: 773, 174, 152, 59
+bounds:204,260,132,51
 halo
-	bounds: 541, 85, 230, 148
+bounds:2,183,200,128
 sukeban_hmg_01
-	bounds: 527, 235, 495, 673
-	rotate: 180
+bounds:500,430,429,583
 sukeban_hmg_02
-	bounds: 2, 214, 572, 808
+bounds:2,313,496,700

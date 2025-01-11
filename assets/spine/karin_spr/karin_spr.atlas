@@ -1,83 +1,31 @@
-
 karin_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_nomal
-  rotate: false
-  xy: 2, 553
-  size: 74, 58
-  orig: 74, 58
-  offset: 0, 0
-  index: -1
+size:1024,1024
+filter:Linear,Linear
+scale:0.46
 00_default
-  rotate: false
-  xy: 2, 553
-  size: 74, 58
-  orig: 74, 58
-  offset: 0, 0
-  index: -1
+bounds:685,826,80,63
+01_nomal
+bounds:685,826,80,63
 02_respond
-  rotate: false
-  xy: 2, 796
-  size: 74, 61
-  orig: 74, 61
-  offset: 0, 0
-  index: -1
+bounds:685,956,80,66
 03_smile
-  rotate: false
-  xy: 2, 496
-  size: 74, 55
-  orig: 74, 55
-  offset: 0, 0
-  index: -1
+bounds:887,767,80,59
 04_embarassed
-  rotate: false
-  xy: 2, 735
-  size: 76, 59
-  orig: 76, 59
-  offset: 0, 0
-  index: -1
+bounds:890,893,81,63
 05_serious
-  rotate: false
-  xy: 205, 814
-  size: 74, 60
-  orig: 74, 60
-  offset: 0, 0
-  index: -1
+bounds:882,958,80,64
 06_depressed
-  rotate: false
-  xy: 2, 674
-  size: 75, 59
-  orig: 75, 59
-  offset: 0, 0
-  index: -1
+bounds:685,891,80,63
 eyeclose
-  rotate: false
-  xy: 2, 613
-  size: 75, 58
-  orig: 75, 58
-  offset: 0, 0
-  index: -1
+bounds:893,828,80,63
 halo
-  rotate: false
-  xy: 155, 875
-  size: 137, 132
-  orig: 137, 132
-  offset: 0, 0
-  index: -1
+bounds:2,727,147,141
 karin
-  rotate: false
-  xy: 2, 393
-  size: 841, 614
-  orig: 841, 988
-  offset: 0, 0
-  index: -1
+bounds:119,12,613,652
+offsets:0,0,900,1057
 karin_0
-  rotate: false
-  xy: 210, 4
-  size: 637, 416
-  orig: 841, 988
-  offset: 204, 572
-  index: -1
+bounds:2,577,682,445
+offsets:218,612,900,1057
+karin_1
+bounds:584,340,438,631
+offsets:455,5,900,1057

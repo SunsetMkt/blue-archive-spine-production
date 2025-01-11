@@ -1,0 +1,53 @@
+CH0285_spr.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.65
+00_default
+	bounds: 907, 152, 128, 106
+	offsets: 6, 6, 141, 118
+	rotate: 90
+00_eyeclose
+	bounds: 883, 44, 123, 106
+	offsets: 6, 6, 135, 118
+01_normal
+	bounds: 2, 849, 141, 118
+02_respond
+	bounds: 519, 133, 128, 106
+	offsets: 6, 6, 141, 118
+03_smile
+	bounds: 757, 68, 124, 106
+	offsets: 6, 6, 136, 118
+04_embarassed
+	bounds: 894, 282, 128, 108
+	offsets: 6, 6, 141, 120
+05_serious
+	bounds: 2, 2, 129, 100
+	offsets: 6, 6, 142, 112
+06_depressed
+	bounds: 505, 26, 124, 105
+	offsets: 6, 6, 136, 117
+07
+	bounds: 774, 176, 131, 104
+	offsets: 6, 6, 144, 116
+08
+	bounds: 483, 540, 128, 111
+	offsets: 6, 6, 141, 123
+09
+	bounds: 133, 4, 126, 98
+	offsets: 6, 6, 138, 110
+10
+	bounds: 649, 112, 127, 106
+	offsets: 6, 6, 139, 118
+	rotate: 90
+CH0285
+	bounds: 474, 373, 514, 636
+	offsets: 2, 886, 551, 1525
+CH0285C
+	bounds: 2, 103, 534, 906
+	offsets: 16, 0, 551, 1525
+Halo_01
+	bounds: 536, 376, 127, 63
+	offsets: 6, 6, 139, 75
+Halo_02
+	bounds: 536, 241, 236, 132
+	offsets: 6, 6, 248, 144

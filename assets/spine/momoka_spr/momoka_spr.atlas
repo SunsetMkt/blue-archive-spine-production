@@ -1,349 +1,111 @@
-
 momoka_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.56
 B_Halo
-  rotate: false
-  xy: 2, 921
-  size: 71, 76
-  orig: 71, 76
-  offset: 0, 0
-  index: -1
+bounds:81,40,68,73
 B_Halo_Light
-  rotate: false
-  xy: 2, 775
-  size: 82, 87
-  orig: 82, 87
-  offset: 0, 0
-  index: -1
+bounds:2,31,77,82
+offsets:1,1,79,84
 Eyecover_01
-  rotate: false
-  xy: 202, 933
-  size: 165, 64
-  orig: 165, 64
-  offset: 0, 0
-  index: -1
+bounds:595,651,158,61
+offsets:1,0,160,62
 Eyecover_02
-  rotate: false
-  xy: 196, 760
-  size: 133, 28
-  orig: 133, 28
-  offset: 0, 0
-  index: -1
+bounds:2,955,128,27
 F_Halo
-  rotate: false
-  xy: 880, 879
-  size: 116, 118
-  orig: 116, 118
-  offset: 0, 0
-  index: -1
+bounds:860,743,112,114
 F_Halo_Light
-  rotate: false
-  xy: 284, 78
-  size: 129, 129
-  orig: 129, 129
-  offset: 0, 0
-  index: -1
+bounds:860,859,122,123
+offsets:1,1,124,125
 Face
-  rotate: false
-  xy: 666, 800
-  size: 212, 197
-  orig: 212, 197
-  offset: 0, 0
-  index: -1
+bounds:2,115,204,190
 Face_Shadow_01
-  rotate: false
-  xy: 284, 209
-  size: 156, 137
-  orig: 156, 137
-  offset: 0, 0
-  index: -1
+bounds:707,714,151,133
 Face_Shadow_02
-  rotate: false
-  xy: 191, 790
-  size: 157, 137
-  orig: 157, 137
-  offset: 0, 0
-  index: -1
+bounds:707,849,151,133
 Flush_01
-  rotate: false
-  xy: 666, 729
-  size: 145, 69
-  orig: 145, 69
-  offset: 0, 0
-  index: -1
+bounds:755,647,139,65
+offsets:0,1,140,67
 Flush_02
-  rotate: false
-  xy: 472, 915
-  size: 165, 70
-  orig: 165, 70
-  offset: 0, 0
-  index: -1
+bounds:435,674,158,65
+offsets:1,1,160,67
 L_B_Eyebrows
-  rotate: false
-  xy: 350, 877
-  size: 26, 8
-  orig: 26, 8
-  offset: 0, 0
-  index: -1
+bounds:2,859,25,7
 L_Eye
-  rotate: false
-  xy: 2, 638
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
+bounds:2,798,26,27
 L_Eye_P_01
-  rotate: false
-  xy: 73, 882
-  size: 8, 15
-  orig: 8, 15
-  offset: 0, 0
-  index: -1
+bounds:65,597,8,14
 L_Eye_P_02
-  rotate: false
-  xy: 350, 910
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
+bounds:2,734,18,20
 L_Eyebrows_01
-  rotate: false
-  xy: 2, 738
-  size: 49, 36
-  orig: 49, 36
-  offset: 0, 0
-  index: -1
+bounds:435,637,48,35
 L_Eyebrows_02
-  rotate: false
-  xy: 43, 708
-  size: 42, 27
-  orig: 42, 27
-  offset: 0, 0
-  index: -1
+bounds:175,956,41,26
 L_Eyebrows_03
-  rotate: false
-  xy: 205, 711
-  size: 42, 17
-  orig: 42, 17
-  offset: 0, 0
-  index: -1
+bounds:2,639,40,17
 L_Eyebrows_04
-  rotate: false
-  xy: 2, 699
-  size: 39, 37
-  orig: 39, 37
-  offset: 0, 0
-  index: -1
+bounds:2,658,38,35
 L_Eyelight
-  rotate: false
-  xy: 249, 726
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
+bounds:307,956,28,9
+offsets:0,0,28,10
 Mouse_01
-  rotate: false
-  xy: 50, 868
-  size: 21, 20
-  orig: 21, 20
-  offset: 0, 0
-  index: -1
+bounds:2,921,21,20
 Mouse_02
-  rotate: false
-  xy: 53, 747
-  size: 34, 26
-  orig: 34, 26
-  offset: 0, 0
-  index: -1
+bounds:2,756,32,25
 Mouse_03
-  rotate: false
-  xy: 75, 977
-  size: 9, 4
-  orig: 9, 4
-  offset: 0, 0
-  index: -1
+bounds:2,949,8,4
 Mouse_04
-  rotate: false
-  xy: 350, 887
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
+bounds:2,877,18,20
 Mouse_05
-  rotate: false
-  xy: 210, 685
-  size: 31, 8
-  orig: 31, 8
-  offset: 0, 0
-  index: -1
+bounds:395,957,30,8
 Mouse_06
-  rotate: false
-  xy: 270, 741
-  size: 39, 17
-  orig: 39, 17
-  offset: 0, 0
-  index: -1
+bounds:355,965,38,17
 Mouse_07
-  rotate: false
-  xy: 75, 983
-  size: 9, 14
-  orig: 9, 14
-  offset: 0, 0
-  index: -1
+bounds:22,726,9,13
 Mouse_08
-  rotate: false
-  xy: 52, 687
-  size: 42, 19
-  orig: 42, 19
-  offset: 0, 0
-  index: -1
+bounds:265,964,40,18
 Mouse_09
-  rotate: false
-  xy: 53, 738
-  size: 26, 7
-  orig: 26, 7
-  offset: 0, 0
-  index: -1
+bounds:2,868,25,7
 Nose_re
-  rotate: false
-  xy: 75, 956
-  size: 3, 9
-  orig: 3, 9
-  offset: 0, 0
-  index: -1
+bounds:12,945,2,8
+offsets:1,0,3,8
 R_B_Eyebrows
-  rotate: false
-  xy: 311, 753
-  size: 31, 5
-  orig: 31, 5
-  offset: 0, 0
-  index: -1
+bounds:132,957,30,5
 R_Eye
-  rotate: false
-  xy: 201, 730
-  size: 28, 28
-  orig: 28, 28
-  offset: 0, 0
-  index: -1
+bounds:2,827,27,27
 R_Eye_P_01
-  rotate: false
-  xy: 67, 905
-  size: 9, 14
-  orig: 9, 14
-  offset: 0, 0
-  index: -1
+bounds:22,741,9,13
 R_Eye_P_02
-  rotate: false
-  xy: 2, 615
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
+bounds:2,899,18,20
 R_Eyebrows_01
-  rotate: false
-  xy: 2, 890
-  size: 63, 30
-  orig: 63, 30
-  offset: 0, 0
-  index: -1
+bounds:2,592,61,29
 R_Eyebrows_02
-  rotate: false
-  xy: 2, 869
-  size: 47, 20
-  orig: 47, 20
-  offset: 0, 0
-  index: -1
+bounds:218,963,45,19
 R_Eyebrows_03
-  rotate: false
-  xy: 52, 670
-  size: 48, 16
-  orig: 48, 16
-  offset: 0, 0
-  index: -1
+bounds:307,967,46,15
 R_Eyebrows_04
-  rotate: false
-  xy: 2, 669
-  size: 49, 28
-  orig: 49, 28
-  offset: 0, 0
-  index: -1
+bounds:485,645,47,27
 R_Eyelight
-  rotate: false
-  xy: 208, 695
-  size: 33, 14
-  orig: 33, 14
-  offset: 0, 0
-  index: -1
+bounds:2,783,31,12
+offsets:0,0,32,13
 Sweat
-  rotate: false
-  xy: 176, 869
-  size: 6, 17
-  orig: 6, 17
-  offset: 0, 0
-  index: -1
+bounds:40,573,6,17
 T_Hair
-  rotate: false
-  xy: 2, 97
-  size: 280, 249
-  orig: 280, 249
-  offset: 0, 0
-  index: -1
+bounds:435,741,270,241
 T_L_Eyebrows_01
-  rotate: false
-  xy: 331, 771
-  size: 38, 17
-  orig: 38, 17
-  offset: 0, 0
-  index: -1
+bounds:2,574,36,16
 T_L_Eyebrows_02
-  rotate: false
-  xy: 488, 664
-  size: 39, 16
-  orig: 39, 16
-  offset: 0, 0
-  index: -1
+bounds:395,967,38,15
 T_L_Eyebrows_03
-  rotate: false
-  xy: 31, 656
-  size: 37, 10
-  orig: 37, 10
-  offset: 0, 0
-  index: -1
+bounds:2,627,36,10
 T_R_Eyebrows_01
-  rotate: false
-  xy: 472, 987
-  size: 43, 8
-  orig: 43, 8
-  offset: 0, 0
-  index: -1
+bounds:132,964,41,8
 T_R_Eyebrows_02
-  rotate: false
-  xy: 517, 989
-  size: 43, 8
-  orig: 43, 8
-  offset: 0, 0
-  index: -1
+bounds:132,974,41,8
 T_R_Eyebrows_03
-  rotate: false
-  xy: 231, 738
-  size: 37, 20
-  orig: 37, 20
-  offset: 0, 0
-  index: -1
+bounds:2,703,36,19
 body01
-  rotate: false
-  xy: 2, 348
-  size: 662, 650
-  orig: 662, 650
-  offset: 0, 0
-  index: -1
+bounds:313,2,640,627
+rotate:180
 body02
-  rotate: 180
-  xy: 523, 44
-  size: 447, 669
-  orig: 447, 669
-  offset: 0, 0
-  index: -1
+bounds:2,308,432,646

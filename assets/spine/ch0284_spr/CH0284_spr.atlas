@@ -1,0 +1,87 @@
+CH0284_spr.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.63
+00_default
+	bounds: 668, 418, 138, 98
+	offsets: 7, 6, 151, 110
+00_eye close
+	bounds: 808, 373, 137, 98
+	offsets: 7, 6, 150, 110
+01_normal
+	bounds: 2, 862, 151, 110
+02_respond
+	bounds: 846, 473, 141, 97
+	offsets: 7, 6, 154, 109
+	rotate: 90
+03_smile
+	bounds: 747, 274, 137, 97
+	offsets: 7, 6, 150, 109
+04_embarassed
+	bounds: 604, 215, 138, 96
+	offsets: 6, 6, 150, 108
+05_serious
+	bounds: 519, 27, 135, 89
+	offsets: 6, 6, 147, 101
+06_depressed
+	bounds: 729, 83, 135, 93
+	offsets: 6, 6, 147, 105
+07
+	bounds: 886, 235, 136, 95
+	offsets: 6, 6, 148, 107
+	rotate: 90
+08
+	bounds: 846, 616, 142, 102
+	offsets: 6, 6, 154, 114
+	rotate: 90
+09
+	bounds: 114, 13, 135, 85
+	offsets: 6, 6, 147, 97
+10
+	bounds: 2, 750, 136, 110
+	offsets: 6, 6, 148, 122
+11
+	bounds: 615, 313, 130, 103
+	offsets: 6, 6, 142, 115
+12
+	bounds: 382, 70, 135, 91
+	offsets: 6, 6, 147, 103
+13
+	bounds: 391, 462, 138, 98
+	offsets: 7, 6, 151, 110
+14
+	bounds: 884, 96, 137, 94
+	offsets: 6, 6, 149, 106
+	rotate: 90
+15
+	bounds: 592, 118, 135, 95
+	offsets: 6, 6, 147, 107
+16
+	bounds: 846, 760, 132, 118
+	offsets: 6, 6, 144, 130
+17
+	bounds: 846, 880, 135, 138
+	offsets: 7, 6, 148, 150
+18
+	bounds: 866, 2, 120, 92
+	offsets: 6, 6, 132, 104
+19
+	bounds: 155, 850, 128, 122
+	offsets: 6, 6, 140, 134
+20
+	bounds: 744, 178, 138, 94
+	offsets: 6, 6, 150, 106
+CH0284
+	bounds: 2, 68, 511, 612
+	offsets: 4, 839, 602, 1453
+	rotate: 270
+CH0284C
+	bounds: 2, 474, 544, 843
+	offsets: 57, 4, 602, 1453
+	rotate: 270
+Halo
+	bounds: 2, 974, 270, 44
+	offsets: 6, 6, 282, 56
+hair cover
+	bounds: 622, 895, 167, 123
+	offsets: 6, 6, 179, 135

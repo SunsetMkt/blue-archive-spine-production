@@ -3,456 +3,456 @@ Serika_home.png
 	filter: Linear, Linear
 	scale: 0.5
 FX_chain_2_2
-	bounds: 304, 1852, 28, 41
+	bounds: 304, 1800, 28, 41
 FX_chain_2_5
-	bounds: 1531, 1667, 26, 27
+	bounds: 1531, 1615, 26, 27
 FX_chain_3_3_light
-	bounds: 310, 1811, 24, 39
+	bounds: 310, 1759, 24, 39
 F_Hair_00
-	bounds: 7, 1247, 69, 128
+	bounds: 7, 1195, 69, 128
 F_Hair_01
-	bounds: 143, 1159, 75, 241
+	bounds: 143, 1107, 75, 241
 	offsets: 0, 0, 99, 253
 F_Hair_02
-	bounds: 1404, 273, 113, 225
+	bounds: 1404, 221, 113, 225
 	offsets: 10, 6, 123, 243
 F_Hair_03
-	bounds: 2, 1122, 89, 156
+	bounds: 2, 1070, 89, 156
 	offsets: 17, 0, 106, 157
 F_Hair_04
-	bounds: 188, 1793, 62, 141
+	bounds: 188, 1741, 62, 141
 	offsets: 0, 0, 64, 143
 F_Hair_05
-	bounds: 1996, 1337, 50, 145
+	bounds: 1996, 1285, 50, 145
 	offsets: 0, 0, 56, 146
 F_Hair_06
-	bounds: 1882, 211, 164, 198
+	bounds: 1882, 159, 164, 198
 	offsets: 9, 0, 174, 198
 F_Hair_07
-	bounds: 185, 1171, 153, 187
+	bounds: 185, 1119, 153, 187
 	offsets: 3, 0, 175, 187
 F_Hair_08
-	bounds: 1726, 1491, 142, 148
+	bounds: 1726, 1439, 142, 148
 	offsets: 0, 2, 142, 150
 F_Hair_09
-	bounds: 2, 1450, 64, 183
+	bounds: 2, 1398, 64, 183
 	offsets: 0, 0, 69, 183
 F_Hair_10
-	bounds: 1546, 1673, 93, 70
+	bounds: 1546, 1621, 93, 70
 F_Hair_11
-	bounds: 69, 1892, 51, 127
+	bounds: 69, 1840, 51, 127
 ID_Card
-	bounds: 245, 1501, 71, 69
+	bounds: 245, 1449, 71, 69
 	offsets: 0, 0, 71, 70
 ID_Card_clip_Down
-	bounds: 1643, 2037, 9, 9
+	bounds: 1643, 1985, 9, 9
 	offsets: 0, 0, 10, 9
 ID_Card_clip_up
-	bounds: 59, 2035, 11, 11
+	bounds: 59, 1983, 11, 11
 	offsets: 0, 0, 12, 12
 ID_Card_shadow
-	bounds: 1994, 1610, 52, 75
+	bounds: 1994, 1558, 52, 75
 	offsets: 0, 0, 64, 75
 L_B_Eyebrows_00
-	bounds: 153, 2041, 8, 5
+	bounds: 153, 1989, 8, 5
 L_B_Eyebrows_01
-	bounds: 308, 2040, 8, 6
+	bounds: 308, 1988, 8, 6
 L_Eye_01
-	bounds: 1643, 2001, 11, 35
+	bounds: 1643, 1949, 11, 35
 	offsets: 1, 0, 13, 35
 L_Eye_02
-	bounds: 332, 2032, 5, 14
+	bounds: 332, 1980, 5, 14
 	offsets: 0, 0, 5, 15
 L_Eye_P_01
-	bounds: 1846, 2036, 7, 10
+	bounds: 1846, 1984, 7, 10
 L_Eye_P_02
-	bounds: 1358, 2040, 5, 6
+	bounds: 1358, 1988, 5, 6
 	offsets: 0, 0, 6, 7
 L_Eye_White
-	bounds: 1372, 2003, 19, 43
+	bounds: 1372, 1951, 19, 43
 	offsets: 0, 0, 19, 44
 L_Eye_tear
-	bounds: 250, 1998, 9, 29
+	bounds: 250, 1946, 9, 29
 L_Eyebrows_00
-	bounds: 2, 1619, 29, 29
+	bounds: 2, 1567, 29, 29
 	offsets: 0, 0, 30, 30
 L_Eyebrows_01
-	bounds: 252, 1556, 29, 27
+	bounds: 252, 1504, 29, 27
 	offsets: 0, 1, 30, 29
 L_Eyebrows_02
-	bounds: 1632, 1832, 22, 18
+	bounds: 1632, 1780, 22, 18
 	offsets: 0, 2, 23, 20
 L_Eyebrows_03
-	bounds: 1880, 1561, 29, 30
+	bounds: 1880, 1509, 29, 30
 	offsets: 0, 0, 30, 30
 L_Eyebrows_eyeclose_00
-	bounds: 2025, 1986, 21, 11
+	bounds: 2025, 1934, 21, 11
 	offsets: 2, 1, 24, 12
 L_Eyebrows_eyeclose_01
-	bounds: 2024, 2033, 20, 13
+	bounds: 2024, 1981, 20, 13
 	offsets: 3, 0, 24, 13
 L_Face_Eyelid_00
-	bounds: 1604, 2038, 9, 8
+	bounds: 1604, 1986, 9, 8
 L_Face_Eyelid_01
-	bounds: 314, 1768, 21, 41
+	bounds: 314, 1716, 21, 41
 	offsets: 0, 0, 23, 41
 L_Face_Eyelid_02
-	bounds: 1952, 1909, 22, 47
+	bounds: 1952, 1857, 22, 47
 	offsets: 0, 0, 23, 47
 L_eyeblow_00
-	bounds: 259, 2038, 18, 8
+	bounds: 259, 1986, 18, 8
 	offsets: 4, 3, 22, 11
 L_eyeblow_01
-	bounds: 189, 2038, 22, 8
+	bounds: 189, 1986, 22, 8
 	offsets: 0, 0, 22, 9
 L_eyeblow_02
-	bounds: 1585, 2033, 22, 13
+	bounds: 1585, 1981, 22, 13
 	offsets: 0, 0, 23, 14
 L_eyeblow_03
-	bounds: 1829, 1929, 23, 16
+	bounds: 1829, 1877, 23, 16
 	offsets: 0, 1, 23, 17
 L_eyeblow_04
-	bounds: 1750, 2036, 22, 10
+	bounds: 1750, 1984, 22, 10
 	offsets: 0, 2, 24, 13
 L_eyeblow_05
-	bounds: 60, 1887, 20, 17
+	bounds: 60, 1835, 20, 17
 L_flush
-	bounds: 1363, 2029, 14, 17
+	bounds: 1363, 1977, 14, 17
 L_foot
-	bounds: 1840, 1899, 198, 147
+	bounds: 1840, 1847, 198, 147
 L_foot_ribbon 01
-	bounds: 307, 1894, 32, 67
+	bounds: 307, 1842, 32, 67
 L_foot_ribbon 02
-	bounds: 1615, 1847, 40, 41
+	bounds: 1615, 1795, 40, 41
 	offsets: 0, 1, 40, 43
 L_foot_ribbon 03
-	bounds: 2002, 1324, 44, 74
+	bounds: 2002, 1272, 44, 74
 	offsets: 1, 0, 45, 75
 L_foot_ribbon 04
-	bounds: 76, 1962, 17, 84
+	bounds: 76, 1910, 17, 84
 	offsets: 0, 0, 24, 84
 L_forearm_01_1
-	bounds: 1966, 1833, 80, 153
+	bounds: 1966, 1781, 80, 153
 L_forearm_01_2
-	bounds: 186, 1928, 66, 117
+	bounds: 186, 1876, 66, 117
 	offsets: 1, 0, 67, 117
 L_forearm_02
-	bounds: 230, 1718, 69, 40
+	bounds: 230, 1666, 69, 40
 	offsets: 6, 0, 75, 40
 L_hand
-	bounds: 1592, 1966, 52, 80
+	bounds: 1592, 1914, 52, 80
 	offsets: 13, 0, 65, 91
 L_hand_index 01
-	bounds: 45, 2013, 17, 33
+	bounds: 45, 1961, 17, 33
 	offsets: 0, 1, 17, 34
 L_hand_index 02
-	bounds: 1291, 2029, 23, 17
+	bounds: 1291, 1977, 23, 17
 	offsets: 0, 10, 23, 27
 L_hand_index 03
-	bounds: 66, 1991, 15, 23
+	bounds: 66, 1939, 15, 23
 	offsets: 3, 2, 19, 27
 L_hand_middle
-	bounds: 1804, 1664, 29, 43
+	bounds: 1804, 1612, 29, 43
 	offsets: 0, 0, 29, 44
 L_hand_ring,pinky
-	bounds: 271, 2004, 40, 42
+	bounds: 271, 1952, 40, 42
 	offsets: 0, 1, 40, 43
 L_hand_thumb 01
-	bounds: 1291, 1819, 25, 48
+	bounds: 1291, 1767, 25, 48
 	offsets: 0, 0, 30, 48
 L_hand_thumb 02
-	bounds: 1853, 1999, 33, 47
+	bounds: 1853, 1947, 33, 47
 	offsets: 0, 0, 34, 47
 L_lower leg
-	bounds: 1238, 146, 198, 352
+	bounds: 1238, 94, 198, 352
 	offsets: 0, 0, 202, 352
 L_nekoear
-	bounds: 1756, 1942, 95, 104
+	bounds: 1756, 1890, 95, 104
 L_ribbon line 01
-	bounds: 181, 1320, 51, 110
+	bounds: 181, 1268, 51, 110
 	offsets: 0, 1, 52, 112
 L_ribbon line 02
-	bounds: 294, 1305, 44, 96
+	bounds: 294, 1253, 44, 96
 	offsets: 0, 2, 45, 98
 L_terar_0
-	bounds: 296, 2040, 8, 6
+	bounds: 296, 1988, 8, 6
 L_twintale
-	bounds: 1675, 544, 311, 713
+	bounds: 1675, 492, 311, 713
 L_upper leg
-	bounds: 1413, 820, 343, 130
+	bounds: 1413, 768, 343, 130
 L_upperarm
-	bounds: 1882, 803, 164, 224
+	bounds: 1882, 751, 164, 224
 	offsets: 4, 0, 168, 224
 R_B_Eyebrows_00
-	bounds: 120, 2029, 23, 10
+	bounds: 120, 1977, 23, 10
 R_B_Eyebrows_01
-	bounds: 2, 1791, 24, 11
+	bounds: 2, 1739, 24, 11
 R_Eye_01
-	bounds: 244, 1781, 31, 36
+	bounds: 244, 1729, 31, 36
 	offsets: 0, 0, 32, 36
 R_Eye_02
-	bounds: 1314, 2030, 9, 16
+	bounds: 1314, 1978, 9, 16
 R_Eye_P_01
-	bounds: 1923, 2035, 11, 11
+	bounds: 1923, 1983, 11, 11
 R_Eye_P_02
-	bounds: 1853, 2040, 6, 6
+	bounds: 1853, 1988, 6, 6
 R_Eye_White
-	bounds: 1639, 1677, 49, 52
+	bounds: 1639, 1625, 49, 52
 R_Eye_tear
-	bounds: 1568, 1743, 22, 29
+	bounds: 1568, 1691, 22, 29
 R_Eyebrows_00
-	bounds: 1717, 1442, 61, 48
+	bounds: 1717, 1390, 61, 48
 R_Eyebrows_01
-	bounds: 1662, 1346, 62, 44
+	bounds: 1662, 1294, 62, 44
 	offsets: 0, 0, 63, 44
 R_Eyebrows_02
-	bounds: 1304, 1539, 55, 32
+	bounds: 1304, 1487, 55, 32
 R_Eyebrows_03
-	bounds: 1301, 1558, 62, 47
+	bounds: 1301, 1506, 62, 47
 R_Eyebrows_eyeclose_00
-	bounds: 1545, 2022, 55, 24
+	bounds: 1545, 1970, 55, 24
 	offsets: 26, 0, 81, 47
 R_Eyebrows_eyeclose_01
-	bounds: 1923, 1544, 52, 22
+	bounds: 1923, 1492, 52, 22
 	offsets: 1, 1, 55, 23
 R_Face_Eyelid_00
-	bounds: 1761, 1977, 23, 12
+	bounds: 1761, 1925, 23, 12
 R_Face_Eyelid_01
-	bounds: 1688, 1672, 53, 30
+	bounds: 1688, 1620, 53, 30
 R_Face_Eyelid_02
-	bounds: 1703, 2005, 53, 41
+	bounds: 1703, 1953, 53, 41
 	offsets: 0, 0, 53, 42
 R_eyeblow_00
-	bounds: 1984, 1490, 61, 30
+	bounds: 1984, 1438, 61, 30
 R_eyeblow_01
-	bounds: 1448, 1485, 52, 25
+	bounds: 1448, 1433, 52, 25
 R_eyeblow_02
-	bounds: 1460, 1492, 58, 17
+	bounds: 1460, 1440, 58, 17
 	offsets: 3, 0, 61, 17
 R_eyeblow_03
-	bounds: 95, 2032, 63, 14
+	bounds: 95, 1980, 63, 14
 R_eyeblow_04
-	bounds: 1487, 1462, 48, 39
+	bounds: 1487, 1410, 48, 39
 	offsets: 1, 0, 49, 39
 R_eyeblow_05
-	bounds: 1637, 1669, 58, 15
+	bounds: 1637, 1617, 58, 15
 	offsets: 6, 1, 64, 17
 R_flush
-	bounds: 1910, 1869, 63, 47
+	bounds: 1910, 1817, 63, 47
 	offsets: 0, 0, 64, 47
 R_foot
-	bounds: 173, 253, 214, 151
+	bounds: 173, 201, 214, 151
 	offsets: 2, 0, 217, 172
 R_foot_ribbon 01
-	bounds: 1877, 2005, 44, 41
+	bounds: 1877, 1953, 44, 41
 	offsets: 1, 2, 46, 45
 R_foot_ribbon 02
-	bounds: 1978, 1749, 37, 56
+	bounds: 1978, 1697, 37, 56
 	offsets: 1, 0, 38, 56
 R_foot_ribbon 03
-	bounds: 224, 1835, 24, 83
+	bounds: 224, 1783, 24, 83
 	offsets: 1, 0, 25, 84
 R_foot_ribbon 04
-	bounds: 2008, 1652, 38, 80
+	bounds: 2008, 1600, 38, 80
 	offsets: 5, 0, 43, 80
 R_forearm_01_1
-	bounds: 1291, 1868, 88, 178
+	bounds: 1291, 1816, 88, 178
 	offsets: 0, 0, 88, 185
 R_forearm_01_2
-	bounds: 97, 1547, 64, 101
+	bounds: 97, 1495, 64, 101
 R_forearm_02
-	bounds: 1968, 1805, 75, 50
+	bounds: 1968, 1753, 75, 50
 	offsets: 0, 0, 76, 50
 R_hand
-	bounds: 4, 1366, 64, 83
+	bounds: 4, 1314, 64, 83
 	offsets: 1, 8, 67, 91
 R_hand_index
-	bounds: 1947, 1839, 19, 29
+	bounds: 1947, 1787, 19, 29
 	offsets: 2, 0, 22, 30
 R_hand_thumb_01
-	bounds: 1603, 1923, 44, 59
+	bounds: 1603, 1871, 44, 59
 	offsets: 0, 0, 44, 61
 R_hand_thumb_02
-	bounds: 180, 1890, 19, 42
+	bounds: 180, 1838, 19, 42
 R_lower leg
-	bounds: 89, 1649, 109, 384
+	bounds: 89, 1597, 109, 384
 	offsets: 0, 16, 117, 400
 R_nekoear_01
-	bounds: 1763, 1665, 41, 61
+	bounds: 1763, 1613, 41, 61
 	offsets: 0, 0, 46, 61
 R_nekoear_02
-	bounds: 1579, 1715, 85, 136
+	bounds: 1579, 1663, 85, 136
 	offsets: 0, 4, 85, 140
 R_ribbon 01
-	bounds: 1858, 1571, 36, 45
+	bounds: 1858, 1519, 36, 45
 R_ribbon 02
-	bounds: 2, 1802, 21, 53
+	bounds: 2, 1750, 21, 53
 	offsets: 0, 1, 22, 54
 R_ribbon line 01
-	bounds: 57, 1928, 28, 118
+	bounds: 57, 1876, 28, 118
 	offsets: 0, 0, 28, 119
 R_ribbon line 02
-	bounds: 113, 1447, 30, 102
+	bounds: 113, 1395, 30, 102
 R_terar_0
-	bounds: 2020, 1794, 26, 12
+	bounds: 2020, 1742, 26, 12
 R_twintale_1
-	bounds: 119, 1345, 157, 701
+	bounds: 119, 1293, 157, 701
 R_twintale_2
-	bounds: 1649, 180, 81, 251
+	bounds: 1649, 128, 81, 251
 	offsets: 0, 0, 81, 252
 R_twintale_3
-	bounds: 783, 301, 197, 506
+	bounds: 783, 249, 197, 506
 	offsets: 20, 0, 223, 506
 	rotate: 90
 R_twintale_4
-	bounds: 232, 1475, 106, 571
+	bounds: 232, 1423, 106, 571
 	rotate: 180
 R_twintale_5
-	bounds: 267, 1566, 46, 134
+	bounds: 267, 1514, 46, 134
 	offsets: 0, 0, 47, 134
 R_upper leg
-	bounds: 1347, 944, 466, 164
+	bounds: 1347, 892, 466, 164
 R_upperarm
-	bounds: 206, 1220, 131, 270
+	bounds: 206, 1168, 131, 270
 backhead
-	bounds: 1827, 446, 219, 239
+	bounds: 1827, 394, 219, 239
 chain_2_1
-	bounds: 1586, 159, 108, 286
+	bounds: 1586, 107, 108, 286
 chain_2_2
-	bounds: 1783, 907, 118, 272
+	bounds: 1783, 855, 118, 272
 chain_2_2_down
-	bounds: 69, 1836, 30, 55
+	bounds: 69, 1784, 30, 55
 chain_2_2_up
-	bounds: 1553, 1760, 28, 55
+	bounds: 1553, 1708, 28, 55
 chain_2_3
-	bounds: 1957, 1205, 89, 159
+	bounds: 1957, 1153, 89, 159
 chain_2_3_down
-	bounds: 1791, 1057, 99, 176
+	bounds: 1791, 1005, 99, 176
 	offsets: 30, 0, 129, 229
 chain_2_4
-	bounds: 187, 1418, 92, 286
+	bounds: 187, 1366, 92, 286
 chain_2_4_down
-	bounds: 14, 1649, 24, 57
+	bounds: 14, 1597, 24, 57
 	offsets: 0, 0, 24, 60
 chain_2_4_up
-	bounds: 314, 1963, 24, 57
+	bounds: 314, 1911, 24, 57
 chain_2_5
-	bounds: 1381, 1526, 55, 62
+	bounds: 1381, 1474, 55, 62
 	offsets: 0, 0, 55, 63
 chain_3_1
-	bounds: 2, 891, 99, 274
+	bounds: 2, 839, 99, 274
 chain_3_1_down
-	bounds: 2, 1729, 29, 55
+	bounds: 2, 1677, 29, 55
 chain_3_2
-	bounds: 1033, 138, 131, 266
+	bounds: 1033, 86, 131, 266
 chain_3_3
-	bounds: 1535, 144, 112, 264
+	bounds: 1535, 92, 112, 264
 chain_3_3_down
-	bounds: 3, 1686, 31, 56
+	bounds: 3, 1634, 31, 56
 	offsets: 0, 2, 32, 59
 chain_3_3_up
-	bounds: 231, 1935, 31, 54
+	bounds: 231, 1883, 31, 54
 chain_3_4
-	bounds: 1944, 1560, 102, 235
+	bounds: 1944, 1508, 102, 235
 face
-	bounds: 1768, 1258, 249, 300
+	bounds: 1768, 1206, 249, 300
 	rotate: 180
 face_light
-	bounds: 186, 1776, 26, 17
+	bounds: 186, 1724, 26, 17
 	offsets: 3, 4, 29, 21
 flush_full
-	bounds: 1127, 894, 233, 196
+	bounds: 1127, 842, 233, 196
 hairshadow_01
-	bounds: 1298, 1770, 72, 108
+	bounds: 1298, 1718, 72, 108
 	offsets: 8, 0, 80, 126
 hairshadow_02
-	bounds: 16, 1319, 56, 85
+	bounds: 16, 1267, 56, 85
 hairshadow_03
-	bounds: 220, 1614, 38, 105
+	bounds: 220, 1562, 38, 105
 	offsets: 1, 0, 44, 105
 halo 1
-	bounds: 1664, 1686, 100, 97
+	bounds: 1664, 1634, 100, 97
 halo 2
-	bounds: 807, 224, 263, 238
+	bounds: 807, 172, 263, 238
 mouth_00
-	bounds: 1919, 1857, 26, 15
+	bounds: 1919, 1805, 26, 15
 	offsets: 0, 1, 27, 16
 mouth_01
-	bounds: 163, 2026, 34, 20
+	bounds: 163, 1974, 34, 20
 mouth_02
-	bounds: 94, 2011, 31, 28
+	bounds: 94, 1959, 31, 28
 	offsets: 0, 0, 32, 28
 mouth_03
-	bounds: 1635, 1982, 19, 13
+	bounds: 1635, 1930, 19, 13
 mouth_03_2
-	bounds: 1577, 2010, 19, 14
+	bounds: 1577, 1958, 19, 14
 	offsets: 0, 0, 19, 17
 mouth_04
-	bounds: 2034, 2023, 12, 9
+	bounds: 2034, 1971, 12, 9
 mouth_05
-	bounds: 278, 1986, 15, 22
+	bounds: 278, 1934, 15, 22
 	offsets: 0, 1, 16, 24
 mouth_06
-	bounds: 1469, 1602, 31, 28
+	bounds: 1469, 1550, 31, 28
 	offsets: 1, 0, 33, 28
 mouth_07
-	bounds: 1670, 2028, 28, 18
+	bounds: 1670, 1976, 28, 18
 mouth_08
-	bounds: 1735, 1990, 28, 15
+	bounds: 1735, 1938, 28, 15
 	offsets: 1, 0, 29, 15
 neck
-	bounds: 1976, 1514, 70, 84
+	bounds: 1976, 1462, 70, 84
 	offsets: 2, 0, 72, 84
 serika shadow_01
-	bounds: 1499, 1368, 365, 294
+	bounds: 1499, 1316, 365, 294
 	offsets: 5, 0, 373, 298
 serika shadow_02
-	bounds: 1291, 1223, 336, 281
+	bounds: 1291, 1171, 336, 281
 	offsets: 0, 0, 336, 301
 	rotate: 270
 serika shadow_03
-	bounds: 1656, 1556, 490, 324
+	bounds: 1656, 1504, 490, 324
 	offsets: 3, 0, 493, 324
 	rotate: 270
 skirt_01
-	bounds: 2, 350, 279, 216
+	bounds: 2, 298, 279, 216
 	offsets: 0, 3, 294, 225
 skirt_02
-	bounds: 1560, 1056, 259, 260
+	bounds: 1560, 1004, 259, 260
 	offsets: 0, 1, 259, 262
 skirt_03
-	bounds: 1568, 1349, 93, 69
+	bounds: 1568, 1297, 93, 69
 skirt_04
-	bounds: 1291, 1104, 223, 136
+	bounds: 1291, 1052, 223, 136
 skirt_05
-	bounds: 1426, 1508, 86, 98
+	bounds: 1426, 1456, 86, 98
 sunlight_01
-	bounds: 165, 500, 1500, 591
+	bounds: 165, 448, 1500, 591
 sunlight_02
-	bounds: 2, 242, 850, 654
+	bounds: 2, 190, 850, 654
 sunlight_03
-	bounds: 339, 1092, 950, 954
+	bounds: 339, 1040, 950, 954
 sweat
-	bounds: 1392, 2036, 8, 10
+	bounds: 1392, 1984, 8, 10
 	offsets: 0, 0, 9, 11
 swing pillar_01
-	bounds: 2, 896, 171, 1150
+	bounds: 2, 844, 171, 1150
 swing pillar_02
-	bounds: 1250, 54, 796, 822
+	bounds: 1250, 2, 796, 822
 	offsets: 104, 0, 900, 822
 swing_base
-	bounds: 1686, 292, 302, 182
+	bounds: 1686, 240, 302, 182
 tear 1_0
-	bounds: 1529, 2039, 11, 7
+	bounds: 1529, 1987, 11, 7
 tear 1_1
-	bounds: 1700, 2033, 7, 13
+	bounds: 1700, 1981, 7, 13
 tear 1_2
-	bounds: 1884, 2038, 10, 8
+	bounds: 1884, 1986, 10, 8
 torso_01
-	bounds: 1291, 1584, 363, 462
+	bounds: 1291, 1532, 363, 462
 	offsets: 0, 0, 363, 485
 torso_02
-	bounds: 1577, 734, 198, 131
+	bounds: 1577, 682, 198, 131
 	offsets: 0, 1, 198, 157
 
 Serika_home_2.png
@@ -460,31 +460,31 @@ Serika_home_2.png
 	filter: Linear, Linear
 	scale: 0.5
 01/backmap
-	bounds: 754, 722, 850, 423
+	bounds: 754, 492, 850, 423
 	offsets: 0, 162, 850, 585
 	rotate: 180
 01/cloud 01
-	bounds: 2, 905, 1750, 704
+	bounds: 2, 675, 1750, 704
 	rotate: 180
 01/ground
-	bounds: 2, 1295, 1250, 751
+	bounds: 2, 1065, 1250, 751
 01/sky
-	bounds: 2, 698, 750, 455
+	bounds: 2, 468, 750, 455
 01/skyhalo_veritical_L
-	bounds: 2, 232, 291, 863
+	bounds: 2, 2, 291, 863
 	rotate: 270
 01/sunlight_01
-	bounds: 2, 361, 850, 335
+	bounds: 2, 131, 850, 335
 01/sunlight_02
-	bounds: 1508, 371, 700, 538
+	bounds: 1508, 141, 700, 538
 	rotate: 90
 01/sunlight_03
-	bounds: 1254, 1296, 750, 753
+	bounds: 1254, 1066, 750, 753
 	rotate: 90
 01/tree 1
-	bounds: 754, 458, 550, 263
+	bounds: 754, 228, 550, 263
 01/tree 3
-	bounds: 1158, 270, 348, 250
+	bounds: 1158, 40, 348, 250
 	offsets: 0, 0, 350, 250
 	rotate: 180
 
@@ -493,42 +493,42 @@ Serika_home_3.png
 	filter: Linear, Linear
 	scale: 0.5
 F/FX_bokhe_00
-	bounds: 1454, 1493, 548, 550
+	bounds: 1454, 1470, 548, 550
 F/FX_bokhe_L
-	bounds: 2, 58, 662, 722
+	bounds: 2, 35, 662, 722
 	rotate: 90
 F/FX_flares_Cenert
-	bounds: 726, 187, 787, 533
+	bounds: 726, 164, 787, 533
 	offsets: 1, 1, 789, 535
 F/FX_lense flares_01
-	bounds: 1514, 408, 247, 289
+	bounds: 1514, 385, 247, 289
 	offsets: 0, 0, 248, 289
 F/FX_lense flares_02
-	bounds: 2004, 2003, 40, 39
+	bounds: 2004, 1980, 40, 39
 	rotate: 90
 F/FX_lense flares_03
-	bounds: 1514, 699, 400, 286
+	bounds: 1514, 676, 400, 286
 F/FX_roundflare
-	bounds: 1454, 987, 500, 504
+	bounds: 1454, 964, 500, 504
 F/FX_toplight
-	bounds: 2, 722, 1450, 1321
+	bounds: 2, 699, 1450, 1321
 F/chain_1_1
-	bounds: 1578, 506, 191, 410
+	bounds: 1578, 483, 191, 410
 	rotate: 90
 F/chain_1_1_up
-	bounds: 1956, 1406, 47, 84
+	bounds: 1956, 1383, 47, 84
 	rotate: 90
 F/chain_1_2
-	bounds: 726, 25, 160, 399
+	bounds: 726, 2, 160, 399
 	offsets: 0, 0, 160, 400
 	rotate: 90
 F/chain_1_2_down
-	bounds: 1956, 1324, 46, 84
+	bounds: 1956, 1301, 46, 84
 F/chain_1_3
-	bounds: 1644, 160, 191, 411
+	bounds: 1644, 137, 191, 411
 F/chain_1_4
-	bounds: 1514, 40, 164, 400
+	bounds: 1514, 17, 164, 400
 	rotate: 270
 F/chain_1_4_up
-	bounds: 1956, 1443, 48, 84
+	bounds: 1956, 1420, 48, 84
 	rotate: 90
