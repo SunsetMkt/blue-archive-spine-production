@@ -1,83 +1,41 @@
-
 haruna_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.52
 00_default
-  rotate: false
-  xy: 127, 945
-  size: 90, 66
-  orig: 90, 66
-  offset: 0, 0
-  index: -1
+bounds:936,345,116,86
+rotate:90
+01_nomal
+bounds:621,40,116,84
 02_respond
-  rotate: false
-  xy: 590, 939
-  size: 90, 72
-  orig: 90, 72
-  offset: 0, 0
-  index: -1
+bounds:905,820,116,94
 03_smile
-  rotate: false
-  xy: 682, 938
-  size: 96, 73
-  orig: 96, 73
-  offset: 0, 0
-  index: -1
+bounds:779,819,124,95
 04_embarrassed
-  rotate: false
-  xy: 314, 943
-  size: 90, 68
-  orig: 90, 68
-  offset: 0, 0
-  index: -1
+bounds:503,57,116,89
 05_serious
-  rotate: false
-  xy: 498, 940
-  size: 90, 71
-  orig: 90, 71
-  offset: 0, 0
-  index: -1
+bounds:905,725,116,93
 06_shout
-  rotate: false
-  xy: 406, 942
-  size: 90, 69
-  orig: 90, 69
-  offset: 0, 0
-  index: -1
+bounds:621,126,116,89
 07_embarrassed2
-  rotate: false
-  xy: 2, 946
-  size: 123, 65
-  orig: 123, 65
-  offset: 0, 0
-  index: -1
+bounds:618,305,128,85
+offsets:0,0,160,85
 08
-  rotate: false
-  xy: 780, 938
-  size: 94, 73
-  orig: 94, 73
-  offset: 0, 0
-  index: -1
+bounds:779,722,122,95
 eyeclose
-  rotate: false
-  xy: 219, 945
-  size: 93, 66
-  orig: 93, 66
-  offset: 0, 0
-  index: -1
+bounds:620,217,121,86
 halo
-  rotate: false
-  xy: 2, 861
-  size: 169, 82
-  orig: 169, 82
-  offset: 0, 0
-  index: -1
+bounds:772,916,220,106
 haruna
-  rotate: true
-  xy: 2, 262
-  size: 597, 1009
-  orig: 597, 1009
-  offset: 0, 0
-  index: -1
+bounds:2,312,776,710
+offsets:0,601,776,1311
+haruna_c
+bounds:2,57,454,618
+offsets:28,1,776,1311
+rotate:90
+haruna_c1
+bounds:691,66,331,624
+offsets:430,0,776,1311
+oo_default
+bounds:913,606,117,86
+rotate:90

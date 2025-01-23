@@ -1,69 +1,28 @@
-
 Yukata_StreetGhostes_RL_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
-01_normal
-  rotate: false
-  xy: 529, 767
-  size: 27, 12
-  orig: 27, 12
-  offset: 0, 0
-  index: -1
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.6
 00_default
-  rotate: false
-  xy: 529, 767
-  size: 27, 12
-  orig: 27, 12
-  offset: 0, 0
-  index: -1
+	bounds: 83, 992, 34, 15
+01_normal
+	bounds: 83, 992, 34, 15
 02_respond
-  rotate: false
-  xy: 529, 744
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
+	bounds: 156, 1000, 10, 7
 03_smile
-  rotate: false
-  xy: 529, 757
-  size: 13, 8
-  orig: 13, 8
-  offset: 0, 0
-  index: -1
+	bounds: 119, 997, 17, 10
 04_embarassed
-  rotate: false
-  xy: 529, 781
-  size: 30, 13
-  orig: 30, 13
-  offset: 0, 0
-  index: -1
+	bounds: 43, 990, 38, 17
 05_serious
-  rotate: false
-  xy: 529, 751
-  size: 13, 4
-  orig: 13, 4
-  offset: 0, 0
-  index: -1
+	bounds: 138, 1002, 16, 5
 06_depressed
-  rotate: false
-  xy: 529, 796
-  size: 31, 15
-  orig: 31, 15
-  offset: 0, 0
-  index: -1
+	bounds: 2, 988, 39, 19
 Halo
-  rotate: true
-  xy: 529, 813
-  size: 180, 120
-  orig: 180, 120
-  offset: 0, 0
-  index: -1
+	bounds: 660, 783, 224, 151
+	rotate: 90
 Yukata_StreetGhostes_RL
-  rotate: false
-  xy: 2, 2
-  size: 525, 991
-  orig: 525, 991
-  offset: 0, 0
-  index: -1
+	bounds: 2, 303, 656, 704
+	offsets: 0, 535, 656, 1239
+Yukata_StreetGhostes_RL_2
+	bounds: 63, 2, 383, 556
+	offsets: 273, 0, 656, 1239
+	rotate: 270

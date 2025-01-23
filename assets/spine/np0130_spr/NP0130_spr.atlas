@@ -1,125 +1,50 @@
-
 NP0130_spr.png
-size: 1024,512
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:512,1024
+filter:Linear,Linear
+scale:0.62
 00_eye close
-  rotate: false
-  xy: 401, 58
-  size: 57, 77
-  orig: 57, 77
-  offset: 0, 0
-  index: -1
+bounds:315,922,70,95
 01_normal
-  rotate: true
-  xy: 319, 353
-  size: 56, 77
-  orig: 56, 77
-  offset: 0, 0
-  index: -1
+bounds:386,824,69,95
 02_respond
-  rotate: false
-  xy: 401, 137
-  size: 56, 78
-  orig: 56, 78
-  offset: 0, 0
-  index: -1
+bounds:387,921,69,96
 03_smile
-  rotate: false
-  xy: 286, 29
-  size: 56, 82
-  orig: 56, 82
-  offset: 0, 0
-  index: -1
+bounds:2,916,69,101
 default
-  rotate: false
-  xy: 286, 29
-  size: 56, 82
-  orig: 56, 82
-  offset: 0, 0
-  index: -1
+bounds:2,916,69,101
 04_embarassed
-  rotate: true
-  xy: 399, 4
-  size: 53, 77
-  orig: 53, 77
-  offset: 0, 0
-  index: -1
+bounds:368,727,65,95
 05_serious
-  rotate: false
-  xy: 773, 15
-  size: 53, 71
-  orig: 53, 71
-  offset: 0, 0
-  index: -1
+bounds:314,2,65,88
+rotate:90
 06_depressed
-  rotate: false
-  xy: 718, 10
-  size: 53, 76
-  orig: 53, 76
-  offset: 0, 0
-  index: -1
+bounds:435,728,65,94
 10
-  rotate: false
-  xy: 729, 204
-  size: 53, 73
-  orig: 53, 73
-  offset: 0, 0
-  index: -1
+bounds:2,18,65,91
+rotate:90
 11
-  rotate: false
-  xy: 735, 280
-  size: 53, 73
-  orig: 53, 73
-  offset: 0, 0
-  index: -1
+bounds:95,4,65,90
+rotate:90
 12
-  rotate: false
-  xy: 344, 4
-  size: 53, 79
-  orig: 53, 79
-  offset: 0, 0
-  index: -1
+bounds:2,816,65,98
 13
-  rotate: true
-  xy: 735, 354
-  size: 53, 73
-  orig: 53, 73
-  offset: 0, 0
-  index: -1
+bounds:222,9,65,90
+rotate:90
+14
+bounds:404,3,63,88
+rotate:90
+15
+bounds:298,732,68,91
 7
-  rotate: false
-  xy: 344, 85
-  size: 55, 80
-  orig: 55, 80
-  offset: 0, 0
-  index: -1
+bounds:245,918,68,99
 8
-  rotate: false
-  xy: 2, 7
-  size: 56, 77
-  orig: 56, 77
-  offset: 0, 0
-  index: -1
+bounds:315,825,69,95
 9
-  rotate: false
-  xy: 733, 88
-  size: 53, 73
-  orig: 53, 73
-  offset: 0, 0
-  index: -1
+bounds:445,373,65,91
 Soph
-  rotate: true
-  xy: 2, 29
-  size: 381, 534
-  orig: 381, 893
-  offset: 0, 0
-  index: -1
+bounds:2,355,472,662
+offsets:0,0,472,1107
 Soph4
-  rotate: false
-  xy: 495, 26
-  size: 238, 384
-  orig: 381, 893
-  offset: 20, 509
-  index: -1
+bounds:2,66,296,475
+offsets:24,632,472,1107
+rotate:90

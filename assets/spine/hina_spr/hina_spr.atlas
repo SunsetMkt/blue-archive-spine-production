@@ -1,209 +1,68 @@
-
 hina_spr.png
-size: 2048,2048
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:2048,2048
+filter:Linear,Linear
+scale:0.68
 00_defalt
-  rotate: false
-  xy: 1091, 1719
-  size: 149, 113
-  orig: 149, 113
-  offset: 0, 0
-  index: -1
+bounds:178,1789,132,100
 01_halo
-  rotate: true
-  xy: 1623, 796
-  size: 887, 264
-  orig: 887, 264
-  offset: 0, 0
-  index: -1
+bounds:2,387,783,233
 01_nomal
-  rotate: false
-  xy: 1103, 1606
-  size: 149, 112
-  orig: 149, 112
-  offset: 0, 0
-  index: -1
+bounds:1274,1656,132,99
 02_halo
-  rotate: false
-  xy: 756, 830
-  size: 306, 50
-  orig: 306, 50
-  offset: 0, 0
-  index: -1
+bounds:2,2002,270,44
 02_respond
-  rotate: false
-  xy: 952, 1555
-  size: 149, 124
-  orig: 149, 124
-  offset: 0, 0
-  index: -1
+bounds:2,1891,132,109
 03_smile
-  rotate: false
-  xy: 566, 537
-  size: 149, 109
-  orig: 149, 109
-  offset: 0, 0
-  index: -1
+bounds:732,1306,132,97
 04_embarrass
-  rotate: false
-  xy: 649, 312
-  size: 145, 109
-  orig: 145, 109
-  offset: 0, 0
-  index: -1
+bounds:601,1201,128,97
 05_serious
-  rotate: false
-  xy: 697, 724
-  size: 149, 105
-  orig: 149, 105
-  offset: 0, 0
-  index: -1
+bounds:2,1120,132,92
 06_shout
-  rotate: false
-  xy: 153, 887
-  size: 146, 119
-  orig: 146, 119
-  offset: 0, 0
-  index: -1
+bounds:1046,1804,129,105
 07
-  rotate: false
-  xy: 2, 882
-  size: 149, 123
-  orig: 149, 123
-  offset: 0, 0
-  index: -1
+bounds:135,1891,132,109
 08
-  rotate: false
-  xy: 937, 1726
-  size: 152, 123
-  orig: 152, 123
-  offset: 0, 0
-  index: -1
+bounds:1866,1937,134,109
 09
-  rotate: false
-  xy: 32, 1451
-  size: 165, 136
-  orig: 165, 136
-  offset: 0, 0
-  index: -1
+bounds:1718,1926,146,120
 10
-  rotate: false
-  xy: 875, 1851
-  size: 194, 153
-  orig: 194, 153
-  offset: 0, 0
-  index: -1
+bounds:1046,1911,171,135
 11
-  rotate: false
-  xy: 951, 1426
-  size: 156, 126
-  orig: 156, 126
-  offset: 0, 0
-  index: -1
+bounds:274,1934,138,112
 12
-  rotate: false
-  xy: 1285, 1895
-  size: 151, 109
-  orig: 151, 109
-  offset: 0, 0
-  index: -1
+bounds:1013,1314,133,97
 13
-  rotate: false
-  xy: 893, 882
-  size: 149, 100
-  orig: 149, 100
-  offset: 0, 0
-  index: -1
+bounds:879,1319,132,88
 14
-  rotate: false
-  xy: 483, 424
-  size: 149, 110
-  orig: 149, 110
-  offset: 0, 0
-  index: -1
+bounds:468,1298,131,97
 15
-  rotate: false
-  xy: 2, 1590
-  size: 151, 225
-  orig: 151, 225
-  offset: 0, 0
-  index: -1
+bounds:911,1847,133,199
 16
-  rotate: false
-  xy: 155, 756
-  size: 146, 124
-  orig: 146, 124
-  offset: 0, 0
-  index: -1
+bounds:1899,1827,129,109
 17
-  rotate: false
-  xy: 2, 650
-  size: 152, 109
-  orig: 152, 109
-  offset: 0, 0
-  index: -1
+bounds:1226,1557,134,97
 18
-  rotate: false
-  xy: 2, 544
-  size: 149, 103
-  orig: 149, 103
-  offset: 0, 0
-  index: -1
+bounds:576,1108,132,91
 19
-  rotate: false
-  xy: 2, 761
-  size: 152, 119
-  orig: 152, 119
-  offset: 0, 0
-  index: -1
+bounds:1219,1941,134,105
 20
-  rotate: false
-  xy: 1420, 1793
-  size: 145, 100
-  orig: 145, 100
-  offset: 0, 0
-  index: -1
+bounds:1426,1049,128,88
 eyeclose
-  rotate: false
-  xy: 634, 423
-  size: 146, 112
-  orig: 146, 112
-  offset: 0, 0
-  index: -1
+bounds:601,1300,129,99
 halo
-  rotate: false
-  xy: 303, 877
-  size: 133, 128
-  orig: 133, 128
-  offset: 0, 0
-  index: -1
-hina_01
-  rotate: false
-  xy: 1053, 76
-  size: 951, 904
-  orig: 951, 904
-  offset: 0, 0
-  index: -1
-hina_02
-  rotate: false
-  xy: 2, 1007
-  size: 949, 998
-  orig: 949, 998
-  offset: 0, 0
-  index: -1
-hina_03
-  rotate: true
-  xy: 2, 104
-  size: 919, 1063
-  orig: 919, 1063
-  offset: 0, 0
-  index: -1
-hina_04
-  rotate: true
-  xy: 952, 508
-  size: 1496, 669
-  orig: 1496, 669
-  offset: 0, 0
-  index: -1
+bounds:1339,1757,118,113
+hina
+bounds:1205,1133,841,891
+offsets:685,47,2464,1527
+hina_1
+bounds:2,1394,1361,652
+offsets:519,875,2464,1527
+rotate:180
+hina_2
+bounds:1074,198,953,972
+offsets:0,0,2464,1527
+rotate:90
+hina_3
+bounds:32,621,1202,888
+offsets:1262,65,2464,1527

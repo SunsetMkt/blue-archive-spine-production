@@ -1,0 +1,69 @@
+
+Ui_RaidBoss_Chesed.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: true
+  xy: 810, 233
+  size: 215, 213
+  orig: 218, 217
+  offset: 1, 2
+  index: -1
+Center_Back
+  rotate: true
+  xy: 750, 527
+  size: 496, 242
+  orig: 500, 242
+  offset: 2, 0
+  index: -1
+Center_BackBlack
+  rotate: false
+  xy: 395, 232
+  size: 294, 117
+  orig: 297, 119
+  offset: 2, 0
+  index: -1
+Center_BottomPillar
+  rotate: false
+  xy: 183, 317
+  size: 280, 171
+  orig: 283, 171
+  offset: 2, 0
+  index: -1
+Front
+  rotate: 270
+  xy: 2, 237
+  size: 269, 202
+  orig: 270, 204
+  offset: 1, 2
+  index: -1
+Halo_Small
+  rotate: 180
+  xy: 547, 946
+  size: 239, 76
+  orig: 239, 76
+  offset: 0, 0
+  index: -1
+Left
+  rotate: true
+  xy: 453, 329
+  size: 277, 417
+  orig: 278, 417
+  offset: 0, 0
+  index: -1
+Right
+  rotate: 270
+  xy: 389, 536
+  size: 487, 361
+  orig: 487, 361
+  offset: 0, 0
+  index: -1
+Top
+  rotate: false
+  xy: 2, 464
+  size: 389, 559
+  orig: 389, 560
+  offset: 0, 0
+  index: -1

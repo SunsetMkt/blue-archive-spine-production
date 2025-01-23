@@ -1,0 +1,174 @@
+
+NP0216_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 759, 384
+  size: 121, 118
+  orig: 121, 118
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 540, 464
+  size: 109, 108
+  orig: 121, 120
+  offset: 6, 6
+  index: -1
+03
+  rotate: false
+  xy: 2, 184
+  size: 110, 104
+  orig: 122, 116
+  offset: 6, 6
+  index: -1
+04
+  rotate: true
+  xy: 651, 505
+  size: 110, 106
+  orig: 122, 118
+  offset: 6, 6
+  index: -1
+05
+  rotate: true
+  xy: 651, 757
+  size: 109, 105
+  orig: 121, 117
+  offset: 6, 6
+  index: -1
+06
+  rotate: false
+  xy: 570, 617
+  size: 110, 107
+  orig: 122, 119
+  offset: 6, 6
+  index: -1
+07
+  rotate: false
+  xy: 685, 261
+  size: 103, 108
+  orig: 115, 120
+  offset: 6, 6
+  index: -1
+08
+  rotate: false
+  xy: 753, 10
+  size: 103, 106
+  orig: 115, 118
+  offset: 6, 6
+  index: -1
+09
+  rotate: false
+  xy: 758, 766
+  size: 101, 106
+  orig: 113, 118
+  offset: 6, 6
+  index: -1
+10
+  rotate: false
+  xy: 2, 290
+  size: 110, 109
+  orig: 122, 121
+  offset: 6, 6
+  index: -1
+11
+  rotate: false
+  xy: 2, 514
+  size: 113, 111
+  orig: 125, 123
+  offset: 6, 6
+  index: -1
+12
+  rotate: false
+  xy: 647, 868
+  size: 105, 112
+  orig: 117, 124
+  offset: 6, 6
+  index: -1
+13
+  rotate: true
+  xy: 682, 617
+  size: 107, 105
+  orig: 119, 117
+  offset: 6, 6
+  index: -1
+14
+  rotate: false
+  xy: 480, 354
+  size: 110, 108
+  orig: 122, 120
+  offset: 6, 6
+  index: -1
+15
+  rotate: false
+  xy: 117, 387
+  size: 110, 112
+  orig: 122, 124
+  offset: 6, 6
+  index: -1
+16
+  rotate: false
+  xy: 114, 203
+  size: 104, 110
+  orig: 116, 122
+  offset: 6, 6
+  index: -1
+17
+  rotate: false
+  xy: 2, 401
+  size: 113, 111
+  orig: 125, 123
+  offset: 6, 6
+  index: -1
+18
+  rotate: true
+  xy: 759, 506
+  size: 109, 98
+  orig: 121, 110
+  offset: 6, 6
+  index: -1
+Halo
+  rotate: true
+  xy: 680, 48
+  size: 216, 125
+  orig: 217, 128
+  offset: 1, 1
+  index: -1
+NP0216
+  rotate: 270
+  xy: 2, 4
+  size: 367, 682
+  orig: 649, 1444
+  offset: 271, 0
+  index: -1
+NP0216_c
+  rotate: false
+  xy: 2, 164
+  size: 649, 817
+  orig: 649, 1444
+  offset: 0, 627
+  index: -1
+Nose
+  rotate: false
+  xy: 2, 945
+  size: 21, 35
+  orig: 34, 48
+  offset: 7, 6
+  index: -1
+default
+  rotate: true
+  xy: 651, 394
+  size: 109, 106
+  orig: 121, 118
+  offset: 6, 6
+  index: -1
+eyeclose
+  rotate: false
+  xy: 754, 874
+  size: 103, 106
+  orig: 115, 118
+  offset: 6, 6
+  index: -1

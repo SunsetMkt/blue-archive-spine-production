@@ -1,111 +1,70 @@
-
 CH0139_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.6
 00_defualt
-  rotate: false
-  xy: 2, 190
-  size: 103, 101
-  orig: 103, 101
-  offset: 0, 0
-  index: -1
+bounds:2,183,103,101
 01_normal
-  rotate: false
-  xy: 2, 190
-  size: 103, 101
-  orig: 103, 101
-  offset: 0, 0
-  index: -1
+bounds:2,183,103,101
 02_respond
-  rotate: false
-  xy: 757, 568
-  size: 103, 103
-  orig: 103, 103
-  offset: 0, 0
-  index: -1
+bounds:757,662,103,103
 03_smile
-  rotate: false
-  xy: 2, 89
-  size: 104, 99
-  orig: 104, 99
-  offset: 0, 0
-  index: -1
+bounds:406,94,104,99
 04_embarrassed
-  rotate: true
-  xy: 862, 557
-  size: 104, 101
-  orig: 104, 101
-  offset: 0, 0
-  index: -1
+bounds:918,257,104,101
 05_serious
-  rotate: false
-  xy: 918, 167
-  size: 103, 100
-  orig: 103, 100
-  offset: 0, 0
-  index: -1
+bounds:107,101,103,100
 06_depressed
-  rotate: false
-  xy: 2, 294
-  size: 104, 101
-  orig: 104, 101
-  offset: 0, 0
-  index: -1
+bounds:2,286,104,101
 07
-  rotate: true
-  xy: 900, 68
-  size: 98, 103
-  orig: 98, 103
-  offset: 0, 0
-  index: -1
+bounds:512,88,98,103
+rotate:90
 08
-  rotate: true
-  xy: 107, 10
-  size: 98, 101
-  orig: 98, 101
-  offset: 0, 0
-  index: -1
+bounds:719,75,98,101
+rotate:90
 09
-  rotate: true
-  xy: 406, 3
-  size: 96, 101
-  orig: 96, 101
-  offset: 0, 0
-  index: -1
+bounds:822,57,96,101
+rotate:90
+10
+bounds:617,80,100,100
+offsets:6,6,112,112
+11
+bounds:2,389,103,102
+offsets:6,6,115,114
+12
+bounds:212,74,96,103
+offsets:6,6,108,115
+rotate:90
+13
+bounds:104,3,98,96
+offsets:6,6,110,108
+14
+bounds:2,81,100,100
+offsets:6,6,112,112
+15
+bounds:900,155,100,103
+offsets:6,6,112,115
+rotate:90
+16
+bounds:925,53,95,100
+offsets:6,6,107,112
+17
+bounds:862,652,103,102
+offsets:6,6,115,114
+rotate:90
+18
+bounds:317,2,100,90
+offsets:6,6,112,102
 CH0139
-  rotate: false
-  xy: 2, 77
-  size: 617, 696
-  orig: 617, 1322
-  offset: 0, 626
-  index: -1
+bounds:2,171,617,696
+offsets:0,626,617,1322
 CH01399
-  rotate: false
-  xy: 454, 75
-  size: 493, 698
-  orig: 617, 1322
-  offset: 60, 0
-  index: -1
+bounds:454,169,493,698
+offsets:60,0,617,1322
 Halo
-  rotate: false
-  xy: 748, 662
-  size: 192, 110
-  orig: 192, 110
-  offset: 0, 0
-  index: -1
+bounds:748,757,192,110
 Nose
-  rotate: false
-  xy: 2, 736
-  size: 23, 36
-  orig: 23, 36
-  offset: 0, 0
-  index: -1
+bounds:2,831,23,36
 eyeclose
-  rotate: 180
-  xy: 915, 453
-  size: 98, 101
-  orig: 98, 101
-  offset: 0, 0
-  index: -1
+bounds:914,549,98,101
+rotate:180

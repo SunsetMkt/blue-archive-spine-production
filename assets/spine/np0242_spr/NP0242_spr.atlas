@@ -1,0 +1,34 @@
+
+NP0242_spr.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NP0242
+  rotate: false
+  xy: 2, 3
+  size: 528, 950
+  orig: 535, 1561
+  offset: 0, 0
+  index: -1
+NP0242_C
+  rotate: 180
+  xy: 411, 283
+  size: 483, 670
+  orig: 535, 1561
+  offset: 52, 891
+  index: -1
+halo_1
+  rotate: true
+  xy: 723, 58
+  size: 223, 163
+  orig: 223, 163
+  offset: 0, 0
+  index: -1
+halo_2
+  rotate: false
+  xy: 493, 70
+  size: 228, 167
+  orig: 228, 167
+  offset: 0, 0
+  index: -1

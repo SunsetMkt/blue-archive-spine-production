@@ -1,97 +1,36 @@
-
 fuuka_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.55
 00_default
-  rotate: false
-  xy: 94, 653
-  size: 91, 73
-  orig: 91, 73
-  offset: 0, 0
-  index: -1
+bounds:683,636,114,91
 01_normal
-  rotate: false
-  xy: 133, 562
-  size: 91, 71
-  orig: 91, 71
-  offset: 0, 0
-  index: -1
+bounds:908,637,114,89
 02_respond
-  rotate: false
-  xy: 2, 728
-  size: 91, 77
-  orig: 91, 77
-  offset: 0, 0
-  index: -1
+bounds:683,728,114,97
 03_smile
-  rotate: false
-  xy: 209, 908
-  size: 85, 78
-  orig: 85, 78
-  offset: 0, 0
-  index: -1
+bounds:914,728,107,97
 04_embarrass
-  rotate: false
-  xy: 2, 650
-  size: 91, 76
-  orig: 91, 76
-  offset: 0, 0
-  index: -1
+bounds:799,730,113,95
 05_serious
-  rotate: false
-  xy: 95, 732
-  size: 88, 74
-  orig: 88, 74
-  offset: 0, 0
-  index: -1
+bounds:840,543,110,92
 06_depressed
-  rotate: false
-  xy: 388, 606
-  size: 91, 69
-  orig: 91, 69
-  offset: 0, 0
-  index: -1
+bounds:908,265,114,86
 07_GAG
-  rotate: false
-  xy: 185, 736
-  size: 85, 70
-  orig: 85, 70
-  offset: 0, 0
-  index: -1
+bounds:799,641,106,87
 08_zitome
-  rotate: false
-  xy: 209, 833
-  size: 87, 73
-  orig: 87, 73
-  offset: 0, 0
-  index: -1
-Halo
-  rotate: false
-  xy: 2, 897
-  size: 205, 88
-  orig: 205, 88
-  offset: 0, 0
-  index: -1
+bounds:2,318,109,91
 Halo_Blur
-  rotate: false
-  xy: 2, 807
-  size: 205, 88
-  orig: 205, 88
-  offset: 0, 0
-  index: -1
+bounds:178,720,250,105
+offsets:3,3,256,111
 eyeclose
-  rotate: false
-  xy: 362, 914
-  size: 91, 71
-  orig: 91, 71
-  offset: 0, 0
-  index: -1
+bounds:2,411,113,89
 fuuka
-  rotate: false
-  xy: 2, 3
-  size: 557, 983
-  orig: 557, 983
-  offset: 0, 0
-  index: -1
+bounds:503,2,519,619
+offsets:112,0,696,1229
+fuuka_c
+bounds:2,59,696,766
+offsets:0,463,696,1229
+halo
+bounds:430,721,251,104
+offsets:2,1,256,111
