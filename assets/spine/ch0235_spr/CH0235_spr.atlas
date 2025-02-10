@@ -1,146 +1,49 @@
-
 CH0235_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.65
 00_default
-  rotate: true
-  xy: 602, 543
-  size: 117, 96
-  orig: 117, 96
-  offset: 0, 0
-  index: -1
+bounds:2,658,138,114
 01_normal
-  rotate: true
-  xy: 740, 243
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:106,80,138,103
 02_respond
-  rotate: false
-  xy: 2, 3
-  size: 117, 92
-  orig: 117, 92
-  offset: 0, 0
-  index: -1
+bounds:616,314,138,109
 03_smile
-  rotate: true
-  xy: 650, 124
-  size: 117, 92
-  orig: 117, 92
-  offset: 0, 0
-  index: -1
+bounds:845,314,138,109
 04_embarassed
-  rotate: true
-  xy: 647, 260
-  size: 117, 92
-  orig: 117, 92
-  offset: 0, 0
-  index: -1
+bounds:2,547,138,109
 05_serious
-  rotate: true
-  xy: 691, 5
-  size: 117, 88
-  orig: 117, 88
-  offset: 0, 0
-  index: -1
+bounds:896,175,138,104
+rotate:90
 06_depressed
-  rotate: true
-  xy: 790, 480
-  size: 117, 85
-  orig: 117, 85
-  offset: 0, 0
-  index: -1
+bounds:404,29,138,101
 07_respond_2
-  rotate: false
-  xy: 744, 124
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:264,84,138,103
 08_smile_2
-  rotate: true
-  xy: 781, 5
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:743,99,138,103
 09_depressed_2
-  rotate: false
-  xy: 790, 598
-  size: 117, 85
-  orig: 117, 85
-  offset: 0, 0
-  index: -1
+bounds:883,72,138,101
 10_pouting
-  rotate: true
-  xy: 700, 538
-  size: 117, 88
-  orig: 117, 88
-  offset: 0, 0
-  index: -1
+bounds:610,208,138,104
 11_surprise
-  rotate: true
-  xy: 690, 379
-  size: 117, 92
-  orig: 117, 92
-  offset: 0, 0
-  index: -1
+bounds:756,204,138,109
 12_sad
-  rotate: true
-  xy: 830, 213
-  size: 117, 84
-  orig: 117, 84
-  offset: 0, 0
-  index: -1
+bounds:544,2,138,99
 99_eye close
-  rotate: true
-  xy: 784, 361
-  size: 117, 87
-  orig: 117, 87
-  offset: 0, 0
-  index: -1
+bounds:603,103,138,103
 CH0235
-  rotate: false
-  xy: 2, 14
-  size: 438, 699
-  orig: 438, 1152
-  offset: 0, 453
-  index: -1
+bounds:185,425,518,837
+offsets:0,525,518,1362
+rotate:90
 CH0235_1
-  rotate: 180
-  xy: 380, 38
-  size: 323, 512
-  orig: 438, 1152
-  offset: 82, 0
-  index: -1
+bounds:2,125,393,613
+offsets:93,0,518,1362
+rotate:270
 fronthair
-  rotate: false
-  xy: 442, 550
-  size: 158, 109
-  orig: 158, 109
-  offset: 0, 0
-  index: -1
+bounds:2,773,187,129
 halo_01
-  rotate: true
-  xy: 2, 97
-  size: 236, 50
-  orig: 236, 50
-  offset: 0, 0
-  index: -1
+bounds:284,906,279,58
 halo_02
-  rotate: false
-  xy: 333, 661
-  size: 237, 51
-  orig: 237, 51
-  offset: 0, 0
-  index: -1
+bounds:2,904,280,60
 halo_03
-  rotate: true
-  xy: 862, 124
-  size: 79, 56
-  orig: 79, 56
-  offset: 0, 0
-  index: -1
+bounds:330,838,94,66

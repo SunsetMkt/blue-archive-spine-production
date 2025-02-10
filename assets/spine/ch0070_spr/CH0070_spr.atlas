@@ -1,104 +1,36 @@
-
 CH0070_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.62
 00_eyeclose
-  rotate: true
-  xy: 778, 804
-  size: 109, 100
-  orig: 109, 100
-  offset: 0, 0
-  index: -1
+bounds:897,799,125,114
 01_normal
-  rotate: true
-  xy: 350, 35
-  size: 109, 100
-  orig: 109, 100
-  offset: 0, 0
-  index: -1
+bounds:9,235,125,114
 default
-  rotate: true
-  xy: 350, 35
-  size: 109, 100
-  orig: 109, 100
-  offset: 0, 0
-  index: -1
+bounds:9,235,125,114
 02_respond
-  rotate: false
-  xy: 2, 46
-  size: 109, 103
-  orig: 109, 103
-  offset: 0, 0
-  index: -1
+bounds:2,115,125,118
 03_smile
-  rotate: false
-  xy: 714, 8
-  size: 107, 98
-  orig: 107, 98
-  offset: 0, 0
-  index: -1
+bounds:521,568,123,114
 04_embarrass
-  rotate: false
-  xy: 2, 151
-  size: 109, 103
-  orig: 109, 103
-  offset: 0, 0
-  index: -1
+bounds:332,117,125,116
+offsets:0,2,125,118
 04_embarrass_02
-  rotate: true
-  xy: 511, 545
-  size: 156, 104
-  orig: 156, 104
-  offset: 0, 0
-  index: -1
+bounds:745,903,175,119
 05_serious
-  rotate: false
-  xy: 599, 12
-  size: 104, 94
-  orig: 104, 94
-  offset: 0, 0
-  index: -1
+bounds:154,101,119,109
 06_depressed
-  rotate: false
-  xy: 153, 3
-  size: 105, 91
-  orig: 105, 91
-  offset: 0, 0
-  index: -1
+bounds:535,808,120,105
 08_sick
-  rotate: false
-  xy: 624, 836
-  size: 151, 92
-  orig: 151, 92
-  offset: 0, 0
-  index: -1
+bounds:573,915,170,107
 09_sleep
-  rotate: false
-  xy: 2, 256
-  size: 109, 103
-  orig: 109, 103
-  offset: 0, 0
-  index: -1
-CH0070_1
-  rotate: false
-  xy: 2, 44
-  size: 621, 884
-  orig: 621, 884
-  offset: 0, 0
-  index: -1
-CH0070_2
-  rotate: 270
-  xy: 403, 35
-  size: 792, 473
-  orig: 792, 473
-  offset: 0, 0
-  index: -1
+bounds:2,350,125,118
+CH0070
+bounds:2,138,570,884
+offsets:70,559,851,1443
+CH0070_C
+bounds:418,6,851,604
+offsets:0,0,851,1443
+rotate:270
 Halo
-  rotate: true
-  xy: 648, 108
-  size: 212, 171
-  orig: 212, 171
-  offset: 0, 0
-  index: -1
+bounds:692,90,234,190
