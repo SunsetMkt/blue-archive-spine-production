@@ -1,59 +1,57 @@
 aris_spr.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.51
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.5
 00_default
-bounds:2,39,123,75
+	bounds: 125, 96, 121, 74
 01_normal
-bounds:526,50,123,76
+	bounds: 2, 95, 121, 75
 02_respond
-bounds:673,85,123,76
+	bounds: 528, 96, 121, 75
 03_smile
-bounds:126,194,123,83
+	bounds: 125, 172, 121, 81
 04_embarassed
-bounds:548,128,123,82
+	bounds: 2, 206, 121, 81
 05_serious
-bounds:837,99,123,76
+	bounds: 672, 129, 121, 75
 06_depressed
-bounds:127,40,123,74
+	bounds: 795, 84, 121, 73
 07
-bounds:2,211,122,84
+	bounds: 902, 236, 120, 82
 08
-bounds:2,297,122,85
+	bounds: 891, 800, 120, 83
 09
-bounds:128,116,123,76
+	bounds: 839, 159, 121, 75
 10
-bounds:902,177,120,85
+	bounds: 2, 289, 118, 84
 11
-bounds:126,299,112,75
+	bounds: 122, 299, 110, 74
 12
-bounds:2,384,124,118
+	bounds: 2, 375, 122, 116
 13
-bounds:651,11,122,72
+	bounds: 508, 23, 120, 71
 14
-bounds:798,26,124,71
+	bounds: 125, 24, 122, 70
 15
-bounds:491,951,124,71
+	bounds: 481, 932, 122, 70
 16
-bounds:2,116,124,76
+	bounds: 548, 173, 122, 75
 17
-bounds:2,504,124,118
+	bounds: 2, 493, 122, 116
 18
-bounds:2,624,124,118
+	bounds: 2, 611, 122, 116
 19
-bounds:892,771,124,119
+	bounds: 891, 885, 122, 117
 aris
-bounds:2,2,760,1020
-offsets:0,0,882,1020
+	bounds: 2, 2, 745, 1000
+	offsets: 0, 0, 865, 1000
 eyeclose
-bounds:906,903,119,72
-offsets:1,1,121,76
-rotate:90
+	bounds: 651, 54, 117, 73
+	offsets: 1, 1, 119, 75
 halo
-bounds:764,892,140,130
-offsets:2,2,144,134
+	bounds: 749, 872, 140, 130
+	offsets: 1, 1, 142, 132
 weapon_00
-bounds:532,162,412,436
+	bounds: 529, 206, 404, 427
 weapon_01
-bounds:637,369,385,471
-offsets:0,0,386,471
+	bounds: 644, 399, 378, 462

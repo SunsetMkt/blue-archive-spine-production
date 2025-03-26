@@ -1,84 +1,84 @@
 nagisa_spr.png
-size:2048,1024
-filter:Linear,Linear
-scale:0.58
+	size: 2048, 1024
+	filter: Linear, Linear
+	scale: 0.58
 00_default
-bounds:1522,324,107,84
+	bounds: 1831, 320, 107, 84
 01_normal
-bounds:1522,324,107,84
+	bounds: 1831, 320, 107, 84
 02_respond
-bounds:1868,798,107,86
+	bounds: 1868, 798, 107, 86
 03_smile
-bounds:841,356,107,84
+	bounds: 1522, 324, 107, 84
 04_embarassed
-bounds:1566,885,108,88
-rotate:90
+	bounds: 1566, 885, 108, 88
+	rotate: 90
 05_serious
-bounds:893,810,107,86
+	bounds: 893, 810, 107, 86
 06_depressed
-bounds:1939,295,106,84
+	bounds: 810, 268, 106, 84
 07
-bounds:2,373,107,85
+	bounds: 841, 354, 107, 85
 08
-bounds:913,270,102,84
+	bounds: 1559, 238, 102, 84
 09
-bounds:1457,900,107,93
+	bounds: 1457, 900, 107, 93
 10
-bounds:1826,900,106,93
+	bounds: 1826, 900, 106, 93
 11
-bounds:1886,624,108,85
+	bounds: 1886, 624, 108, 85
 12
-bounds:1868,711,108,85
+	bounds: 1868, 711, 108, 85
 13
-bounds:1934,886,107,86
-rotate:90
+	bounds: 1934, 886, 107, 86
+	rotate: 90
 14
-bounds:1939,381,107,85
+	bounds: 2, 373, 107, 85
 15
-bounds:1026,899,107,94
+	bounds: 1026, 899, 107, 94
 16
-bounds:910,442,106,86
+	bounds: 1940, 380, 106, 86
 17
-bounds:1934,212,101,81
-offsets:6,5,113,92
+	bounds: 433, 212, 103, 82
+	offsets: 5, 5, 113, 92
 18
-bounds:434,214,101,81
-offsets:6,6,113,93
+	bounds: 1831, 235, 103, 83
+	offsets: 5, 5, 113, 93
 19
-bounds:1727,262,102,83
-offsets:6,5,114,93
+	bounds: 1725, 261, 104, 83
+	offsets: 5, 5, 114, 93
 20
-bounds:1831,237,101,81
-offsets:6,5,113,92
+	bounds: 1936, 209, 103, 81
+	offsets: 5, 5, 113, 92
 21
-bounds:1559,239,101,83
-offsets:6,6,113,95
+	bounds: 918, 267, 103, 85
+	offsets: 5, 5, 113, 95
 22
-bounds:2,203,99,81
-offsets:6,6,111,93
+	bounds: 2, 203, 101, 82
+	offsets: 5, 5, 111, 93
 23
-bounds:810,269,101,85
-offsets:6,5,113,96
+	bounds: 1940, 292, 103, 86
+	offsets: 5, 5, 113, 96
 24
-bounds:2,286,104,85
-offsets:6,6,116,97
+	bounds: 911, 441, 105, 87
+	offsets: 5, 5, 116, 97
 diorama
-bounds:1177,2,483,486
-offsets:0,548,906,1034
-rotate:180
+	bounds: 1177, 2, 483, 486
+	offsets: 0, 548, 906, 1034
+	rotate: 180
 diorama1
-bounds:2,177,890,816
-offsets:16,0,906,1034
+	bounds: 2, 177, 890, 816
+	offsets: 16, 0, 906, 1034
 eyeclose
-bounds:1831,320,106,84
+	bounds: 2, 287, 106, 84
 front hair
-bounds:893,896,131,97
-offsets:0,2,131,99
+	bounds: 893, 896, 131, 97
+	offsets: 0, 2, 131, 99
 halo
-bounds:192,234,278,206
+	bounds: 192, 234, 278, 206
 nagisa
-bounds:836,252,687,741
-offsets:53,455,740,1196
+	bounds: 836, 252, 687, 741
+	offsets: 53, 455, 740, 1196
 nagisa2
-bounds:1442,323,589,670
-offsets:0,0,740,1196
+	bounds: 1442, 323, 589, 670
+	offsets: 0, 0, 740, 1196

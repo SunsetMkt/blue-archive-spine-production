@@ -1,78 +1,78 @@
 NP0083_spr.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.59
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.59
 00_default
-bounds:914,91,108,86
+	bounds: 914, 94, 108, 86
 01_normal
-bounds:914,91,108,86
+	bounds: 914, 94, 108, 86
 02_respond
-bounds:899,402,108,88
+	bounds: 381, 370, 108, 88
 03_smile
-bounds:2,138,109,86
+	bounds: 112, 141, 109, 86
 04_embarassed
-bounds:773,491,110,88
+	bounds: 773, 494, 110, 88
 05_serious
-bounds:112,226,108,87
+	bounds: 2, 140, 108, 87
 06_depressed
-bounds:696,80,107,86
+	bounds: 589, 78, 107, 86
 07
-bounds:2,278,108,87
+	bounds: 111, 229, 108, 87
 08
-bounds:590,75,104,86
+	bounds: 2, 52, 104, 86
 09
-bounds:830,581,108,94
+	bounds: 830, 584, 108, 94
 10
-bounds:886,677,108,94
+	bounds: 886, 680, 108, 94
 11
-bounds:381,369,110,86
+	bounds: 2, 362, 110, 86
 12
-bounds:885,492,110,87
+	bounds: 449, 460, 110, 87
 13
-bounds:451,457,108,88
+	bounds: 902, 403, 108, 88
 14
-bounds:2,480,108,86
-rotate:90
+	bounds: 2, 483, 108, 86
+	rotate: 90
 15
-bounds:915,773,108,95
-rotate:90
+	bounds: 915, 776, 108, 95
+	rotate: 90
 16
-bounds:2,367,107,88
+	bounds: 2, 272, 107, 88
 17
-bounds:805,2,102,82
-offsets:6,6,114,94
+	bounds: 324, 54, 104, 84
+	offsets: 5, 5, 114, 94
 18
-bounds:213,52,102,83
-offsets:6,6,114,95
+	bounds: 218, 53, 104, 85
+	offsets: 5, 5, 114, 95
 19
-bounds:2,53,105,83
-offsets:6,6,117,95
+	bounds: 453, 76, 107, 85
+	offsets: 5, 5, 117, 95
 20
-bounds:317,53,103,82
-offsets:6,6,115,94
+	bounds: 807, 2, 104, 83
+	offsets: 6, 5, 115, 94
 21
-bounds:109,50,102,85
-offsets:6,6,114,97
+	bounds: 112, 52, 104, 87
+	offsets: 5, 5, 114, 97
 22
-bounds:914,6,101,83
-offsets:6,6,113,95
+	bounds: 914, 8, 103, 84
+	offsets: 5, 5, 113, 95
 23
-bounds:453,72,103,86
-offsets:6,6,115,98
+	bounds: 807, 87, 105, 88
+	offsets: 5, 5, 115, 98
 24
-bounds:113,137,107,87
-offsets:6,6,119,99
+	bounds: 885, 493, 108, 89
+	offsets: 5, 5, 119, 99
 NP0083
-bounds:541,159,465,857
-offsets:69,0,629,1515
+	bounds: 541, 162, 465, 857
+	offsets: 69, 0, 629, 1515
 NP00834
-bounds:2,314,629,702
-offsets:0,813,629,1515
+	bounds: 2, 317, 629, 702
+	offsets: 0, 813, 629, 1515
 eyeclose
-bounds:805,86,107,86
+	bounds: 698, 83, 107, 86
 front hair
-bounds:917,883,133,100
-rotate:270
+	bounds: 917, 886, 133, 100
+	rotate: 270
 halo
-bounds:257,137,283,209
-rotate:180
+	bounds: 257, 140, 283, 209
+	rotate: 180

@@ -1,104 +1,34 @@
-
 CH0268_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+size:1024,1024
+filter:Linear,Linear
+scale:0.63
 00_default
-  rotate: false
-  xy: 507, 40
-  size: 124, 89
-  orig: 124, 89
-  offset: 0, 0
-  index: -1
+bounds:536,107,130,94
 02_respond
-  rotate: true
-  xy: 2, 428
-  size: 124, 91
-  orig: 124, 91
-  offset: 0, 0
-  index: -1
+bounds:798,268,130,96
 03_smile
-  rotate: true
-  xy: 2, 303
-  size: 124, 91
-  orig: 124, 91
-  offset: 0, 0
-  index: -1
+bounds:784,366,130,96
 04_embarassed
-  rotate: true
-  xy: 719, 599
-  size: 123, 91
-  orig: 123, 91
-  offset: 0, 0
-  index: -1
+bounds:798,170,129,96
 05_serious
-  rotate: true
-  xy: 731, 474
-  size: 123, 91
-  orig: 123, 91
-  offset: 0, 0
-  index: -1
+bounds:667,203,129,96
 06_depressed
-  rotate: true
-  xy: 104, 9
-  size: 123, 89
-  orig: 123, 89
-  offset: 0, 0
-  index: -1
+bounds:668,74,129,94
 07
-  rotate: false
-  xy: 698, 205
-  size: 123, 95
-  orig: 123, 95
-  offset: 0, 0
-  index: -1
+bounds:774,464,129,100
 08
-  rotate: false
-  xy: 2, 840
-  size: 129, 95
-  orig: 129, 95
-  offset: 0, 0
-  index: -1
+bounds:869,841,135,100
 09
-  rotate: false
-  xy: 756, 112
-  size: 118, 91
-  orig: 118, 91
-  offset: 0, 0
-  index: -1
+bounds:536,9,123,96
 10
-  rotate: false
-  xy: 693, 4
-  size: 123, 88
-  orig: 123, 88
-  offset: 0, 0
-  index: -1
+bounds:799,76,129,92
 CH0268
-  rotate: 180
-  xy: 2, 46
-  size: 539, 890
-  orig: 539, 1483
-  offset: 0, 593
-  index: -1
+bounds:2,2,566,939
+offsets:0,618,566,1557
 CH0268_c
-  rotate: false
-  xy: 467, 322
-  size: 354, 614
-  orig: 539, 1483
-  offset: 45, 2
-  index: -1
+bounds:498,296,372,645
+offsets:47,2,566,1557
 eyeclose
-  rotate: true
-  xy: 748, 352
-  size: 120, 89
-  orig: 120, 89
-  offset: 0, 0
-  index: -1
+bounds:408,69,126,94
 halo
-  rotate: false
-  xy: 540, 86
-  size: 214, 238
-  orig: 214, 238
-  offset: 0, 0
-  index: -1
+bounds:797,562,225,249
