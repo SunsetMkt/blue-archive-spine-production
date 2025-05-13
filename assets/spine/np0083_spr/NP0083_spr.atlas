@@ -1,160 +1,78 @@
-
 NP0083_spr.png
-size: 1024,1024
-format: RGBA8888
-filter: Linear,Linear
-repeat: none
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.59
 00_default
-  rotate: true
-  xy: 2, 304
-  size: 101, 80
-  orig: 101, 80
-  offset: 0, 0
-  index: -1
+	bounds: 914, 94, 108, 86
 01_normal
-  rotate: true
-  xy: 2, 304
-  size: 101, 80
-  orig: 101, 80
-  offset: 0, 0
-  index: -1
+	bounds: 914, 94, 108, 86
 02_respond
-  rotate: false
-  xy: 355, 195
-  size: 101, 82
-  orig: 101, 82
-  offset: 0, 0
-  index: -1
+	bounds: 381, 370, 108, 88
 03_smile
-  rotate: false
-  xy: 207, 67
-  size: 102, 80
-  orig: 102, 80
-  offset: 0, 0
-  index: -1
+	bounds: 112, 141, 109, 86
 04_embarassed
-  rotate: false
-  xy: 419, 278
-  size: 102, 83
-  orig: 102, 83
-  offset: 0, 0
-  index: -1
+	bounds: 773, 494, 110, 88
 05_serious
-  rotate: false
-  xy: 2, 111
-  size: 101, 81
-  orig: 101, 81
-  offset: 0, 0
-  index: -1
+	bounds: 2, 140, 108, 87
 06_depressed
-  rotate: false
-  xy: 311, 28
-  size: 100, 80
-  orig: 100, 80
-  offset: 0, 0
-  index: -1
+	bounds: 589, 78, 107, 86
 07
-  rotate: false
-  xy: 104, 66
-  size: 101, 81
-  orig: 101, 81
-  offset: 0, 0
-  index: -1
+	bounds: 111, 229, 108, 87
 08
-  rotate: true
-  xy: 413, 12
-  size: 97, 80
-  orig: 97, 80
-  offset: 0, 0
-  index: -1
+	bounds: 2, 52, 104, 86
 09
-  rotate: false
-  xy: 921, 293
-  size: 101, 88
-  orig: 101, 88
-  offset: 0, 0
-  index: -1
+	bounds: 830, 584, 108, 94
 10
-  rotate: false
-  xy: 754, 274
-  size: 101, 88
-  orig: 101, 88
-  offset: 0, 0
-  index: -1
+	bounds: 886, 680, 108, 94
 11
-  rotate: false
-  xy: 906, 129
-  size: 102, 80
-  orig: 102, 80
-  offset: 0, 0
-  index: -1
+	bounds: 2, 362, 110, 86
 12
-  rotate: false
-  xy: 862, 211
-  size: 102, 81
-  orig: 102, 81
-  offset: 0, 0
-  index: -1
+	bounds: 449, 460, 110, 87
 13
-  rotate: false
-  xy: 2, 194
-  size: 101, 82
-  orig: 101, 82
-  offset: 0, 0
-  index: -1
+	bounds: 902, 403, 108, 88
 14
-  rotate: false
-  xy: 916, 46
-  size: 101, 80
-  orig: 101, 80
-  offset: 0, 0
-  index: -1
+	bounds: 2, 483, 108, 86
+	rotate: 90
 15
-  rotate: false
-  xy: 859, 618
-  size: 101, 89
-  orig: 101, 89
-  offset: 0, 0
-  index: -1
+	bounds: 915, 776, 108, 95
+	rotate: 90
 16
-  rotate: false
-  xy: 342, 111
-  size: 100, 82
-  orig: 100, 82
-  offset: 0, 0
-  index: -1
+	bounds: 2, 272, 107, 88
+17
+	bounds: 324, 54, 104, 84
+	offsets: 5, 5, 114, 94
+18
+	bounds: 218, 53, 104, 85
+	offsets: 5, 5, 114, 95
+19
+	bounds: 453, 76, 107, 85
+	offsets: 5, 5, 117, 95
+20
+	bounds: 807, 2, 104, 83
+	offsets: 6, 5, 115, 94
+21
+	bounds: 112, 52, 104, 87
+	offsets: 5, 5, 114, 97
+22
+	bounds: 914, 8, 103, 84
+	offsets: 5, 5, 113, 95
+23
+	bounds: 807, 87, 105, 88
+	offsets: 5, 5, 115, 98
+24
+	bounds: 885, 493, 108, 89
+	offsets: 5, 5, 119, 99
 NP0083
-  rotate: false
-  xy: 504, 3
-  size: 433, 799
-  orig: 586, 1412
-  offset: 65, 0
-  index: -1
+	bounds: 541, 162, 465, 857
+	offsets: 69, 0, 629, 1515
 NP00834
-  rotate: false
-  xy: 2, 148
-  size: 586, 654
-  orig: 586, 1412
-  offset: 0, 758
-  index: -1
+	bounds: 2, 317, 629, 702
+	offsets: 0, 813, 629, 1515
 eyeclose
-  rotate: false
-  xy: 2, 29
-  size: 100, 80
-  orig: 100, 80
-  offset: 0, 0
-  index: -1
+	bounds: 698, 83, 107, 86
 front hair
-  rotate: false
-  xy: 865, 708
-  size: 124, 93
-  orig: 124, 93
-  offset: 0, 0
-  index: -1
+	bounds: 917, 886, 133, 100
+	rotate: 270
 halo
-  rotate: false
-  xy: 758, 364
-  size: 264, 195
-  orig: 264, 195
-  offset: 0, 0
-  index: -1
+	bounds: 257, 140, 283, 209
+	rotate: 180

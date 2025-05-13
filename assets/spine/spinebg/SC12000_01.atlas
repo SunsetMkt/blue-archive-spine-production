@@ -1,0 +1,722 @@
+SC12000_01.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+Ayane_Eye_Close
+	bounds: 52, 1742, 160, 34
+	offsets: 5, 7, 170, 47
+	rotate: 90
+Ayane_Mouth_Close
+	bounds: 999, 1890, 47, 12
+	offsets: 6, 5, 58, 22
+B_Burn
+	bounds: 874, 1466, 768, 436
+	rotate: 180
+Dust
+	bounds: 2, 829, 823, 215
+	rotate: 180
+Nonomi_Eye
+	bounds: 1282, 1860, 134, 42
+	offsets: 8, 8, 150, 58
+Nonomi_Mouth_Close
+	bounds: 210, 1888, 43, 14
+	offsets: 5, 5, 54, 23
+Serika_Bag
+	bounds: 1200, 515, 345, 379
+	offsets: 0, 1, 345, 382
+	rotate: 90
+Serika_Body
+	bounds: 170, 571, 258, 507
+	rotate: 90
+Serika_Eye
+	bounds: 151, 5, 159, 121
+	offsets: 4, 6, 168, 132
+Serika_Eye_Close
+	bounds: 1261, 2, 154, 109
+	offsets: 7, 5, 162, 117
+Serika_Eye_Highlight_R_01
+	bounds: 1883, 1869, 31, 33
+Serika_Eye_Highlight_R_02
+	bounds: 2020, 1834, 26, 26
+Serika_Eyebrow_L
+	bounds: 2, 1859, 43, 9
+	offsets: 5, 7, 54, 21
+	rotate: 90
+Serika_Eyebrow_R
+	bounds: 918, 1697, 56, 64
+	offsets: 4, 3, 62, 71
+Serika_Gun
+	bounds: 346, 213, 251, 654
+	offsets: 0, 1, 251, 655
+	rotate: 90
+Serika_Hair_B
+	bounds: 1420, 1859, 40, 24
+	offsets: 3, 3, 47, 33
+Serika_Hair_F2
+	bounds: 1537, 63, 127, 296
+	offsets: 2, 2, 131, 298
+	rotate: 90
+Serika_Hair_F3
+	bounds: 959, 220, 265, 273
+	offsets: 1, 0, 268, 274
+Serika_Hair_F_01
+	bounds: 1310, 1813, 78, 45
+	offsets: 6, 6, 88, 57
+Serika_Hairtail_L
+	bounds: 733, 957, 412, 1313
+	rotate: 90
+Serika_Hairtail_R
+	bounds: 2, 1409, 91, 252
+	offsets: 4, 6, 99, 262
+Serika_Hairtail_R_02
+	bounds: 2, 1011, 344, 1103
+	offsets: 0, 2, 344, 1105
+	rotate: 270
+Serika_Head_b
+	bounds: 1490, 344, 261, 291
+	offsets: 5, 0, 270, 296
+	rotate: 90
+Serika_Highlight_L_01
+	bounds: 1493, 1869, 33, 33
+Serika_Highlight_L_02
+	bounds: 1350, 1824, 26, 26
+Serika_Leg_L
+	bounds: 1894, 47, 152, 320
+	offsets: 2, 10, 159, 330
+Serika_Leg_R
+	bounds: 518, 908, 106, 332
+	offsets: 4, 13, 113, 345
+	rotate: 90
+Serika_Mouth
+	bounds: 108, 1845, 60, 57
+	offsets: 5, 5, 68, 65
+Serika_Mouth_Close
+	bounds: 1203, 1778, 47, 32
+	offsets: 4, 5, 56, 41
+Serika_Nose
+	bounds: 12, 1887, 13, 15
+	offsets: 4, 4, 19, 22
+Serika_Skirt_B
+	bounds: 554, 400, 433, 163
+	offsets: 4, 4, 437, 171
+Serika_Skirt_f
+	bounds: 1342, 806, 453, 249
+	offsets: 6, 6, 459, 259
+	rotate: 180
+Serika_ac_01
+	bounds: 1666, 1841, 63, 61
+	offsets: 5, 3, 73, 70
+Serika_ac_03
+	bounds: 1568, 1247, 80, 98
+	offsets: 3, 3, 86, 103
+Serika_arm_L
+	bounds: 2, 1008, 104, 154
+	offsets: 5, 4, 112, 164
+Serika_arm_R
+	bounds: 1442, 125, 276, 265
+	offsets: 1, 3, 281, 271
+	rotate: 180
+Serika_arm_R_02
+	bounds: 2, 97, 282, 206
+	offsets: 2, 5, 287, 215
+	rotate: 90
+Serika_bag_02
+	bounds: 605, 1132, 108, 322
+	offsets: 6, 1, 118, 326
+	rotate: 90
+Serika_bag_03
+	bounds: 1049, 9, 115, 101
+	offsets: 2, 1, 121, 107
+Serika_bag_04
+	bounds: 1761, 307, 133, 156
+	offsets: 4, 5, 141, 165
+Serika_ear_L_01
+	bounds: 15, 1268, 130, 45
+	offsets: 6, 5, 140, 55
+Serika_ear_L_02
+	bounds: 787, 30, 100, 89
+	offsets: 6, 6, 112, 102
+Serika_ear_L_03
+	bounds: 2, 55, 130, 112
+	offsets: 6, 5, 139, 122
+Serika_ear_R_01
+	bounds: 936, 204, 119, 158
+	offsets: 0, 0, 122, 160
+Serika_ear_R_02
+	bounds: 393, 10, 117, 110
+	offsets: 2, 0, 119, 110
+	rotate: 90
+Serika_ear_R_03
+	bounds: 1930, 730, 116, 161
+	offsets: 5, 4, 126, 165
+Serika_fing_01
+	bounds: 1782, 1859, 42, 43
+	offsets: 3, 2, 48, 49
+Serika_fing_02
+	bounds: 1284, 1814, 33, 44
+	offsets: 5, 6, 42, 52
+Serika_head
+	bounds: 1182, 297, 286, 284
+	offsets: 5, 5, 294, 292
+Serika_head_Scar
+	bounds: 1292, 48, 175, 126
+Serika_head_s
+	bounds: 576, 69, 128, 181
+	offsets: 6, 5, 140, 190
+Serika_hend_L
+	bounds: 1806, 1772, 83, 130
+	offsets: 2, 3, 89, 137
+Serika_hend_R_B
+	bounds: 213, 1204, 115, 132
+	offsets: 3, 6, 124, 142
+Serika_hend_R_F_01
+	bounds: 1948, 1368, 98, 67
+	offsets: 3, 5, 107, 77
+Serika_hend_R_F_02
+	bounds: 1460, 1409, 91, 56
+	offsets: 5, 5, 102, 66
+Serika_ribbon_01
+	bounds: 1656, 1699, 34, 71
+	offsets: 7, 5, 60, 78
+Serika_ribbon_02
+	bounds: 1998, 1736, 48, 69
+	offsets: 4, 4, 57, 78
+Serika_ribbon_03
+	bounds: 79, 1744, 36, 158
+	offsets: 6, 7, 43, 169
+Serika_ribbon_04
+	bounds: 1644, 1767, 48, 135
+	offsets: 6, 4, 57, 144
+Shiroko_Arm_L
+	bounds: 320, 154, 231, 286
+	offsets: 5, 6, 237, 295
+	rotate: 270
+Shiroko_Badge
+	bounds: 494, 31, 95, 140
+	offsets: 3, 4, 103, 146
+Shiroko_Badge_s
+	bounds: 1216, 20, 85, 139
+	offsets: 5, 5, 94, 147
+Shiroko_Badge_s_02
+	bounds: 1551, 1880, 14, 22
+	offsets: 4, 4, 24, 30
+Shiroko_Bag
+	bounds: 2, 253, 268, 343
+	offsets: 1, 0, 269, 343
+	rotate: 90
+Shiroko_Bag_Rope
+	bounds: 1645, 262, 283, 304
+	offsets: 3, 0, 286, 304
+Shiroko_Body
+	bounds: 1051, 904, 305, 419
+	offsets: 3, 1, 310, 420
+	rotate: 270
+Shiroko_Ear_L_B
+	bounds: 37, 671, 120, 158
+	offsets: 4, 2, 130, 166
+Shiroko_Ear_L_F
+	bounds: 468, 879, 122, 60
+	offsets: 0, 2, 122, 65
+Shiroko_Ear_L_M
+	bounds: 684, 38, 104, 116
+	offsets: 4, 3, 113, 123
+Shiroko_Ear_R_B
+	bounds: 1477, 24, 91, 153
+	offsets: 6, 2, 99, 157
+Shiroko_Ear_R_F
+	bounds: 538, 1084, 104, 80
+	offsets: 6, 2, 112, 87
+Shiroko_Ear_R_M
+	bounds: 1099, 1166, 100, 105
+	offsets: 4, 6, 110, 114
+Shiroko_Eye_Close
+	bounds: 904, 1214, 194, 60
+	offsets: 4, 5, 202, 70
+Shiroko_Eye_Highlight_L_01
+	bounds: 1528, 1880, 21, 22
+	offsets: 5, 5, 32, 32
+Shiroko_Eye_Highlight_L_02
+	bounds: 1065, 1888, 16, 14
+	offsets: 6, 6, 27, 26
+Shiroko_Eye_Highlight_R_01
+	bounds: 2020, 1881, 22, 21
+	offsets: 5, 6, 32, 33
+Shiroko_Eye_Highlight_R_02
+	bounds: 1047, 1888, 17, 14
+	offsets: 4, 6, 26, 26
+Shiroko_Eyebrows_Eye
+	bounds: 1830, 888, 216, 68
+	offsets: 5, 5, 225, 77
+Shiroko_Eyebrows_L
+	bounds: 874, 1873, 82, 29
+	offsets: 4, 2, 86, 34
+Shiroko_Eyebrows_R
+	bounds: 1418, 1871, 76, 31
+	offsets: 1, 0, 79, 35
+Shiroko_Gun
+	bounds: 2, 445, 239, 551
+	offsets: 0, 0, 239, 554
+	rotate: 270
+Shiroko_Hair_Aho_1
+	bounds: 652, 558, 61, 153
+	offsets: 5, 5, 70, 163
+Shiroko_Hair_B
+	bounds: 1679, 204, 367, 381
+	offsets: 3, 4, 371, 388
+Shiroko_Hair_B_02
+	bounds: 850, 874, 222, 230
+	offsets: 3, 3, 288, 265
+Shiroko_Hair_F_1
+	bounds: 1890, 1687, 143, 215
+	offsets: 4, 4, 150, 222
+Shiroko_Hair_R_B
+	bounds: 2, 1661, 56, 241
+	offsets: 6, 4, 67, 250
+Shiroko_Hair_S_L_1
+	bounds: 693, 16, 262, 359
+	offsets: 0, 1, 262, 362
+	rotate: 90
+Shiroko_Hair_S_L_2
+	bounds: 1502, 1236, 128, 228
+	offsets: 8, 3, 141, 234
+Shiroko_Hair_S_R_2
+	bounds: 1081, 108, 192, 423
+	offsets: 2, 1, 194, 424
+	rotate: 90
+Shiroko_Hair_S_UP
+	bounds: 23, 17, 181, 109
+	offsets: 6, 0, 189, 114
+Shiroko_Head
+	bounds: 325, 1090, 246, 291
+	offsets: 4, 6, 256, 302
+	rotate: 90
+Shiroko_Head_S
+	bounds: 1574, 641, 148, 192
+	offsets: 4, 3, 157, 233
+Shiroko_Head_Scar
+	bounds: 874, 1391, 165, 74
+Shiroko_Jacket_01
+	bounds: 1631, 1187, 195, 415
+	offsets: 5, 3, 204, 421
+	rotate: 90
+Shiroko_Jacket_02
+	bounds: 1645, 26, 131, 264
+	offsets: 4, 3, 135, 268
+	rotate: 270
+Shiroko_Jacket_B
+	bounds: 649, 695, 209, 674
+	offsets: 5, 0, 218, 674
+	rotate: 90
+Shiroko_Jacket_F
+	bounds: 1682, 559, 364, 325
+	offsets: 1, 5, 369, 337
+Shiroko_Leg_L
+	bounds: 874, 1758, 144, 412
+	rotate: 90
+Shiroko_Leg_R
+	bounds: 1085, 1341, 124, 439
+	offsets: 4, 0, 128, 439
+	rotate: 90
+Shiroko_Mouth_Close
+	bounds: 956, 1890, 43, 12
+	offsets: 4, 4, 52, 20
+Shiroko_Muffler_1
+	bounds: 180, 92, 272, 161
+	offsets: 0, 4, 278, 170
+Shiroko_Muffler_2
+	bounds: 1105, 77, 118, 236
+	offsets: 6, 5, 126, 242
+	rotate: 90
+Shiroko_Muffler_3
+	bounds: 710, 326, 90, 249
+	offsets: 6, 3, 100, 254
+	rotate: 90
+Shiroko_Muffler_3_F
+	bounds: 1294, 1274, 199, 70
+	offsets: 5, 5, 208, 80
+Shiroko_Muffler_4
+	bounds: 1801, 1125, 234, 96
+	offsets: 4, 5, 238, 105
+Shiroko_Neck
+	bounds: 1465, 1063, 119, 101
+	offsets: 5, 5, 127, 110
+Shiroko_Pin
+	bounds: 1775, 450, 79, 108
+	offsets: 4, 4, 88, 117
+Shiroko_Pin_s
+	bounds: 150, 724, 78, 105
+	offsets: 6, 4, 88, 114
+Shiroko_Skirt_B
+	bounds: 725, 493, 517, 215
+	offsets: 3, 7, 522, 226
+Shiroko_Skirt_F
+	bounds: 1620, 1355, 533, 426
+	offsets: 0, 0, 535, 430
+	rotate: 270
+Shiroko_hend_L_01
+	bounds: 35, 1354, 72, 85
+	offsets: 2, 5, 78, 94
+Shiroko_hend_L_02
+	bounds: 318, 937, 122, 78
+	offsets: 3, 4, 128, 85
+Shiroko_hend_L_03
+	bounds: 602, 1184, 153, 152
+	offsets: 6, 2, 164, 158
+Shiroko_mouth
+	bounds: 164, 1882, 44, 20
+	offsets: 6, 5, 57, 30
+Shiroko_nose
+	bounds: 58, 1888, 8, 14
+	offsets: 6, 6, 20, 24
+T_Softlight
+	bounds: 107, 1337, 766, 565
+
+SC12000_01_2.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+BG/Ayane_Ac_01
+	bounds: 1154, 1143, 117, 127
+	offsets: 1, 0, 123, 131
+BG/Ayane_Ac_01_B
+	bounds: 343, 1005, 79, 63
+	offsets: 6, 7, 86, 75
+BG/Ayane_Arm_LB_01
+	bounds: 1153, 1314, 80, 109
+	offsets: 7, 4, 90, 118
+BG/Ayane_Arm_LB_02
+	bounds: 1752, 1446, 60, 86
+	offsets: 6, 6, 69, 97
+BG/Ayane_Arm_L_01
+	bounds: 757, 1053, 162, 209
+	offsets: 2, 3, 166, 218
+BG/Ayane_Arm_L_02
+	bounds: 969, 1747, 93, 129
+	offsets: 5, 5, 102, 138
+BG/Ayane_Arm_R
+	bounds: 1218, 68, 87, 260
+	offsets: 6, 5, 98, 268
+	rotate: 90
+BG/Ayane_Badge
+	bounds: 1994, 1683, 52, 73
+	offsets: 6, 5, 62, 84
+BG/Ayane_Body
+	bounds: 1097, 496, 418, 728
+	rotate: 180
+BG/Ayane_Cheek
+	bounds: 2, 1840, 145, 36
+BG/Ayane_Ear_L
+	bounds: 67, 1285, 80, 45
+	offsets: 3, 5, 83, 55
+BG/Ayane_Ear_R
+	bounds: 1736, 1827, 88, 49
+	offsets: 0, 6, 92, 59
+BG/Ayane_Eye
+	bounds: 620, 1199, 171, 63
+	offsets: 4, 6, 179, 74
+BG/Ayane_Eye_Highlight_L_01
+	bounds: 1151, 1852, 22, 24
+	offsets: 4, 4, 31, 31
+BG/Ayane_Eye_Highlight_L_02
+	bounds: 1929, 1858, 22, 18
+	offsets: 3, 5, 29, 27
+BG/Ayane_Eye_Highlight_R_01
+	bounds: 1305, 1856, 21, 20
+	offsets: 4, 5, 31, 30
+BG/Ayane_Eye_Highlight_R_02
+	bounds: 1063, 1803, 21, 18
+	offsets: 3, 4, 28, 26
+BG/Ayane_Eyebrow_L
+	bounds: 1321, 1237, 76, 32
+	offsets: 2, 3, 78, 38
+BG/Ayane_Eyebrow_R
+	bounds: 1931, 1486, 61, 30
+	offsets: 3, 3, 69, 38
+BG/Ayane_Glasses_01
+	bounds: 1844, 1569, 200, 75
+	offsets: 3, 2, 206, 80
+BG/Ayane_Glasses_02
+	bounds: 1745, 1670, 31, 60
+	offsets: 6, 4, 42, 69
+BG/Ayane_Hair_F_1
+	bounds: 1050, 1811, 166, 65
+	offsets: 1, 3, 172, 74
+BG/Ayane_Hair_F_2
+	bounds: 969, 1442, 94, 161
+	offsets: 5, 5, 104, 169
+BG/Ayane_Hair_F_L_01
+	bounds: 1973, 1227, 73, 43
+	offsets: 5, 7, 85, 53
+BG/Ayane_Hair_F_L_1
+	bounds: 568, 884, 126, 143
+	offsets: 4, 6, 130, 154
+BG/Ayane_Hair_F_R_01
+	bounds: 627, 430, 91, 200
+	offsets: 5, 3, 97, 209
+	rotate: 90
+BG/Ayane_Hair_S_L_02
+	bounds: 899, 1147, 38, 115
+	offsets: 7, 4, 50, 122
+BG/Ayane_Hair_S_L_03
+	bounds: 1742, 834, 200, 265
+	offsets: 1, 0, 202, 270
+	rotate: 90
+BG/Ayane_Hair_S_L_04
+	bounds: 1960, 1492, 48, 22
+	offsets: 6, 6, 58, 33
+BG/Ayane_Hair_S_R_01
+	bounds: 10, 1029, 43, 156
+	offsets: 5, 6, 54, 162
+BG/Ayane_Hair_S_R_02
+	bounds: 878, 61, 58, 157
+	offsets: 7, 6, 70, 168
+BG/Ayane_Hair_S_R_03
+	bounds: 347, 73, 115, 247
+	offsets: 6, 5, 126, 257
+	rotate: 270
+BG/Ayane_Halo_01
+	bounds: 2, 1333, 250, 138
+	offsets: 8, 8, 266, 154
+	rotate: 90
+BG/Ayane_Halo_02
+	bounds: 2, 1585, 253, 141
+	offsets: 8, 8, 269, 157
+	rotate: 90
+BG/Ayane_Head
+	bounds: 1776, 1642, 219, 234
+	offsets: 6, 4, 230, 243
+BG/Ayane_Head_B
+	bounds: 351, 375, 278, 293
+	offsets: 3, 4, 284, 302
+BG/Ayane_Head_s
+	bounds: 1733, 1533, 91, 126
+	offsets: 5, 4, 101, 134
+BG/Ayane_Hend
+	bounds: 566, 195, 115, 135
+	offsets: 2, 3, 118, 141
+BG/Ayane_Ipad
+	bounds: 1307, 143, 184, 310
+	offsets: 1, 0, 187, 310
+	rotate: 90
+BG/Ayane_Jacket_L
+	bounds: 625, 430, 238, 437
+	offsets: 4, 2, 243, 442
+	rotate: 90
+BG/Ayane_Jacket_R_01
+	bounds: 1484, 49, 93, 204
+	offsets: 5, 5, 102, 212
+	rotate: 90
+BG/Ayane_Jacket_R_02
+	bounds: 426, 289, 180, 457
+	offsets: 4, 2, 184, 459
+	rotate: 90
+BG/Ayane_Leg_L
+	bounds: 1559, 281, 130, 308
+	offsets: 0, 6, 138, 318
+	rotate: 90
+BG/Ayane_Leg_R
+	bounds: 2, 194, 135, 290
+	offsets: 0, 20, 145, 310
+	rotate: 90
+BG/Ayane_Mouth
+	bounds: 1093, 1839, 57, 37
+	offsets: 3, 5, 64, 48
+BG/Ayane_Nose
+	bounds: 1073, 1863, 12, 13
+	offsets: 4, 6, 19, 25
+BG/Ayane_Pin
+	bounds: 1530, 512, 82, 94
+	offsets: 0, 3, 82, 97
+BG/Ayane_Pin_S
+	bounds: 1656, 1178, 74, 91
+BG/Ayane_UP_Arm_L
+	bounds: 1743, 165, 117, 303
+	offsets: 6, 2, 126, 306
+	rotate: 90
+BG/Ayane_finger_R
+	bounds: 1495, 1597, 35, 81
+	offsets: 4, 2, 42, 87
+BG/BG
+	bounds: 149, 1264, 818, 612
+BG/Buildings
+	bounds: 54, 670, 1098, 816
+	rotate: 180
+BG/Nonom_Arm_L_01
+	bounds: 1509, 556, 115, 228
+	offsets: 6, 3, 125, 231
+BG/Nonom_Arm_L_02
+	bounds: 1793, 943, 253, 305
+	offsets: 6, 3, 261, 312
+BG/Nonom_Arm_R_01
+	bounds: 1955, 1756, 85, 120
+	offsets: 6, 3, 95, 129
+BG/Nonom_Arm_R_02
+	bounds: 826, 945, 103, 150
+	offsets: 5, 4, 113, 158
+BG/Nonom_Arm_R_02_B
+	bounds: 1088, 1499, 42, 27
+	offsets: 3, 4, 50, 37
+BG/Nonom_Arm_R_03
+	bounds: 1542, 1138, 123, 129
+	offsets: 6, 6, 135, 140
+BG/Nonom_Badge_01
+	bounds: 1599, 2, 178, 196
+	offsets: 4, 5, 184, 206
+	rotate: 90
+BG/Nonom_Badge_01_S
+	bounds: 1463, 1380, 59, 77
+	offsets: 3, 7, 66, 88
+BG/Nonom_Badge_02
+	bounds: 541, 954, 81, 73
+	offsets: 4, 5, 87, 83
+BG/Nonom_Badge_02_S
+	bounds: 1718, 4, 175, 182
+	offsets: 6, 4, 184, 190
+	rotate: 270
+BG/Nonom_Body
+	bounds: 1485, 1258, 311, 618
+BG/Nonom_Cardigan_B
+	bounds: 1610, 372, 456, 436
+	offsets: 3, 2, 461, 440
+	rotate: 90
+BG/Nonom_Cardigan_L
+	bounds: 268, 1016, 246, 534
+	offsets: 5, 0, 251, 536
+	rotate: 90
+BG/Nonom_Cardigan_L_B
+	bounds: 1207, 1809, 111, 67
+	offsets: 6, 5, 122, 78
+BG/Nonom_Cardigan_R
+	bounds: 902, 73, 132, 411
+	offsets: 3, 3, 135, 414
+	rotate: 270
+BG/Nonom_Ear_L
+	bounds: 1437, 1827, 42, 49
+	offsets: 5, 5, 53, 58
+BG/Nonom_Ear_R
+	bounds: 969, 1700, 40, 56
+	offsets: 7, 5, 51, 66
+BG/Nonom_Gun
+	bounds: 986, 1235, 641, 507
+	rotate: 90
+BG/Nonom_Gun_Scar
+	bounds: 2, 473, 347, 195
+	offsets: 8, 8, 363, 211
+BG/Nonom_Hair_B
+	bounds: 1397, 781, 649, 798
+BG/Nonom_Hair_F_1
+	bounds: 1497, 83, 151, 409
+	offsets: 0, 0, 154, 410
+	rotate: 90
+BG/Nonom_Hair_F_2
+	bounds: 1901, 1473, 95, 143
+	offsets: 5, 6, 104, 156
+	rotate: 90
+BG/Nonom_Hair_F_2_S
+	bounds: 2, 1184, 68, 147
+	offsets: 6, 5, 78, 158
+BG/Nonom_Hair_F_3
+	bounds: 1520, 1255, 51, 153
+	offsets: 5, 5, 62, 160
+BG/Nonom_Hair_F_4a
+	bounds: 22, 53, 143, 348
+	offsets: 3, 4, 150, 353
+	rotate: 270
+BG/Nonom_Hair_F_4d
+	bounds: 286, 1011, 132, 291
+	offsets: 0, 34, 137, 326
+	rotate: 90
+BG/Nonom_Hair_F_5
+	bounds: 1867, 256, 122, 168
+	offsets: 4, 5, 129, 179
+	rotate: 90
+BG/Nonom_Hair_F_5_S
+	bounds: 1960, 968, 86, 154
+	offsets: 6, 5, 97, 165
+BG/Nonom_Hair_F_6
+	bounds: 1004, 536, 112, 132
+	offsets: 0, 3, 114, 135
+BG/Nonom_Hair_F_6_S
+	bounds: 1902, 62, 98, 122
+	offsets: 5, 5, 106, 131
+BG/Nonom_Head
+	bounds: 1105, 174, 190, 226
+	offsets: 6, 5, 202, 238
+	rotate: 90
+BG/Nonom_Head_B
+	bounds: 662, 808, 214, 211
+	offsets: 5, 5, 223, 220
+BG/Nonom_Head_Scar
+	bounds: 873, 620, 126, 48
+	offsets: 0, 1, 126, 50
+BG/Nonom_Hend_R_01
+	bounds: 1682, 1264, 84, 85
+	offsets: 3, 5, 91, 92
+BG/Nonom_collar_L
+	bounds: 969, 1383, 44, 68
+	offsets: 6, 6, 54, 78
+BG/Nonom_collar_R
+	bounds: 1043, 1624, 33, 46
+	offsets: 2, 4, 40, 53
+BG/Nonom_fing_R_01
+	bounds: 1314, 1824, 61, 52
+	offsets: 4, 5, 70, 62
+BG/Nonom_fing_R_02
+	bounds: 1458, 1339, 50, 47
+	offsets: 6, 4, 60, 54
+BG/Nonomi_Cheek
+	bounds: 258, 305, 126, 38
+	offsets: 2, 0, 128, 38
+BG/Nonomi_Eye
+	bounds: 1746, 824, 139, 49
+	offsets: 6, 6, 150, 58
+BG/Nonomi_Eyebrow_L
+	bounds: 1175, 1297, 53, 34
+	offsets: 4, 3, 58, 39
+BG/Nonomi_Eyebrow_R
+	bounds: 1977, 1464, 56, 22
+	offsets: 2, 5, 62, 30
+BG/Nonomi_Halo_01
+	bounds: 576, 95, 309, 244
+	offsets: 0, 2, 309, 246
+BG/Nonomi_Halo_02
+	bounds: 265, 124, 312, 249
+BG/Nonomi_Mouth
+	bounds: 1978, 1641, 51, 45
+	offsets: 3, 2, 58, 53
+BG/Nonomi_Nose
+	bounds: 1036, 1860, 11, 16
+	offsets: 5, 3, 19, 22
+BG/Nonomi_Ribbon
+	bounds: 1061, 1498, 48, 55
+	offsets: 4, 5, 55, 63
+BG/Nonomi_hair_01
+	bounds: 741, 1167, 61, 95
+	offsets: 4, 9, 71, 110
+BG/Nonomi_hair_02
+	bounds: 1562, 1113, 91, 27
+	offsets: 6, 6, 102, 38
+BG/Nonomi_hair_03
+	bounds: 1992, 893, 54, 148
+	offsets: 4, 4, 63, 156
+BG/Nonomi_hair_04
+	bounds: 1040, 483, 70, 62
+	offsets: 6, 4, 80, 71
+BG/Nonomi_hair_05
+	bounds: 247, 1183, 70, 79
+	offsets: 5, 6, 79, 90
+BG/Serika_Halo_01
+	bounds: 733, 215, 370, 160
+	offsets: 6, 0, 382, 160
+	rotate: 180
+BG/Serika_Halo_02
+	bounds: 2, 309, 379, 162
+	offsets: 2, 0, 385, 162
+BG/Shiroko_Halo_01
+	bounds: 1237, 306, 415, 215
+	offsets: 0, 0, 415, 217
+	rotate: 180
+BG/Shiroko_Halo_02
+	bounds: 907, 318, 413, 218
+	offsets: 3, 0, 418, 219
+	rotate: 180

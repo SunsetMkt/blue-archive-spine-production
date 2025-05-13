@@ -1,37 +1,44 @@
 midori_spr.png
-size:1024,1024
-filter:Linear,Linear
-scale:0.5
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.57
 00_eyeclose_00
-bounds:268,844,99,74
+	bounds: 744, 843, 112, 84
 02_respond
-bounds:799,897,99,76
-rotate:90
+	bounds: 650, 930, 112, 86
 03_smile
-bounds:283,771,97,71
+	bounds: 873, 732, 110, 81
 04_embarrass
-bounds:590,704,80,72
+	bounds: 79, 491, 91, 82
 05_serious
-bounds:734,672,97,64
+	bounds: 501, 367, 111, 72
+	rotate: 90
 06_depressed
-bounds:899,737,97,66
+	bounds: 2, 489, 111, 75
+	rotate: 90
 07
-bounds:799,737,98,66
+	bounds: 2, 602, 111, 75
+	rotate: 90
 08
-bounds:672,715,92,61
+	bounds: 430, 384, 105, 69
+	rotate: 90
 09
-bounds:877,805,91,77
-rotate:90
+	bounds: 859, 815, 103, 87
 10
-bounds:252,920,98,76
+	bounds: 764, 929, 111, 87
 Hair_Cover_01
-bounds:2,967,81,29
-offsets:1,1,83,31
+	bounds: 963, 924, 92, 33
+	offsets: 1, 1, 94, 35
+	rotate: 90
 default
-bounds:877,897,99,74
-rotate:90
+	bounds: 877, 904, 112, 84
+	rotate: 90
 halo
-bounds:588,778,218,209
-rotate:90
+	bounds: 2, 215, 248, 238
 midori
-bounds:2,10,792,986
+	bounds: 2, 426, 902, 590
+	offsets: 0, 534, 902, 1124
+midori_2
+	bounds: 413, 2, 668, 555
+	offsets: 2, 0, 902, 1124
+	rotate: 270
