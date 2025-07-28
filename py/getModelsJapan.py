@@ -11,7 +11,7 @@ option = {
     "skipExistingAssets": True
 }
 
-ba_api = "https://yostar-serverinfo.bluearchiveyostar.com/r77_54_whvezlrs0633nggajegb.json"
+ba_api = "https://yostar-serverinfo.bluearchiveyostar.com/r82_59_hhfkpxf94r4f9sgct1y9.json"
 
 ba_api2 = "https://prod-noticeindex.bluearchiveyostar.com/prod/index.json"
 
@@ -33,6 +33,7 @@ def getBaseResourceURL():
     print(data)
     return data["ConnectionGroups"][0]['OverrideConnectionGroups'][-1]['AddressablesCatalogUrlRoot']
     # https://prod-clientpatch.bluearchiveyostar.com/r47_1_22_46zlzvd7mur326newgu8_2 + /Android/bundleDownloadInfo.json
+    # new /Android/bundleDownloadInfo.json => /Android_PatchPack/BundlePackingInfo.json
 
 
 def getModelsList():
@@ -41,12 +42,12 @@ def getModelsList():
     '''
     data = []
     base_url = getBaseResourceURL()
-    res_url = base_url + '/Android/bundleDownloadInfo.json'
+    res_url = base_url + '/Android_PatchPack/BundlePackingInfo.json'
     res = requests.get(res_url).json()
     for asset in res["BundleFiles"]:
         if "spinecharacters-" in asset["Name"] or "spinelobbies-" in asset["Name"] or "spinebackground-" in asset["Name"]:
             # append url and path
-            data.append(base_url + '/Android/' + asset["Name"])
+            data.append(base_url + '/Android_PatchPack/' + asset["Name"])
     return data
 
 
@@ -121,7 +122,7 @@ if __name__ == "__main__":
         os.makedirs("./data")
 
     # There are several ResourceURL to a version
-    ver = getBaseResourceURL() + "/Android/bundleDownloadInfo.json"
+    ver = getBaseResourceURL() + "/Android_PatchPack/BundlePackingInfo.json"
     print(ver)
     if (os.path.isfile("./data/version.txt")):
         with open("./data/version.txt", "r") as f:
